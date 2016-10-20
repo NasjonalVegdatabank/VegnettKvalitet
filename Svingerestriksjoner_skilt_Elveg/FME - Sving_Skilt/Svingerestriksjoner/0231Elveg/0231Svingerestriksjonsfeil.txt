@@ -1,6 +1,0 @@
-FEIL: 6659715.800   278851.100       Oppmerking uten restriksjon		Rettet	Svingeres. Skilt	
-FEIL: 6659735.200   278854.600       Oppmerking uten restriksjon		Rettet 	Svingeres. Heltrukka linje
-FEIL: 6656192.400   277777.600       Oppmerking uten restriksjon			Ingen svingeres.
-FEIL: 6659145.400   278752.600       Restriksjon uten skilt eller oppmerking	Rettet	Fjernet svingeres.
-FEIL: 6657893.765   279237.361       Skilt uten restriksjon				Svingeres. Skilt. Ingen vei å referere til.	
-FEIL: 6659074.797   278765.856       Skilt uten restriksjon			Rettet	Svingeres. Skilt

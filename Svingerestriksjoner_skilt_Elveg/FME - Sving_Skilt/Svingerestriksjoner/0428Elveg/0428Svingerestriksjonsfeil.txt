@@ -1,8 +1,0 @@
-FEIL: 6803990.800   351311.720       Oppmerking uten restriksjon, stiplet midtstripe, ok
-FEIL: 6796326.000   355725.500       Oppmerking uten restriksjon, res ok
-FEIL: 6796238.400   355674.200       Oppmerking uten restriksjon, res ok
-FEIL: 6804393.100   351432.900       Oppmerking uten restriksjon, stiplet midstripe, ok
-FEIL: 6803826.100   351262.700       Oppmerking uten restriksjon, stiplet midstripe, ok
-FEIL: 6804074.500   351337.300       Oppmerking uten restriksjon, stiplet midtstripe, ok
-FEIL: 6801158.300   353308.700       Oppmerking uten restriksjon, ok, rundkjøring
-FEIL: 6796018.500   355170.700       Oppmerking uten restriksjon, res ok

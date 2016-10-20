@@ -1,4 +1,0 @@
-FEIL: 6734652.910   218679.700       Restriksjon uten skilt eller oppmerking		Dobbel svingeres og innkj. forb. Begge må stå, ikke tillatt usving.
-FEIL: 6755088.910   204166.100       Restriksjon uten skilt eller oppmerking		Dobbel svingeres og innkj. forb. Begge må stå, ikke tillatt usving.
-FEIL: 6755256.800   204077.800       Restriksjon uten skilt eller oppmerking		Dobbel svingeres og innkj. forb. Begge må stå, ikke tillatt usving.
-FEIL: 6755819.910   203513.600       Restriksjon uten skilt eller oppmerking		Dobbel svingeres og innkj. forb. Begge må stå, ikke tillatt usving.

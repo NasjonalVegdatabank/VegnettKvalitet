@@ -1,2 +1,0 @@
-FEIL: 6641646.300   257690.000       Oppmerking uten restriksjon		Ingen svingeres. OBS: Vei går feil i forhold til ortofoto.
-FEIL: 6640607.900   257800.700       Oppmerking uten restriksjon		Ingen svingeres.

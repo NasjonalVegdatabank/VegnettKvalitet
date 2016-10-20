@@ -1,5 +1,0 @@
-FEIL: 6624759.400   257710.800       Oppmerking uten restriksjon		Ingen svingeres. Brudd i heltrukken linje
-FEIL: 6624192.700   256171.600       Oppmerking uten restriksjon		Ingen svingeres. Brudd i heltrukken linje
-FEIL: 6622417.300   254380.900       Oppmerking uten restriksjon		Ingen svingeres. Brudd i heltrukken linje
-FEIL: 6622407.600   255590.300       Oppmerking uten restriksjon		Ingen svingeres. Brudd i heltrukken linje	
-FEIL: 6624511.403   258293.185       Skilt uten restriksjon		Rettet	Svingeres. 

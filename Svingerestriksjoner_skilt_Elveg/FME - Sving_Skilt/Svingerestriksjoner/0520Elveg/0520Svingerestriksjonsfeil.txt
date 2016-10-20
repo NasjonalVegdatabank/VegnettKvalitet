@@ -1,6 +1,0 @@
-FEIL: 6830596.300   242539.800       Oppmerking uten restriksjon			Ingen svingeres. Stipla linje.
-FEIL: 6817117.700   245236.100       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
-FEIL: 6830496.500   242603.300       Oppmerking uten restriksjon			Ingen svingeres. Stipla linje.
-FEIL: 6818015.500   245291.300       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
-FEIL: 6830649.500   242507.200       Oppmerking uten restriksjon			Ingen svingeres. Stipla linje	
-FEIL: 6823809.800   243534.000       Restriksjon uten skilt eller oppmerking		Må ligge inne svingeres. + innkj. forb.

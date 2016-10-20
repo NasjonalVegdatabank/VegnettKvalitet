@@ -1,3 +1,0 @@
-FEIL: 6901815.300   271855.800       Oppmerking uten restriksjon, stiplet midtstripe og ingen skilt, ok, ettersom innkjøring ikke bare går til rasteplass men også til veger innover
-FEIL: 6895802.500   271083.600       Oppmerking uten restriksjon, stiplet midtstripe, ok
-FEIL: 6901947.100   271908.500       Oppmerking uten restriksjon, stiplet midtstripe og ingen skilt, ok, ettersom innkjøring ikke bare går til rasteplass men også til veger innover

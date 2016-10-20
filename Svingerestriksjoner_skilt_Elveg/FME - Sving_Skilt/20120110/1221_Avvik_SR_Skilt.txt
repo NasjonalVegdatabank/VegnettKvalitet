@@ -1,4 +1,0 @@
-FEIL: 6665070.225   -32240.221       Skilt uten restriksjon
-FEIL: 6665068.553   -32237.701       Skilt uten restriksjon
-FEIL: 6665240.382   -32247.436       Skilt uten restriksjon
-FEIL: 6665178.821   -32282.142       Skilt uten restriksjon

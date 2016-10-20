@@ -1,9 +1,0 @@
-FEIL: 6676916.400   307599.600       Oppmerking uten restriksjon
-FEIL: 6673390.100   300700.300       Oppmerking uten restriksjon
-FEIL: 6671907.000   298379.500       Oppmerking uten restriksjon
-FEIL: 6671907.000   298379.500       Oppmerking uten restriksjon
-FEIL: 6676455.910   306696.600       Oppmerking uten restriksjon
-FEIL: 6677003.700   307694.700       Oppmerking uten restriksjon
-FEIL: 6676373.200   306467.000       Oppmerking uten restriksjon
-FEIL: 6680208.200   296906.700       Oppmerking uten restriksjon
-FEIL: 6673873.200   301119.600       Oppmerking uten restriksjon

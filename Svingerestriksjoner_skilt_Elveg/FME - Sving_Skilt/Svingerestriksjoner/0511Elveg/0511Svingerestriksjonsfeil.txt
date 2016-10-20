@@ -1,8 +1,0 @@
-FEIL: 6897577.700   195371.500       Oppmerking uten restriksjon, stiplet midtstripe, ok, ingen res.
-FEIL: 6893975.300   193648.600       Oppmerking uten restriksjon, stiplet midtstripe, ok, ingen res.
-FEIL: 6894826.100   193152.400       Oppmerking uten restriksjon, stiplet midtstripe, ok, ingen res.
-FEIL: 6877728.100   203841.000       Restriksjon uten skilt eller oppmerking, kunne vært satt opp et skilt her
-FEIL: 6885785.400   198866.900       Restriksjon uten skilt eller oppmerking, oppmerking ok
-FEIL: 6886001.000   198776.600       Restriksjon uten skilt eller oppmerking, oppmerking ok
-FEIL: 6886131.800   198679.700       Restriksjon uten skilt eller oppmerking, oppmerking ok
-FEIL: 6910927.500   216892.800       Restriksjon uten skilt eller oppmerking, oppmerking ok

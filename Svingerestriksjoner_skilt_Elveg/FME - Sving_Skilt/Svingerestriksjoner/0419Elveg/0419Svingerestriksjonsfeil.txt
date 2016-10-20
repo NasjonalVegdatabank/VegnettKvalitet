@@ -1,6 +1,0 @@
-FEIL: 6680374.800   313731.000       Oppmerking uten restriksjon, kjøremønster ok, ingen res.
-FEIL: 6678571.351   310566.020       Skilt uten restriksjon, utkjørsel fra privat parkeringsplass som ikke finnes i veged, får derfor ikke lagt inn res.
-FEIL: 6681249.167   325169.141       Skilt uten restriksjon, envegskjørt rasteplass, innkjøring forbudt er innlagt
-FEIL: 6678548.449   310538.220       Skilt uten restriksjon, utkjørsel fra privat parkeringsplass som ikke finnes i veged, får derfor ikke lagt inn res.
-FEIL: 6678559.263   310551.349       Skilt uten restriksjon, utkjørsel fra privat parkeringsplass som ikke finnes i veged, får derfor ikke lagt inn res.
-FEIL: 6681251.868   325148.318       Skilt uten restriksjon, envegskjørt rasteplass, innkjøring forbudt er innlagt
