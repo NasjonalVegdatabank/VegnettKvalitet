@@ -1,0 +1,19 @@
+FEIL: 6678089.910   332301.100       Oppmerking uten restriksjon, restriksjon? kan ikke se hverken skilt eller oppmerking
+FEIL: 6681681.700   358741.800       Oppmerking uten restriksjon, ikke fått sjekket nøyaktig, varsel pga rv 200 og fv 202 samsvarer på en strekning? (med fv202 som sekundærveg)
+FEIL: 6685612.090   336275.800       Restriksjon uten skilt eller oppmerking, ok, skilt er tilstede
+FEIL: 6685971.590   336191.200       Restriksjon uten skilt eller oppmerking, ok, skilt er tilstede
+FEIL: 6690090.910   335332.800       Restriksjon uten skilt eller oppmerking, ok, skilt er tilstede
+FEIL: 6684841.700   336506.800       Restriksjon uten skilt eller oppmerking, ok, skilt er tilstede
+FEIL: 6677640.200   332586.000       Restriksjon uten skilt eller oppmerking, ok, rundkjøring, behøver ikke ytterliger skilting
+FEIL: 6685712.857   336253.448       Skilt uten restriksjon, ok
+FEIL: 6690312.047   335299.894       Skilt uten restriksjon, ok
+FEIL: 6690161.775   335329.098       Skilt uten restriksjon, ok, restriksjon tilstede 
+FEIL: 6685710.813   336249.771       Skilt uten restriksjon, ok
+FEIL: 6685857.172   336215.409       Skilt uten restriksjon, ok, res på plass
+FEIL: 6690322.850   335331.035       Skilt uten restriksjon, ok
+FEIL: 6685816.910   336224.100       Skilt uten restriksjon, ok?, finner ikke gjeldende veikryss i veged
+FEIL: 6690184.665   335323.912       Skilt uten restriksjon, ok
+FEIL: 6690210.676   335322.889       Skilt uten restriksjon, ok
+FEIL: 6685861.528   336211.812       Skilt uten restriksjon, ok, res lagt inn
+FEIL: 6684707.464   336538.148       Skilt uten restriksjon, ok
+FEIL: 6685738.399   336243.127       Skilt uten restriksjon, ok?, finner ikke gjeldende veikryss i veged

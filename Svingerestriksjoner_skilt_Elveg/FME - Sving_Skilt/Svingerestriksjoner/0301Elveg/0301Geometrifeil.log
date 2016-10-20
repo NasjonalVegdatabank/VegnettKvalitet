@@ -1,0 +1,19 @@
+FEIL: 6647903.610   262985.070       ManglendeNode Kjørefelt X VegSenterlinje
+FEIL: 6643292.966   264044.897       ManglendeNode Svingekonnekteringslenke X Kjørebane
+FEIL: 6654413.700   271201.175       ManglendeNode Svingekonnekteringslenke X Kjørebane
+FEIL: 6649119.388   265394.112       ManglendeNode Kjørebane X Svingekonnekteringslenke
+FEIL: 6649463.354   263799.685       ManglendeNode Kjørefelt X Kjørebane
+FEIL: 6650170.793   266229.417       ManglendeNode Kjørebane X Svingekonnekteringslenke
+FEIL: 6643512.600   266989.200       GeometriGap VegSenterlinje X GangSykkelVegSenterlinje
+FEIL: 6654411.011   271200.514       ManglendeNode Svingekonnekteringslenke
+FEIL: 6649338.300   260833.900       ManglendeNode VegSenterlinje
+FEIL: 6645836.514   263424.973       ManglendeNode Kjørebane X Kjørefelt
+FEIL: 6650972.500   265685.100       GeometriGap VegSenterlinje
+FEIL: 6643511.300   267003.900       GeometriGap VegSenterlinje X GangSykkelVegSenterlinje
+FEIL: 6650929.600   266396.500       FeilVegreferanse Kjørebane
+FEIL: 6645832.655   263427.054       ManglendeNode Kjørebane X Kjørefelt
+FEIL: 6654410.617   271198.515       ManglendeNode Svingekonnekteringslenke X Kjørebane
+FEIL: 6650773.800   267103.500       GeometriGap VegSenterlinje
+FEIL: 6649973.750   264333.680       GeometriGap VegSenterlinje
+FEIL: 6641296.800   266790.350       ManglendeNode VegSenterlinje
+FEIL: 6650169.497   266230.864       ManglendeNode Kjørebane X Svingekonnekteringslenke

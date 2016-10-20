@@ -1,0 +1,7 @@
+FEIL: 6949977.100   257129.200       Oppmerking uten restriksjon, stiplet midtstripe, ok, ingen res.
+FEIL: 6912931.900   280365.000       Oppmerking uten restriksjon, stiplet midtstripe, ok, ingen res.
+FEIL: 6950057.000   257111.600       Oppmerking uten restriksjon, stiplet midtstripe, ok, ingen res.
+FEIL: 6912949.800   280615.600       Oppmerking uten restriksjon, stiplet midtstripe, ok, ingen res.
+FEIL: 6911730.900   280813.300       Oppmerking uten restriksjon, vegbilder viser vegarbeid, usikkert angående behov for res.
+FEIL: 6950082.500   257103.600       Oppmerking uten restriksjon, stiplet midtstripe, ok, ingen res.
+FEIL: 6922278.641   272661.912       Skilt uten restriksjon, envegskjørt rasteplass, innkjøring forbudt innlagt

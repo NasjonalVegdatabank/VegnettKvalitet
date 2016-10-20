@@ -1,0 +1,47 @@
+FEIL: 6652037.900   268476.300       Oppmerking uten restriksjon, ingen res. ok
+FEIL: 6652262.800   262618.800       Restriksjon uten skilt eller oppmerking, finner ikke vegbilder
+FEIL: 6649339.500   262305.000       Restriksjon uten skilt eller oppmerking, skilting og oppmerking ok (dobbel midtstripe og innkjøring forbudt)
+FEIL: 6651028.900   262929.000       Restriksjon uten skilt eller oppmerking, finner ikke vegbilder
+FEIL: 6648862.600   266825.400       Restriksjon uten skilt eller oppmerking, finner ikke vegbilder
+FEIL: 6650736.100   261077.100       Restriksjon uten skilt eller oppmerking, skilt tilstede, ok
+FEIL: 6651998.900   259457.200       Restriksjon uten skilt eller oppmerking, skilt tilstede, ok
+FEIL: 6654063.100   256381.800       Restriksjon uten skilt eller oppmerking, veg stengt av med bom, skilt unødig
+FEIL: 6643255.948   264026.607       Skilt uten restriksjon, ingen ytterligere res. ok
+FEIL: 6645589.562   263559.174       Skilt uten restriksjon. ingen res. ok
+FEIL: 6655643.816   272537.862       Skilt uten restriksjon, res. lagt inn
+FEIL: 6654029.374   270266.081       Skilt uten restriksjon, finner ikke rapportert feil i veged
+FEIL: 6655638.006   272527.494       Skilt uten restriksjon, res. lagt inn
+FEIL: 6649932.577   261677.672       Skilt uten restriksjon, finner ikke rapportert feil i veged
+FEIL: 6649899.297   261655.338       Skilt uten restriksjon, finner ikke rapportert feil i veged
+FEIL: 6649680.585   261509.605       Skilt uten restriksjon, finner ikke rapportert feil i veged
+FEIL: 6641953.248   263488.551       Skilt uten restriksjon, ingen res. ok
+FEIL: 6653738.912   263783.048       Skilt uten restriksjon, midtrabatt, ingen res. ok
+FEIL: 6649942.220   261787.848       Skilt uten restriksjon, finner ikke rapportert feil i veged
+FEIL: 6649691.201   261517.008       Skilt uten restriksjon, lyskryss og kjøremønster ok, ingen res.
+FEIL: 6649615.792   261446.204       Skilt uten restriksjon, ingen ytterligere res. behøves, ok
+FEIL: 6644125.539   263958.922       Skilt uten restriksjon, lyskryss med stiplet midtstripe, ok, ingen res.
+FEIL: 6654083.132   270424.910       Skilt uten restriksjon, ingen res. ok
+FEIL: 6652068.743   264451.130       Skilt uten restriksjon, finner ikke vegbilder
+FEIL: 6654082.434   270577.018       Skilt uten restriksjon, ingen ytterligere res. behøves, ok
+FEIL: 6654029.374   270266.081       Skilt uten restriksjon, lyskryss og kjøremønster ok, ingen res.
+FEIL: 6651762.575   258060.723       Skilt uten restriksjon, midtrabatt, ingen res. ok
+FEIL: 6650947.562   265412.550       Skilt uten restriksjon, finner ikke vegbilder
+FEIL: 6649883.731   261644.435       Skilt uten restriksjon, finner ikke rapportert feil i veged
+FEIL: 6649680.585   261509.605       Skilt uten restriksjon, finner ikke rapportert feil i veged
+FEIL: 6649458.163   262583.125       Skilt uten restriksjon, stiplet midtstripe og lyskryss, ok, ingen res.
+FEIL: 6649673.546   262448.456       Skilt uten restriksjon, res. allerede ved forbudt kjøreretning i NVDB, ok
+FEIL: 6640786.083   263503.116       Skilt uten restriksjon, midtrabatt, skilting og oppmerking ok, ingen ytterligere res. behøves, ok
+FEIL: 6653352.319   269250.338       Skilt uten restriksjon, ingen res. ok
+FEIL: 6651621.848   257873.808       Skilt uten restriksjon, midtrabatt, ingen res. ok
+FEIL: 6649942.220   261787.848       Skilt uten restriksjon, stiplet midtstripe og lyskryss, ok, ingen res.
+FEIL: 6649608.610   261446.295       Skilt uten restriksjon, ingen ytterligere res. behøves, ok
+FEIL: 6643535.137   266643.326       Skilt uten restriksjon, finner ikke rapportert feil i veged
+FEIL: 6654082.552   270410.925       Skilt uten restriksjon, ingen res. ok
+FEIL: 6649899.297   261655.338       Skilt uten restriksjon, finner ikke rapportert feil i veged
+FEIL: 6647218.939   265433.594       Skilt uten restriksjon, ingen res. ok
+FEIL: 6647212.121   265426.055       Skilt uten restriksjon, ingen res. ok
+FEIL: 6643949.094   263987.803       Skilt uten restriksjon, lyskryss, ingen res.
+FEIL: 6645599.636   263554.691       Skilt uten restriksjon, stiplet midtstripe og lyskryss, ok, ingen res.
+FEIL: 6646131.713   263282.876       Skilt uten restriksjon, behøver ingen ytterligere restriksjon, ok
+FEIL: 6646133.608   263282.238       Skilt uten restriksjon, behøver ingen ytterligere restriksjon, ok
+FEIL: 6647068.350   262821.527       Skilt uten restriksjon, behøver ingen ytterligere restriksjon, ok

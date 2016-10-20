@@ -1,0 +1,4 @@
+FEIL: 6770871.300   193372.100       Oppmerking uten restriksjon		Vegbildene avviker fra ortofoto, men etter hva jeg kan se er det ingen svingeres.
+FEIL: 6770819.200   193425.200       Oppmerking uten restriksjon	Rettet	Svingeres. 2 stk.
+FEIL: 6774916.968   183667.568       Skilt uten restriksjon		OBS	Svingeres. Ingen vei å referere til.
+FEIL: 6774925.231   183596.563       Skilt uten restriksjon		OBS	Svingeres. Ingen vei å referere til.

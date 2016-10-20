@@ -1,0 +1,14 @@
+FEIL: 6668544.800   270512.800       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb
+FEIL: 6668519.700   270523.200       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb
+FEIL: 6661771.900   271315.000       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb
+FEIL: 6661626.400   271396.800       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb	
+FEIL: 6661489.700   271358.600       Oppmerking uten restriksjon		Rettet	Svingeres. Heltrukken linje.
+FEIL: 6668416.300   270560.800       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
+FEIL: 6663738.800   270738.700       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
+FEIL: 6661269.000   271552.100       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb
+FEIL: 6661858.200   271275.700       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb
+FEIL: 6664707.400   270775.000       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.	
+FEIL: 6660228.100   272262.700       Restriksjon uten skilt eller oppmerking	Rettet	Ligger inne innkj. forb. Tar vekk svingeres.	
+FEIL: 6660097.200   272327.800       Restriksjon uten skilt eller oppmerking	Rettet	Ligger inne innkj. forb. Tar vekk svingeres.
+FEIL: 6659877.168   272368.297       Skilt uten restriksjon				Svingeres. Ligger inne innkj. forb
+FEIL: 6659832.165   272387.817       Skilt uten restriksjon				Svingeres. Ligger inne innkj. forb

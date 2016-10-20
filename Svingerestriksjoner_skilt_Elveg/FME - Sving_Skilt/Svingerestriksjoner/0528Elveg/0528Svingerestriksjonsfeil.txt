@@ -1,0 +1,2 @@
+FEIL: 6733197.800   276127.900       Oppmerking uten restriksjon		Ingen svingeres. Brudd i heltrukken linje
+FEIL: 6741151.590   270846.300       Oppmerking uten restriksjon		Ingen svingeres. Brudd i heltrukken linje

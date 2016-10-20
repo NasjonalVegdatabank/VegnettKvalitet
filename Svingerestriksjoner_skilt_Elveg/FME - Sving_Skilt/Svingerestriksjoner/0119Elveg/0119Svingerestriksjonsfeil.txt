@@ -1,0 +1,3 @@
+FEIL: 6598721.500   315856.600       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
+FEIL: 6598496.200   310797.500       Restriksjon uten skilt eller oppmerking	Rettet	Dobbelt med svingeres. og innkj. forb. Fjernet svingeres.
+FEIL: 6598435.900   310530.000       Restriksjon uten skilt eller oppmerking	OBS	Ingen bilder fra GISLINE eller google.

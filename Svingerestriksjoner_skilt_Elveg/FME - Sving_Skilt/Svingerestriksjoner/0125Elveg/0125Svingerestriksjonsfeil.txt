@@ -1,0 +1,2 @@
+FEIL: 6607197.100   293169.000       Oppmerking uten restriksjon
+FEIL: 6607661.467   292377.803       Skilt uten restriksjon

@@ -1,0 +1,16 @@
+FEIL: 6643704.100   247522.600       Oppmerking uten restriksjon		Rettet	Svingeres. Både innkj. forb. og svingeres.
+FEIL: 6640004.100   245751.700       Oppmerking uten restriksjon			Ingen svingeres.
+FEIL: 6646159.540   248050.640       Oppmerking uten restriksjon			Ingen svingeres. Sykkelfelt
+FEIL: 6639497.000   246489.200       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
+FEIL: 6637446.900   246897.500       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.	
+FEIL: 6640485.600   241252.900       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
+FEIL: 6639585.500   246246.000       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
+FEIL: 6640823.900   241907.000       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
+FEIL: 6639502.200   246488.100       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
+FEIL: 6637031.700   246799.100       Oppmerking uten restriksjon			Ingen svingeres. Ligger inne innkj. forb.
+FEIL: 6644974.100   247480.200       Oppmerking uten restriksjon			Ingen svingeres. Stipla linje. 
+FEIL: 6640459.600   241202.300       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
+FEIL: 6639267.400   244754.300       Restriksjon uten skilt eller oppmerking		Fjernet svingeres. Ligger innkj. forb.	
+FEIL: 6639267.400   244754.300       Restriksjon uten skilt eller oppmerking		Fjernet svingeres. Ser ingen skilt eller lignende. 
+FEIL: 6646252.737   248287.749       Skilt uten restriksjon				Ingen svingeres. Skilt. Ligger inne innkj. forb. 
+FEIL: 6641672.989   244574.041       Skilt uten restriksjon				Finner ikke skiltet

@@ -1,0 +1,4 @@
+FEIL: 6754562.200   312976.200       Oppmerking uten restriksjon, regulert av trafikklys
+FEIL: 6747988.410   315552.500       Oppmerking uten restriksjon, ok, ingen res
+FEIL: 6755452.200   312093.100       Oppmerking uten restriksjon, ok, ingen res (stiplet oppmerking)
+FEIL: 6752848.910   313321.200       Oppmerking uten restriksjon, trafikkøy skiller kjøremønster

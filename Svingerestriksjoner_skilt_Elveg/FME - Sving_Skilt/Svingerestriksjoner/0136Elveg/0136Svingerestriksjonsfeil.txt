@@ -1,0 +1,6 @@
+FEIL: 6590632.100   258378.700       Oppmerking uten restriksjon		Ingen svingeres.
+FEIL: 6592391.500   257242.000       Oppmerking uten restriksjon		Ingen svingeres.	
+FEIL: 6589788.800   259164.700       Oppmerking uten restriksjon		Ingen svingeres. Brudd i heltrukken linje.
+FEIL: 6595294.546   256529.891       Skilt uten restriksjon			Ligger inne innkj. forb.
+FEIL: 6585383.045   253409.237       Skilt uten restriksjon			Ingen svingeres.Finner ikke skilt.
+FEIL: 6595136.033   256523.481       Skilt uten restriksjon			Ligger inne svingeres. Finner ikke skilt.

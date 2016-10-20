@@ -1,0 +1,23 @@
+FEIL: 6787835.300   253320.400       Oppmerking uten restriksjon, ok, ingen res.
+FEIL: 6783100.300   254500.000       Oppmerking uten restriksjon, ok, ingen res.
+FEIL: 6784235.700   254655.900       Oppmerking uten restriksjon, ok, ingen res.
+FEIL: 6786096.400   253932.900       Oppmerking uten restriksjon, ok
+FEIL: 6776708.590   253678.700       Oppmerking uten restriksjon, ok, ingen res.
+FEIL: 6787589.100   253287.700       Oppmerking uten restriksjon, ok, res. tilstede
+FEIL: 6784693.900   254728.500       Oppmerking uten restriksjon, ok, ingen res.
+FEIL: 6779626.590   253624.000       Oppmerking uten restriksjon, ok, ingen res.
+FEIL: 6783317.300   254485.100       Oppmerking uten restriksjon, ok, res. lagt inn
+FEIL: 6776915.800   253663.900       Oppmerking uten restriksjon, ok, ingen res.
+FEIL: 6776961.700   253662.900       Oppmerking uten restriksjon, ok, ingen res.
+FEIL: 6785994.500   254047.300       Oppmerking uten restriksjon, ok, ingen res.
+FEIL: 6783968.100   254637.900       Oppmerking uten restriksjon, ok, ingen res.
+FEIL: 6776457.300   253525.100       Oppmerking uten restriksjon, ok, ingen res.
+FEIL: 6783070.800   254451.500       Oppmerking uten restriksjon, ok, res. lagt inn
+FEIL: 6786348.700   253814.100       Oppmerking uten restriksjon, ok, res. tilstede
+FEIL: 6786479.500   254499.100       Oppmerking uten restriksjon, stiplet midtstripe, ok, ingen res.
+FEIL: 6776641.200   253638.800       Oppmerking uten restriksjon, ok, ingen res.
+FEIL: 6788286.000   253405.200       Restriksjon uten skilt eller oppmerking, oppmerking ok
+FEIL: 6784183.700   255638.200       Restriksjon uten skilt eller oppmerking, oppmerking ok
+FEIL: 6783904.300   255656.400       Restriksjon uten skilt eller oppmerking, oppmerking ok
+FEIL: 6783913.300   255648.400       Restriksjon uten skilt eller oppmerking, oppmerking ok
+FEIL: 6779638.590   253624.376       Skilt uten restriksjon, ok, ingen res.

@@ -1,0 +1,3 @@
+FEIL: 6686138.100   284216.300       Oppmerking uten restriksjon	Rettet	SVingeres.
+FEIL: 6673290.000   279279.500       Oppmerking uten restriksjon		Ingen svingeres.
+FEIL: 6686053.100   284272.600       Oppmerking uten restriksjon	Rettet	Innkj. forb.	

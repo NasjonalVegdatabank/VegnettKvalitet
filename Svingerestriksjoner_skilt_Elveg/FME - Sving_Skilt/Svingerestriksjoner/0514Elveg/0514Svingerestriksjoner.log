@@ -1,0 +1,702 @@
+2011-05-30 17:23:57|   0.4|  0.4|INFORM|Feature Manipulation Engine 2012 Beta (20110329 - Build 12053 - WIN32)
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME_HOME is 'C:\Programfiler\FME\'
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME ESRI Edition (node locked-crc)
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|Serial Number: S0601A0917
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|Permanent License.
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|Machine host name is: svv-11165
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|START - ProcessID: 5440, peak process memory usage: 23676 kB, current process memory usage: 23592 kB.
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Programfiler\FME\fme.exe' `C:/DATA/Kvalitetskontroller/Svingerestriksjoner/FMW/Svingerestriksjoner.fmw' `--elveg_SOSI' `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Elveg.SOS' `--oppmerking_NVDB' `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\NVDB\05_SkiltOppmerking.NVDB' `--sving_CSV' `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Sving.txt' `--innkjoring_CSV' `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Innkjoring.txt' `--GL_Feilfil' `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Svingerestriksjonsfeil.txt' `--_kommuneSOSI' `C:\DATA\Vektor\00\23-ADMGR\0000\SOSI\Kommuner-Norge.sos' `--KOMM' `0514' `--LOG_FILE' `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Svingerestriksjoner.log' `--AnalyseMDB' `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\Svingerestriksjoner.mdb'
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|Shared directories for formats are : C:\Programfiler\FME\datasources
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|Shared directories for transformers are : C:\Documents and Settings\knjetl.VEGVESEN\Mine dokumenter\FME\Transformers;C:\Programfiler\FME\transformers
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: Geometry Handling Mode is `Enhanced' 
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: Current working directory is `C:\DATA\Kvalitetskontroller\Svingerestriksjoner\FMW'
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: Temporary directory is `C:\DOCUME~1\KNJETL~1.VEG\LOKALE~1\Temp'
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Programfiler\FME\'
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\DATA\Kvalitetskontroller\Svingerestriksjoner\FMW/'
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'Svingerestriksjoner.fmw'
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2012'
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|System Status: 111380MB of disk space available in the FME temporary directory (C:\DOCUME~1\KNJETL~1.VEG\LOKALE~1\Temp\)
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|System Status: 1934MB of virtual memory available
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|Operating System: Microsoft Windows XP Professional Service Pack 3 (Build 2600)
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Platform: WIN32
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|Locale: nb_NO
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|Code Page: 1252  (ANSI - latin I)
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: Process limit is 2047 MB (out of 3571 MB physical memory and 2047 MB address space)
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 847 MB of memory or 1447 MB of address space
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 635 MB of memory and 1085 MB of address space
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: Autodetermining optimal maximum number of objects in memory
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding GDMMAPPERSOSI Reader with keyword GDMMAPPERSOSI_1
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding GDMMAPPERNVDB Reader with keyword GDMMAPPERNVDB_1
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding CSV Reader with keyword CSV_1
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding CSV Reader with keyword CSV_2
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|MULTI_READER(MULTI_READER): Adding GDMMAPPERSOSI Reader with keyword GDMMAPPERSOSI_2
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|Using Multi Reader $Revision: 69799 $ ( $Date: 2010-05-19 10:36:42 -0700 (Wed, 19 May 2010) $ ) with keyword `MULTI_READER' to read multiple datasets
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|Trying to find a BUILTIN plugin for reader named `GDMMAPPERSOSI'
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `GDMMAPPERSOSI'
+2011-05-30 17:23:57|   0.4|  0.0|INFORM|FME Configuration: Source coordinate system for reader GDMMAPPERSOSI_1[GDMMAPPERSOSI] set to `EPSG:3045'
+2011-05-30 17:23:58|   1.2|  0.8|INFORM|Coordinate System `EPSG:3045' parameters: CS_NAME=`ETRF89.TM33' DESC_NM=`ETRF89 / ETRS-TM33' DT_NAME=`ETRF89' EPSG=`3045' GROUP=`EUROPE' MAP_SCL=`1' MAX_LAT=`75' MAX_LNG=`18' MIN_LAT=`35.5' MIN_LNG=`12' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.11.2, 3045 [European Commission Joint Research Cent]' UNIT=`Meter' X_OFF=`500000' ZERO_X=`0.001' ZERO_Y=`0.001' 
+2011-05-30 17:23:58|   1.2|  0.0|INFORM|Coordinate System `EPSG:3045' as OGC Well Known Text: PROJCS["ETRF89 / ETRS-TM33",GEOGCS["ETRS89",DATUM["European_Terrestrial_Reference_System_1989",SPHEROID["Geodetic Reference System of 1980",6378137,298.2572221009113,AUTHORITY["EPSG","7019"]],AUTHORITY["EPSG","6258"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433],AUTHORITY["EPSG","4258"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",15],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1],AUTHORITY["EPSG","3045"]]
+2011-05-30 17:23:58|   1.2|  0.0|INFORM|Loaded module 'GDMMAPPERSOSI' from file 'C:\Programfiler\FME\plugins/GDMMAPPERSOSI.dll'
+2011-05-30 17:23:58|   1.2|  0.0|WARN  |FME API version of module 'GDMMAPPERSOSI' is '3.6 20101014', which is older than the current with FME internal API version '3.6 20110321'.  An updated plug-in may be available from the provider.
+2011-05-30 17:23:58|   1.2|  0.0|INFORM|GDMMapper - Åpner : C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Elveg.SOS
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|Using MultiWriter $Revision: 59162 $ ( $Date: 2009-04-07 10:04:59 -0700 (Tue, 07 Apr 2009) $ ) with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|FeltKalkulator_xPlode_Feltliste(ElementFactory): Using LEAN processing mode
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|ListExploder(ElementFactory): Using LEAN processing mode
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|Segmentering_ListExploder(ElementFactory): Using LEAN processing mode
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|Segmentering_EventOverlay_SegmentizeTable_4_LISTEXPLODER_6(ElementFactory): Using LEAN processing mode
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|Segmentering_EventOverlay_SegmentizeTable_3_LISTEXPLODER_6(ElementFactory): Using LEAN processing mode
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|Loaded module 'Geometry_func' from file 'C:\Programfiler\FME\plugins/Geometry_func.dll'
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|FME API version of module 'Geometry_func' matches current internal version (3.6 20110321)
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|Segmentering_Event_GeometryConnector_LISTEXPLODER(ElementFactory): Using LEAN processing mode
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|PotensielleSvingerestriksjoner_ListExploder_2(ElementFactory): Using LEAN processing mode
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|Loaded module 'SpatialRelationshipFactory' from file 'C:\Programfiler\FME\plugins/SpatialRelationshipFactory.dll'
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|FME API version of module 'SpatialRelationshipFactory' matches current internal version (3.6 20110321)
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|FME API version of module 'SpatialRelationshipFactory' matches current internal version (3.6 20110321)
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|Restriksjonsnoder_ListExploder_2(ElementFactory): Using LEAN processing mode
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|Restriksjonsnoder_ListExploder(ElementFactory): Using LEAN processing mode
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|FME Configuration: Using FME Reprojection Engine
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|Using FFS Reader $Revision: 77548 $ ( $Date: 2011-02-22 17:03:30 -0800 (Tue, 22 Feb 2011) $ ) to read features from FME Feature Stores in directory `C:\Programfiler\FME\Plugins\GDMMapper\Temp\'
+2011-05-30 17:23:58|   1.3|  0.0|STATS |Restoring 1908 feature(s) from FME feature store file `C:\Programfiler\FME\Plugins\GDMMapper\Temp\C-_DATA_Kvalitetskontroller_Data_Geometrikontroll_20110511_0514Elveg_0514Elveg.SOS.ffs'
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|FME Configuration: Source coordinate system for reader R_1[FFS] set to `EPSG:25833' as read from input data
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|Coordinate System `EPSG:25833' parameters: CS_NAME=`ETRS89.UTM-33N' DESC_NM=`ETRS89 / UTM zone 33N' DT_NAME=`ETRF89' EPSG=`25833' GROUP=`UTMN' MAP_SCL=`1' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25833 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
+2011-05-30 17:23:58|   1.3|  0.0|INFORM|Coordinate System `EPSG:25833' as OGC Well Known Text: PROJCS["ETRS89 / UTM zone 33N",GEOGCS["ETRS89",DATUM["European_Terrestrial_Reference_System_1989",SPHEROID["Geodetic Reference System of 1980",6378137,298.2572221009113,AUTHORITY["EPSG","7019"]],AUTHORITY["EPSG","6258"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433],AUTHORITY["EPSG","4258"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",15],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1],AUTHORITY["EPSG","25833"]]
+2011-05-30 17:23:58|   1.3|  0.0|WARN  |NOT changing coordinate system of reader identified by keyword `GDMMAPPERSOSI_1' from `EPSG:3045' to `EPSG:25833' -- mapping file setting of `EPSG:3045' overrides coordinate system `EPSG:25833' read from file
+2011-05-30 17:23:59|   1.9|  0.6|INFORM|GDMMapper - Lukker : C:\DATA\KVALITETSKONTROLLER\DATA\GEOMETRIKONTROLL_20110511\0514ELVEG\0514ELVEG.SOS
+2011-05-30 17:23:59|   1.9|  0.0|INFORM|Trying to find a BUILTIN plugin for reader named `GDMMAPPERNVDB'
+2011-05-30 17:23:59|   1.9|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `GDMMAPPERNVDB'
+2011-05-30 17:23:59|   1.9|  0.0|INFORM|FME Configuration: Source coordinate system for reader GDMMAPPERNVDB_1[GDMMAPPERNVDB] set to `EPSG:3045'
+2011-05-30 17:23:59|   1.9|  0.0|INFORM|Coordinate System `EPSG:3045' parameters: CS_NAME=`ETRF89.TM33' DESC_NM=`ETRF89 / ETRS-TM33' DT_NAME=`ETRF89' EPSG=`3045' GROUP=`EUROPE' MAP_SCL=`1' MAX_LAT=`75' MAX_LNG=`18' MIN_LAT=`35.5' MIN_LNG=`12' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.11.2, 3045 [European Commission Joint Research Cent]' UNIT=`Meter' X_OFF=`500000' ZERO_X=`0.001' ZERO_Y=`0.001' 
+2011-05-30 17:23:59|   1.9|  0.0|INFORM|Coordinate System `EPSG:3045' as OGC Well Known Text: PROJCS["ETRF89 / ETRS-TM33",GEOGCS["ETRS89",DATUM["European_Terrestrial_Reference_System_1989",SPHEROID["Geodetic Reference System of 1980",6378137,298.2572221009113,AUTHORITY["EPSG","7019"]],AUTHORITY["EPSG","6258"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433],AUTHORITY["EPSG","4258"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",15],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1],AUTHORITY["EPSG","3045"]]
+2011-05-30 17:23:59|   1.9|  0.0|INFORM|Loaded module 'GDMMAPPERNVDB' from file 'C:\Programfiler\FME\plugins/GDMMAPPERNVDB.dll'
+2011-05-30 17:23:59|   1.9|  0.0|WARN  |FME API version of module 'GDMMAPPERNVDB' is '3.6 20101014', which is older than the current with FME internal API version '3.6 20110321'.  An updated plug-in may be available from the provider.
+2011-05-30 17:23:59|   1.9|  0.0|INFORM|GDMMapper - Åpner : C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\NVDB\05_SkiltOppmerking.NVDB
+2011-05-30 17:23:59|   2.0|  0.0|INFORM|Using FFS Reader $Revision: 77548 $ ( $Date: 2011-02-22 17:03:30 -0800 (Tue, 22 Feb 2011) $ ) to read features from FME Feature Stores in directory `C:\Programfiler\FME\Plugins\GDMMapper\Temp\'
+2011-05-30 17:23:59|   2.0|  0.0|STATS |Restoring 18522 feature(s) from FME feature store file `C:\Programfiler\FME\Plugins\GDMMapper\Temp\C-_DATA_Kvalitetskontroller_Data_Geometrikontroll_20110511_NVDB_05_SkiltOppmerking.NVDB.ffs'
+2011-05-30 17:23:59|   2.0|  0.0|INFORM|Reading source feature # 2500
+2011-05-30 17:23:59|   2.2|  0.1|INFORM|Reading source feature # 5000
+2011-05-30 17:23:59|   2.3|  0.1|INFORM|Reading source feature # 7500
+2011-05-30 17:24:00|   2.8|  0.5|INFORM|Reading source feature # 10000
+2011-05-30 17:24:00|   3.0|  0.3|INFORM|Reading source feature # 12500
+2011-05-30 17:24:00|   3.1|  0.1|INFORM|Reading source feature # 15000
+2011-05-30 17:24:00|   3.3|  0.2|INFORM|Reading source feature # 17500
+2011-05-30 17:24:00|   3.5|  0.1|INFORM|Reading source feature # 20000
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|GDMMapper - Lukker : C:\DATA\KVALITETSKONTROLLER\DATA\GEOMETRIKONTROLL_20110511\NVDB\05_SKILTOPPMERKING.NVDB
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|Loaded module 'CSV' from file 'C:\Programfiler\FME\plugins/CSV.dll'
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.6 20110321)
+2011-05-30 17:24:00|   3.5|  0.0|WARN  |CVS Reader: Failed to read the specified file(s) in the folder 'C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Sving.txt\'
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|CSV Reader: Done reading CSV files in directory `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Sving.txt\'
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.6 20110321)
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|CSV Reader: Opening CSV files in directory `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg/\'
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|CSV Reader: Separator Character: ';'
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|CSV Reader: Field Names Follow Header: yes
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 5
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2011-05-30 17:24:00|   3.5|  0.0|WARN  |CSV Reader: A column name of 'col7' was used for the blank column name
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|CSV Reader: Opening dataset 'C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Innkjoring.txt'
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|Using Tabular Reader $Revision: 67769 $ ( $Date: 2010-02-22 15:54:18 -0800 (Mon, 22 Feb 2010) $ ) to read files from directory `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg'
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Innkjoring.txt'
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|Opened Separated Value File C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Innkjoring.txt for input with delimiter `;'
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|Skipped line `*0514*2011 VEGNETT*20110511*INNF*20110511*VDB SVNT*AHT' in CSV File `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Innkjoring.txt'
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|Skipped line `..Eksport-dato 20110511' in CSV File `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Innkjoring.txt'
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|Skipped line `' in CSV File `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Innkjoring.txt'
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|Skipped line `' in CSV File `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Innkjoring.txt'
+2011-05-30 17:24:00|   3.5|  0.0|INFORM|Skipped line `Komm; TransID;kode;Fra;   Til;felt;Retning;' in CSV File `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Innkjoring.txt'
+2011-05-30 17:24:00|   3.6|  0.0|INFORM|CSV Reader: Closing dataset 'C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Innkjoring.txt'
+2011-05-30 17:24:00|   3.6|  0.0|INFORM|CSV Reader: Done reading CSV files in directory `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg/\'
+2011-05-30 17:24:00|   3.6|  0.0|INFORM|Trying to find a BUILTIN plugin for reader named `GDMMAPPERSOSI'
+2011-05-30 17:24:00|   3.6|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `GDMMAPPERSOSI'
+2011-05-30 17:24:00|   3.6|  0.0|INFORM|FME Configuration: Source coordinate system for reader GDMMAPPERSOSI_2[GDMMAPPERSOSI] set to `EPSG:3045'
+2011-05-30 17:24:00|   3.6|  0.0|INFORM|Coordinate System `EPSG:3045' parameters: CS_NAME=`ETRF89.TM33' DESC_NM=`ETRF89 / ETRS-TM33' DT_NAME=`ETRF89' EPSG=`3045' GROUP=`EUROPE' MAP_SCL=`1' MAX_LAT=`75' MAX_LNG=`18' MIN_LAT=`35.5' MIN_LNG=`12' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.11.2, 3045 [European Commission Joint Research Cent]' UNIT=`Meter' X_OFF=`500000' ZERO_X=`0.001' ZERO_Y=`0.001' 
+2011-05-30 17:24:00|   3.6|  0.0|INFORM|Coordinate System `EPSG:3045' as OGC Well Known Text: PROJCS["ETRF89 / ETRS-TM33",GEOGCS["ETRS89",DATUM["European_Terrestrial_Reference_System_1989",SPHEROID["Geodetic Reference System of 1980",6378137,298.2572221009113,AUTHORITY["EPSG","7019"]],AUTHORITY["EPSG","6258"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433],AUTHORITY["EPSG","4258"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",15],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1],AUTHORITY["EPSG","3045"]]
+2011-05-30 17:24:00|   3.6|  0.0|WARN  |FME API version of module 'GDMMAPPERSOSI' is '3.6 20101014', which is older than the current with FME internal API version '3.6 20110321'.  An updated plug-in may be available from the provider.
+2011-05-30 17:24:00|   3.6|  0.0|INFORM|GDMMapper - Åpner : C:\DATA\Vektor\00\23-ADMGR\0000\SOSI\Kommuner-Norge.sos
+2011-05-30 17:24:01|   3.6|  0.0|INFORM|Using FFS Reader $Revision: 77548 $ ( $Date: 2011-02-22 17:03:30 -0800 (Tue, 22 Feb 2011) $ ) to read features from FME Feature Stores in directory `C:\Programfiler\FME\Plugins\GDMMapper\Temp\'
+2011-05-30 17:24:01|   3.6|  0.0|STATS |Restoring 165250 feature(s) from FME feature store file `C:\Programfiler\FME\Plugins\GDMMapper\Temp\C-_DATA_Vektor_00_23-ADMGR_0000_SOSI_Kommuner-Norge.sos.ffs'
+2011-05-30 17:24:01|   3.6|  0.0|INFORM|FME Configuration: Source coordinate system for reader R_4[FFS] set to `EPSG:25833' as read from input data
+2011-05-30 17:24:01|   3.6|  0.0|INFORM|Coordinate System `EPSG:25833' parameters: CS_NAME=`ETRS89.UTM-33N' DESC_NM=`ETRS89 / UTM zone 33N' DT_NAME=`ETRF89' EPSG=`25833' GROUP=`UTMN' MAP_SCL=`1' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25833 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
+2011-05-30 17:24:01|   3.6|  0.0|INFORM|Coordinate System `EPSG:25833' as OGC Well Known Text: PROJCS["ETRS89 / UTM zone 33N",GEOGCS["ETRS89",DATUM["European_Terrestrial_Reference_System_1989",SPHEROID["Geodetic Reference System of 1980",6378137,298.2572221009113,AUTHORITY["EPSG","7019"]],AUTHORITY["EPSG","6258"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433],AUTHORITY["EPSG","4258"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",15],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1],AUTHORITY["EPSG","25833"]]
+2011-05-30 17:24:01|   3.6|  0.0|WARN  |NOT changing coordinate system of reader identified by keyword `GDMMAPPERSOSI_2' from `EPSG:3045' to `EPSG:25833' -- mapping file setting of `EPSG:3045' overrides coordinate system `EPSG:25833' read from file
+2011-05-30 17:24:01|   3.7|  0.1|INFORM|Reading source feature # 22500
+2011-05-30 17:24:01|   3.8|  0.1|INFORM|Reading source feature # 25000
+2011-05-30 17:24:01|   3.8|  0.1|INFORM|Reading source feature # 27500
+2011-05-30 17:24:01|   3.9|  0.1|INFORM|Reading source feature # 30000
+2011-05-30 17:24:01|   4.0|  0.1|INFORM|Reading source feature # 32500
+2011-05-30 17:24:01|   4.1|  0.1|INFORM|Reading source feature # 35000
+2011-05-30 17:24:01|   4.2|  0.1|INFORM|Reading source feature # 37500
+2011-05-30 17:24:01|   4.3|  0.1|INFORM|Reading source feature # 40000
+2011-05-30 17:24:01|   4.3|  0.1|INFORM|Reading source feature # 42500
+2011-05-30 17:24:01|   4.4|  0.1|INFORM|Reading source feature # 45000
+2011-05-30 17:24:01|   4.5|  0.1|INFORM|Reading source feature # 47500
+2011-05-30 17:24:02|   4.6|  0.1|INFORM|Reading source feature # 50000
+2011-05-30 17:24:02|   4.7|  0.1|INFORM|Reading source feature # 52500
+2011-05-30 17:24:02|   4.8|  0.1|INFORM|Reading source feature # 55000
+2011-05-30 17:24:02|   4.8|  0.1|INFORM|Reading source feature # 57500
+2011-05-30 17:24:02|   4.9|  0.1|INFORM|Reading source feature # 60000
+2011-05-30 17:24:02|   5.0|  0.1|INFORM|Reading source feature # 62500
+2011-05-30 17:24:02|   5.1|  0.1|INFORM|Reading source feature # 65000
+2011-05-30 17:24:02|   5.2|  0.1|INFORM|Reading source feature # 67500
+2011-05-30 17:24:02|   5.3|  0.1|INFORM|Reading source feature # 70000
+2011-05-30 17:24:02|   5.3|  0.1|INFORM|Reading source feature # 72500
+2011-05-30 17:24:02|   5.4|  0.1|INFORM|Reading source feature # 75000
+2011-05-30 17:24:02|   5.5|  0.1|INFORM|Reading source feature # 77500
+2011-05-30 17:24:03|   5.6|  0.1|INFORM|Reading source feature # 80000
+2011-05-30 17:24:03|   5.7|  0.1|INFORM|Reading source feature # 82500
+2011-05-30 17:24:03|   5.8|  0.1|INFORM|Reading source feature # 85000
+2011-05-30 17:24:03|   5.8|  0.1|INFORM|Reading source feature # 87500
+2011-05-30 17:24:03|   5.9|  0.1|INFORM|Reading source feature # 90000
+2011-05-30 17:24:03|   6.0|  0.1|INFORM|Reading source feature # 92500
+2011-05-30 17:24:03|   6.1|  0.1|INFORM|Reading source feature # 95000
+2011-05-30 17:24:03|   6.2|  0.1|INFORM|Reading source feature # 97500
+2011-05-30 17:24:03|   6.3|  0.1|INFORM|Reading source feature # 100000
+2011-05-30 17:24:03|   6.3|  0.1|INFORM|Reading source feature # 102500
+2011-05-30 17:24:03|   6.4|  0.1|INFORM|Reading source feature # 105000
+2011-05-30 17:24:03|   6.5|  0.1|INFORM|Reading source feature # 107500
+2011-05-30 17:24:04|   6.6|  0.1|INFORM|Reading source feature # 110000
+2011-05-30 17:24:04|   6.7|  0.1|INFORM|Reading source feature # 112500
+2011-05-30 17:24:04|   6.8|  0.1|INFORM|Reading source feature # 115000
+2011-05-30 17:24:04|   6.8|  0.1|INFORM|Reading source feature # 117500
+2011-05-30 17:24:04|   6.9|  0.1|INFORM|Reading source feature # 120000
+2011-05-30 17:24:04|   7.0|  0.1|INFORM|Reading source feature # 122500
+2011-05-30 17:24:04|   7.1|  0.1|INFORM|Reading source feature # 125000
+2011-05-30 17:24:04|   7.2|  0.1|INFORM|Reading source feature # 127500
+2011-05-30 17:24:04|   7.3|  0.1|INFORM|Reading source feature # 130000
+2011-05-30 17:24:04|   7.4|  0.1|INFORM|Reading source feature # 132500
+2011-05-30 17:24:04|   7.4|  0.1|INFORM|Reading source feature # 135000
+2011-05-30 17:24:04|   7.5|  0.1|INFORM|Reading source feature # 137500
+2011-05-30 17:24:05|   7.6|  0.1|INFORM|Reading source feature # 140000
+2011-05-30 17:24:05|   7.7|  0.1|INFORM|Reading source feature # 142500
+2011-05-30 17:24:05|   7.8|  0.1|INFORM|Reading source feature # 145000
+2011-05-30 17:24:05|   7.9|  0.1|INFORM|Reading source feature # 147500
+2011-05-30 17:24:05|   7.9|  0.1|INFORM|Reading source feature # 150000
+2011-05-30 17:24:05|   8.0|  0.1|INFORM|Reading source feature # 152500
+2011-05-30 17:24:05|   8.1|  0.1|INFORM|Reading source feature # 155000
+2011-05-30 17:24:05|   8.2|  0.1|INFORM|Reading source feature # 157500
+2011-05-30 17:24:05|   8.3|  0.1|INFORM|Reading source feature # 160000
+2011-05-30 17:24:05|   8.4|  0.1|INFORM|Reading source feature # 162500
+2011-05-30 17:24:05|   8.4|  0.1|INFORM|Reading source feature # 165000
+2011-05-30 17:24:05|   8.5|  0.1|INFORM|Reading source feature # 167500
+2011-05-30 17:24:06|   8.6|  0.1|INFORM|Reading source feature # 170000
+2011-05-30 17:24:06|   8.7|  0.1|INFORM|Reading source feature # 172500
+2011-05-30 17:24:06|   8.8|  0.1|INFORM|Reading source feature # 175000
+2011-05-30 17:24:06|   8.9|  0.1|INFORM|Reading source feature # 177500
+2011-05-30 17:24:06|   8.9|  0.1|INFORM|Reading source feature # 180000
+2011-05-30 17:24:06|   9.0|  0.1|INFORM|Reading source feature # 182500
+2011-05-30 17:24:06|   9.1|  0.1|INFORM|Reading source feature # 185000
+2011-05-30 17:24:06|   9.2|  0.1|INFORM|GDMMapper - Lukker : C:\DATA\VEKTOR\00\23-ADMGR\0000\SOSI\KOMMUNER-NORGE.SOS
+2011-05-30 17:24:06|   9.2|  0.0|INFORM|MULTI_READER(MULTI_READER): Done reading 185712 features from 5 readers
+2011-05-30 17:24:06|   9.2|  0.0|INFORM|Emptying factory pipeline
+2011-05-30 17:24:06|   9.2|  0.0|STATS |CSV_1 Merger(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:06|   9.2|  0.0|STATS |CSV_2 Merger(TeeFactory): Cloned 32 input feature(s) into 32 output feature(s)
+2011-05-30 17:24:06|   9.2|  0.0|STATS |Unexpected Input Remover(TestFactory): Tested 185712 input feature(s) -- 4576 feature(s) passed and 181136 feature(s) failed
+2011-05-30 17:24:06|   9.2|  0.0|STATS |Source -> Generic(TeeFactory): Cloned 4576 input feature(s) into 4576 output feature(s)
+2011-05-30 17:24:06|   9.2|  0.0|STATS |AttributeExposer(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:06|   9.2|  0.0|STATS |AttributeRenamer_3(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:06|   9.2|  0.0|STATS |NullAttributeReplacer(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:06|   9.2|  0.0|STATS |TestFilter_2(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:06|   9.2|  0.0|STATS |TestFilter_2_TestFactory_0(TestFactory): Tested 1824 input feature(s) -- 0 feature(s) passed and 1824 feature(s) failed
+2011-05-30 17:24:06|   9.2|  0.0|STATS |TestFilter_2_UNFILTERED(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:06|   9.2|  0.0|STATS |TestFilter_2 Mangler<space>vegreferanse Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:06|   9.2|  0.0|STATS |FeltKalkulator FeltListe Input Collector(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:06|   9.2|  0.0|STATS |FeltKalkulator_FeltListe Input Splitter(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:06|   9.2|  0.0|STATS |FeltKalkulator_Counter(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:06|   9.2|  0.0|STATS |FeltKalkulator_Counter OUTPUT Splitter(TeeFactory): Cloned 1824 input feature(s) into 3648 output feature(s)
+2011-05-30 17:24:06|   9.2|  0.0|STATS |FeltKalkulator_FeltListe(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:06|   9.2|  0.0|STATS |FeltKalkulator_xPlode_Feltliste(ElementFactory): Split out 3616 list elements from 1824 input features, using mode LEAN
+2011-05-30 17:24:06|   9.2|  0.0|STATS |FeltKalkulator_FjernTekst(TeeFactory): Cloned 3616 input feature(s) into 3616 output feature(s)
+2011-05-30 17:24:06|   9.2|  0.0|STATS |FeltKalkulator_AttributeClassifier(TestFactory): Tested 3616 input feature(s) -- 3616 feature(s) passed and 0 feature(s) failed
+2011-05-30 17:24:06|   9.2|  0.0|STATS |FeltKalkulator_AttributeSetter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:06|   9.2|  0.0|STATS |FeltKalkulator_PartallTest(TeeFactory): Cloned 3616 input feature(s) into 3616 output feature(s)
+2011-05-30 17:24:06|   9.2|  0.0|STATS |FeltKalkulator_Splitt_på_feltretning(TestFactory): Tested 3616 input feature(s) -- 1803 feature(s) passed and 1813 feature(s) failed
+2011-05-30 17:24:06|   9.2|  0.0|STATS |FeltKalkulator_OddeTallList_fme_type_remover(TeeFactory): Cloned 1813 input feature(s) into 1813 output feature(s)
+2011-05-30 17:24:06|   9.3|  0.1|STATS |FeltKalkulator_OddeTallList(ListFactory): Combined 1813 input feature(s) into 1813 output feature(s), including 0 singleton(s)
+2011-05-30 17:24:06|   9.3|  0.0|STATS |FeltKalkulator_LISTELEMENTCOUNTER_2(TeeFactory): Cloned 1813 input feature(s) into 1813 output feature(s)
+2011-05-30 17:24:06|   9.3|  0.0|STATS |FeltKalkulator_LISTREMOVER_2(TeeFactory): Cloned 1813 input feature(s) into 1813 output feature(s)
+2011-05-30 17:24:06|   9.3|  0.0|STATS |FeltKalkulator_PartallList_fme_type_remover(TeeFactory): Cloned 1803 input feature(s) into 1803 output feature(s)
+2011-05-30 17:24:06|   9.4|  0.1|STATS |FeltKalkulator_PartallList(ListFactory): Combined 1803 input feature(s) into 1803 output feature(s), including 0 singleton(s)
+2011-05-30 17:24:06|   9.4|  0.0|STATS |FeltKalkulator_LISTELEMENTCOUNTER(TeeFactory): Cloned 1803 input feature(s) into 1803 output feature(s)
+2011-05-30 17:24:06|   9.4|  0.0|STATS |FeltKalkulator_LISTREMOVER(TeeFactory): Cloned 1803 input feature(s) into 1803 output feature(s)
+2011-05-30 17:24:06|   9.4|  0.0|INFORM|FeltKalkulator_FEATUREMERGER_4(ReferenceFactory): Completed 100% of intermediate processing
+2011-05-30 17:24:06|   9.4|  0.0|STATS |FeltKalkulator_FEATUREMERGER_4(ReferenceFactory): Total Results: 1792 Complete Feature(s), 11 Incomplete Feature(s), 1792 Referenced Feature(s), 21 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2011-05-30 17:24:07|   9.6|  0.2|INFORM|FeltKalkulator_FEATUREMERGER_2(ReferenceFactory): Completed 100% of intermediate processing
+2011-05-30 17:24:07|   9.6|  0.0|STATS |FeltKalkulator_FEATUREMERGER_2(ReferenceFactory): Total Results: 1824 Complete Feature(s), 0 Incomplete Feature(s), 1824 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |FeltKalkulator_NULLATTRIBUTEREPLACER_2(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |FeltKalkulator_EXPRESSIONEVALUATOR(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |FeltKalkulator_AttributeRemover(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |FeltKalkulator_FeltTelling Output Collector(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |FeltKalkulator FeltTelling Output Renamer/Nuker(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |StringFormatter(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |StringFormatter_2(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |StringConcatenator(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |ListExploder(ElementFactory): Split out 2247 list elements from 2242 input features, using mode LEAN
+2011-05-30 17:24:07|   9.6|  0.0|STATS |AttributeFilter(TestFactory): Tested 2248 input feature(s) -- 892 feature(s) passed and 1356 feature(s) failed
+2011-05-30 17:24:07|   9.6|  0.0|STATS |AttributeFilter_BlankFilter(TestFactory): Tested 1356 input feature(s) -- 0 feature(s) passed and 1356 feature(s) failed
+2011-05-30 17:24:07|   9.6|  0.0|STATS |AttributeFilter <BLANK> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |AttributeFilter <UNFILTERED> Output Nuker(TeeFactory): Cloned 1356 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |AttributeRenamer(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |TestFilter(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |TestFilter_TestFactory_0(TestFactory): Tested 892 input feature(s) -- 892 feature(s) passed and 0 feature(s) failed
+2011-05-30 17:24:07|   9.6|  0.0|STATS |TestFilter_UNFILTERED(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |TestFilter <UNFILTERED> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |AttributeCopier(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |StringFormatter_3(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |StringFormatter_4(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |StringConcatenator_2(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |StringConcatenator_2 OUTPUT Splitter(TeeFactory): Cloned 892 input feature(s) into 1784 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |Segmentering Transportlenker Input Collector(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |Segmentering Oppmerking Input Collector(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |Segmentering_Oppmerking Input Splitter(TeeFactory): Cloned 892 input feature(s) into 2676 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |Segmentering_Transportlenker Input Splitter(TeeFactory): Cloned 1824 input feature(s) into 1824 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |Segmentering_AttributeKeeper(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:07|   9.6|  0.0|STATS |Segmentering_AttributePrefixer(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.1|INFORM|Segmentering_FeatureMerger(ReferenceFactory): Completed 100% of intermediate processing
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_FeatureMerger(ReferenceFactory): Total Results: 97 Complete Feature(s), 1727 Incomplete Feature(s), 7 Referenced Feature(s), 885 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_FeatureMerger COMPLETE Splitter(TeeFactory): Cloned 97 input feature(s) into 194 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_ListExploder(ElementFactory): Split out 679 list elements from 97 input features, using mode LEAN
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_TestFilter(TeeFactory): Cloned 679 input feature(s) into 679 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_TestFilter_TestFactory_0(TestFactory): Tested 679 input feature(s) -- 13 feature(s) passed and 666 feature(s) failed
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_TestFilter_UNFILTERED(TeeFactory): Cloned 666 input feature(s) into 666 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_TestFilter <UNFILTERED> Output Nuker(TeeFactory): Cloned 666 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_DuplicateRemover_3_Match_Value_Extractor(TeeFactory): Cloned 13 input feature(s) into 13 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_DuplicateRemover_3(TestFactory): Tested 13 input feature(s) -- 5 feature(s) passed and 8 feature(s) failed
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_DuplicateRemover_3 UNIQUE Splitter(TeeFactory): Cloned 8 input feature(s) into 24 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|INFORM|Segmentering_FeatureMerger_2(ReferenceFactory): Completed 100% of intermediate processing
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_FeatureMerger_2(ReferenceFactory): Total Results: 8 Complete Feature(s), 0 Incomplete Feature(s), 8 Referenced Feature(s), 89 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_DuplicateRemover_2_Match_Value_Extractor(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_DuplicateRemover_2(TestFactory): Tested 8 input feature(s) -- 0 feature(s) passed and 8 feature(s) failed
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_AttributeRemover_2(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_StringConcatenator_3(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_StringConcatenator_3 OUTPUT Splitter(TeeFactory): Cloned 8 input feature(s) into 16 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_Segmenter Event_Tables Input Collector(TeeFactory): Cloned 900 input feature(s) into 900 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_Segmenter_Event_Tables Input Splitter(TeeFactory): Cloned 900 input feature(s) into 900 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_Segmenter_RoadLinkID_Creator(TeeFactory): Cloned 900 input feature(s) into 900 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_Segmenter_RoadLinkID_Setter(TeeFactory): Cloned 900 input feature(s) into 900 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_Segmenter_FromVal_Setter(TeeFactory): Cloned 900 input feature(s) into 900 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_Segmenter_ToVal_Setter(TeeFactory): Cloned 900 input feature(s) into 900 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_Segmenter_ToVal_Setter OUTPUT Splitter(TeeFactory): Cloned 900 input feature(s) into 1800 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_Segmenter_ATTRIBUTERENAMER_4(TeeFactory): Cloned 900 input feature(s) into 900 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_Segmenter_ATTRIBUTERENAMER_3(TeeFactory): Cloned 900 input feature(s) into 900 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_Segmenter_StringFormatter_2(TeeFactory): Cloned 1800 input feature(s) into 1800 output feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|INFORM|Segmentering_Segmenter_Sorter(SortFactory): Starting sorting 1800 feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|INFORM|Segmentering_Segmenter_Sorter(SortFactory): Done sorting 1800 feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_Segmenter_Sorter(SortFactory): Sorted 1800 feature(s)
+2011-05-30 17:24:07|   9.7|  0.0|STATS |Segmentering_Segmenter_ListBuilder_fme_type_remover(TeeFactory): Cloned 1800 input feature(s) into 1800 output feature(s)
+2011-05-30 17:24:13|  16.2|  6.5|STATS |Segmentering_Segmenter_ListBuilder(ListFactory): Combined 1800 input feature(s) into 97 output feature(s), including 0 singleton(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_ListDuplicateRemover(TeeFactory): Cloned 97 input feature(s) into 97 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_ListElementCounter(TeeFactory): Cloned 97 input feature(s) into 97 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_ListIndexer(TestFactory): Tested 97 input feature(s) -- 97 feature(s) passed and 0 feature(s) failed
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_AttributeRenamer(TeeFactory): Cloned 97 input feature(s) into 97 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_TestFilter(TeeFactory): Cloned 97 input feature(s) into 97 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_TestFilter_TestFactory_0(TestFactory): Tested 97 input feature(s) -- 3 feature(s) passed and 94 feature(s) failed
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_TestFilter_TestFactory_1(TestFactory): Tested 94 input feature(s) -- 93 feature(s) passed and 1 feature(s) failed
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_TestFilter_UNFILTERED(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_TestFilter <UNFILTERED> Output Nuker(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_AttributeCreator(TeeFactory): Cloned 96 input feature(s) into 96 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_ExpressionEvaluator(TeeFactory): Cloned 96 input feature(s) into 96 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_SegmentLoop INPUT Input Collector(TeeFactory): Cloned 96 input feature(s) into 96 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_SegmentLoop_INPUT Input Splitter(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_SegmentLoop_ListIndexer_2(TestFactory): Tested 1249 input feature(s) -- 1249 feature(s) passed and 0 feature(s) failed
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_SegmentLoop_AttributeRenamer_2(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_SegmentLoop_AttributeRenamer_2 OUTPUT Splitter(TeeFactory): Cloned 1249 input feature(s) into 2498 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_SegmentLoop_ExpressionEvaluator(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_SegmentLoop_TestFilter(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_SegmentLoop_TestFilter_TestFactory_0(TestFactory): Tested 1249 input feature(s) -- 96 feature(s) passed and 1153 feature(s) failed
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_SegmentLoop_TestFilter_UNFILTERED(TeeFactory): Cloned 1153 input feature(s) into 1153 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_SegmentLoop_TestFilter _next<space><gt><space>_segCount Output Nuker(TeeFactory): Cloned 96 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_SegmentLoop_AttributeSetter(TeeFactory): Cloned 1153 input feature(s) into 1153 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_SegmentLoop_AttributeSetter_2(TeeFactory): Cloned 1153 input feature(s) into 1153 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_SegmentLoop_AttributeRemover(TeeFactory): Cloned 1153 input feature(s) into 1153 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Loop to Segmentering_Segmenter_SegmentLoop_INPUT Input Splitter(BranchingFactory): Branched 1153 input features -- 1153 features routed to the target factory, and 0 features routed to the fallback factory.
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_SegmentLoop_OUTPUT Output Collector(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_SegmentLoop OUTPUT Output Renamer/Nuker(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_AttributeKeeper(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_CONCATENATOR_3(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter_Unique_Segment_List Output Collector(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter Unique_Segment_List Output Renamer/Nuker(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_Segmenter Unique_Segment_List Splitter(TeeFactory): Cloned 1249 input feature(s) into 2498 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4 Event_table Input Collector(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4 SegmentList Input Collector(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_Event_table Input Splitter(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_SegmentList Input Splitter(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_segTableAttributes_Creator(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_segRoadLinkID_Setter(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_segFromVal_Setter(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_segToVal_Setter(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_eventAttributes_Creator(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_eventRoadLinkID_Setter(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_eventFromVal_Setter(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:13|  16.2|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_eventToVal_Setter(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|INFORM|Segmentering_EventOverlay_SegmentizeTable_4_FEATUREMERGER_9(ReferenceFactory): Completed 100% of intermediate processing
+2011-05-30 17:24:13|  16.3|  0.1|STATS |Segmentering_EventOverlay_SegmentizeTable_4_FEATUREMERGER_9(ReferenceFactory): Total Results: 8 Complete Feature(s), 0 Incomplete Feature(s), 19 Referenced Feature(s), 1230 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_LISTEXPLODER_6(ElementFactory): Split out 152 list elements from 8 input features, using mode LEAN
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_STRINGFORMATTER_14(TeeFactory): Cloned 152 input feature(s) into 152 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_STRINGFORMATTER_15(TeeFactory): Cloned 152 input feature(s) into 152 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_STRINGFORMATTER_12(TeeFactory): Cloned 152 input feature(s) into 152 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_STRINGFORMATTER_13(TeeFactory): Cloned 152 input feature(s) into 152 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_included_segments(TestFactory): Tested 152 input feature(s) -- 20 feature(s) passed and 132 feature(s) failed
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_ATTRIBUTEREMOVER_2(TeeFactory): Cloned 20 input feature(s) into 20 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4_Segmented Output Collector(TeeFactory): Cloned 20 input feature(s) into 20 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_4 Segmented Output Renamer/Nuker(TeeFactory): Cloned 20 input feature(s) into 20 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3 Event_table Input Collector(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3 SegmentList Input Collector(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_Event_table Input Splitter(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_SegmentList Input Splitter(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_segTableAttributes_Creator(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_segRoadLinkID_Setter(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_segFromVal_Setter(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_segToVal_Setter(TeeFactory): Cloned 1249 input feature(s) into 1249 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_eventAttributes_Creator(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_eventRoadLinkID_Setter(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_eventFromVal_Setter(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:13|  16.3|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_eventToVal_Setter(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:14|  17.1|  0.8|INFORM|Segmentering_EventOverlay_SegmentizeTable_3_LISTEXPLODER_6(ElementFactory): Processed 5000 elements with mode LEAN
+2011-05-30 17:24:15|  17.9|  0.8|INFORM|Segmentering_EventOverlay_SegmentizeTable_3_LISTEXPLODER_6(ElementFactory): Processed 10000 elements with mode LEAN
+2011-05-30 17:24:16|  18.7|  0.8|INFORM|Segmentering_EventOverlay_SegmentizeTable_3_LISTEXPLODER_6(ElementFactory): Processed 15000 elements with mode LEAN
+2011-05-30 17:24:16|  19.5|  0.8|INFORM|Segmentering_EventOverlay_SegmentizeTable_3_LISTEXPLODER_6(ElementFactory): Processed 20000 elements with mode LEAN
+2011-05-30 17:24:16|  19.5|  0.0|INFORM|Segmentering_EventOverlay_SegmentizeTable_3_FEATUREMERGER_9(ReferenceFactory): Completed 100% of intermediate processing
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_FEATUREMERGER_9(ReferenceFactory): Total Results: 891 Complete Feature(s), 1 Incomplete Feature(s), 1249 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_LISTEXPLODER_6(ElementFactory): Split out 20101 list elements from 891 input features, using mode LEAN
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_STRINGFORMATTER_14(TeeFactory): Cloned 20101 input feature(s) into 20101 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_STRINGFORMATTER_15(TeeFactory): Cloned 20101 input feature(s) into 20101 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_STRINGFORMATTER_12(TeeFactory): Cloned 20101 input feature(s) into 20101 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_STRINGFORMATTER_13(TeeFactory): Cloned 20101 input feature(s) into 20101 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_included_segments(TestFactory): Tested 20101 input feature(s) -- 895 feature(s) passed and 19206 feature(s) failed
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_ATTRIBUTEREMOVER_2(TeeFactory): Cloned 895 input feature(s) into 895 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3_Segmented Output Collector(TeeFactory): Cloned 895 input feature(s) into 895 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_EventOverlay_SegmentizeTable_3 Segmented Output Renamer/Nuker(TeeFactory): Cloned 895 input feature(s) into 895 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|INFORM|Segmentering_Merge_VegreferanseTunnell(ReferenceFactory): Completed 100% of intermediate processing
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Merge_VegreferanseTunnell(ReferenceFactory): Total Results: 13 Complete Feature(s), 7 Incomplete Feature(s), 9 Referenced Feature(s), 886 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_AttributeRemover(TeeFactory): Cloned 906 input feature(s) into 906 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_AttributeRenamer_2(TeeFactory): Cloned 906 input feature(s) into 906 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector Event_Table Input Collector(TeeFactory): Cloned 906 input feature(s) into 906 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector Road_Network Input Collector(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_Road_Network Input Splitter(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_Event_Table Input Splitter(TeeFactory): Cloned 906 input feature(s) into 906 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_eventAttributes_Creator(TeeFactory): Cloned 906 input feature(s) into 906 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_eventRLID_Setter(TeeFactory): Cloned 906 input feature(s) into 906 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_eventFrom_Setter(TeeFactory): Cloned 906 input feature(s) into 906 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_eventTo_Setter(TeeFactory): Cloned 906 input feature(s) into 906 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_eventFrom_Number(TeeFactory): Cloned 906 input feature(s) into 906 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_eventTo_Number(TeeFactory): Cloned 906 input feature(s) into 906 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_roadAttributes_Creator(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_roadLinkID_Setter(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_roadFromVal_Setter(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_roadToVal_Setter(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_COUNTER(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_roadSegFrom_Number(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_roadSegTo_Int_Number(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_ExpressionEvaluator(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_Remove_Null_length(TestFactory): Tested 8 input feature(s) -- 8 feature(s) passed and 0 feature(s) failed
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_roadGeomLength(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_Road_Segment_Scale(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:16|  19.5|  0.0|STATS |Segmentering_Event_GeometryConnector_GeometryExtractor(TeeFactory): Cloned 8 input feature(s) into 8 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|INFORM|Segmentering_Event_GeometryConnector_FEATUREMERGER(ReferenceFactory): Completed 100% of intermediate processing
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_FEATUREMERGER(ReferenceFactory): Total Results: 20 Complete Feature(s), 886 Incomplete Feature(s), 8 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_LISTEXPLODER(ElementFactory): Split out 20 list elements from 20 input features, using mode LEAN
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_common_segments(TestFactory): Tested 20 input feature(s) -- 20 feature(s) passed and 0 feature(s) failed
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_splitPoints(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_GeometryReplacer(TeeFactory): Cloned 20 input feature(s) into 20 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_PointEvent(TestFactory): Tested 20 input feature(s) -- 0 feature(s) passed and 20 feature(s) failed
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_within_one_segment(TestFactory): Tested 20 input feature(s) -- 6 feature(s) passed and 14 feature(s) failed
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_start_segment(TestFactory): Tested 14 input feature(s) -- 6 feature(s) passed and 8 feature(s) failed
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_end_segment(TestFactory): Tested 8 input feature(s) -- 6 feature(s) passed and 2 feature(s) failed
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_Set_endSegmentFromVal_2(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_Set_completeSegmentToVal(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_calc_EndPoint_2(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_ClipSegmentEnd(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_Set_endSegmentFromVal(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_Set_completeSegmentToVal_2(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_calc_startPoint_2(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_ClipSegmentStart(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_Set_startSegmentFromVal(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_Set_startSegmentToVal(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_calc_start_point(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_calc_EndPoint(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_ClipSegmentStartEnd(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_Set_midSegmentFromVal(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_Set_midSegmentToVal(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_calc_start_point_2(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_ClipSegmentStartPoint(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_COORDINATEFETCHER(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_2DPOINTREPLACER(TestFactory): Tested 0 input feature(s) -- 0 feature(s) passed and 0 feature(s) failed
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_Set_midSegmentFromVal_2(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_Set_midSegmentToVal_2(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_ATTRIBUTEREMOVER(TeeFactory): Cloned 20 input feature(s) into 20 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_GEOMETRYFILTER_Splitter(TeeFactory): Cloned 20 input feature(s) into 20 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_GEOMETRYFILTER_Pointer(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_GEOMETRYFILTER_Liner(TeeFactory): Cloned 20 input feature(s) into 20 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_GEOMETRYFILTER_Arear(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_GEOMETRYFILTER_Arcer(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_GEOMETRYFILTER_Texter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_GEOMETRYFILTER_Ellipser(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_GEOMETRYFILTER_Nuller(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_Line_Event_Geometry Output Collector(TeeFactory): Cloned 20 input feature(s) into 20 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector_Point_Event_Geometry Output Collector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector Point_Event_Geometry Output Renamer/Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Event_GeometryConnector Line_Event_Geometry Output Renamer/Nuker(TeeFactory): Cloned 20 input feature(s) into 20 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Uberørte_Lenker Output Collector(TeeFactory): Cloned 1816 input feature(s) into 1816 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering_Segmenterte_lenker Output Collector(TeeFactory): Cloned 20 input feature(s) into 20 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering Segmenterte_lenker Output Renamer/Nuker(TeeFactory): Cloned 20 input feature(s) into 20 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |Segmentering Uberørte_Lenker Output Renamer/Nuker(TeeFactory): Cloned 1816 input feature(s) into 1816 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |AttributeKeeper_2(TeeFactory): Cloned 32 input feature(s) into 32 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |AttributeRenamer_2(TeeFactory): Cloned 32 input feature(s) into 32 output feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|INFORM|FeatureMerger_2(ReferenceFactory): Completed 100% of intermediate processing
+2011-05-30 17:24:17|  19.6|  0.0|STATS |FeatureMerger_2(ReferenceFactory): Total Results: 41 Complete Feature(s), 1795 Incomplete Feature(s), 32 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2011-05-30 17:24:17|  19.6|  0.0|STATS |TopologyBuilder(TopologyFactory): Computing topology defined by 1836 input feature(s)
+2011-05-30 17:24:17|  19.8|  0.2|INFORM|Intersection operation updating nodes... 100% done
+2011-05-30 17:24:17|  20.1|  0.4|STATS |TopologyBuilder(TopologyFactory): Output 1836 linear feature(s), 0 polygonal feature(s), 1739 point feature(s), and one universe polygon feature 
+2011-05-30 17:24:17|  20.1|  0.0|STATS |PotensielleSvingerestriksjoner Noder Input Collector(TeeFactory): Cloned 1739 input feature(s) into 1739 output feature(s)
+2011-05-30 17:24:17|  20.1|  0.0|STATS |PotensielleSvingerestriksjoner Lenker Input Collector(TeeFactory): Cloned 1836 input feature(s) into 1836 output feature(s)
+2011-05-30 17:24:17|  20.1|  0.0|STATS |PotensielleSvingerestriksjoner Oppmerking Input Collector(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:17|  20.1|  0.0|STATS |PotensielleSvingerestriksjoner_Lenker Input Splitter(TeeFactory): Cloned 1836 input feature(s) into 1836 output feature(s)
+2011-05-30 17:24:17|  20.1|  0.0|STATS |PotensielleSvingerestriksjoner_Noder Input Splitter(TeeFactory): Cloned 1739 input feature(s) into 1739 output feature(s)
+2011-05-30 17:24:17|  20.1|  0.0|STATS |PotensielleSvingerestriksjoner_Oppmerking Input Splitter(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:17|  20.1|  0.0|STATS |PotensielleSvingerestriksjoner_NullAttributeReplacer_2(TeeFactory): Cloned 1836 input feature(s) into 1836 output feature(s)
+2011-05-30 17:24:17|  20.1|  0.0|STATS |PotensielleSvingerestriksjoner_GeometryExtractor(TeeFactory): Cloned 1836 input feature(s) into 1836 output feature(s)
+2011-05-30 17:24:17|  20.1|  0.0|STATS |PotensielleSvingerestriksjoner_Bufferer_4_passer_onner(TeeFactory): Cloned 892 input feature(s) into 892 output feature(s)
+2011-05-30 17:24:17|  20.3|  0.2|STATS |PotensielleSvingerestriksjoner_Bufferer_4_aggregator(AggregateFactory): Combined 892 input feature(s) into 890 output feature(s), including 0 singleton(s)
+2011-05-30 17:24:17|  20.3|  0.0|STATS |PotensielleSvingerestriksjoner_Bufferer_4(TeeFactory): Cloned 890 input feature(s) into 890 output feature(s)
+2011-05-30 17:24:17|  20.3|  0.0|STATS |PotensielleSvingerestriksjoner_AttributeKeeper_2(TeeFactory): Cloned 1739 input feature(s) into 1739 output feature(s)
+2011-05-30 17:24:17|  20.3|  0.0|STATS |PotensielleSvingerestriksjoner_ListElementCounter(TeeFactory): Cloned 1739 input feature(s) into 1739 output feature(s)
+2011-05-30 17:24:17|  20.3|  0.0|STATS |PotensielleSvingerestriksjoner_GeometryExtractor_2(TeeFactory): Cloned 1739 input feature(s) into 1739 output feature(s)
+2011-05-30 17:24:17|  20.3|  0.0|STATS |PotensielleSvingerestriksjoner_ListExploder_2(ElementFactory): Split out 3672 list elements from 1739 input features, using mode LEAN
+2011-05-30 17:24:17|  20.3|  0.0|STATS |PotensielleSvingerestriksjoner_ExpressionEvaluator(TeeFactory): Cloned 3672 input feature(s) into 3672 output feature(s)
+2011-05-30 17:24:17|  20.3|  0.0|STATS |Storing feature(s) to FME feature store file `C:\DOCUME~1\KNJETL~1.VEG\LOKALE~1\Temp\fctspatrel1306769038703_5440'
+2011-05-30 17:24:17|  20.3|  0.0|STATS |Storing feature(s) to FME feature store file `C:\DOCUME~1\KNJETL~1.VEG\LOKALE~1\Temp\fctspatrel1306769038703_5440_0'
+2011-05-30 17:24:18|  21.2|  0.9|INFORM|PotensielleSvingerestriksjoner_FeatureMerger(ReferenceFactory): Completed 100% of intermediate processing
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_FeatureMerger(ReferenceFactory): Total Results: 3672 Complete Feature(s), 0 Incomplete Feature(s), 1836 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_FeatureMerger COMPLETE Splitter(TeeFactory): Cloned 3672 input feature(s) into 7344 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_8(TeeFactory): Cloned 3672 input feature(s) into 3672 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_8_TestFactory_0(TestFactory): Tested 3672 input feature(s) -- 2464 feature(s) passed and 1208 feature(s) failed
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_8_UNFILTERED(TeeFactory): Cloned 1208 input feature(s) into 1208 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_8 <UNFILTERED> Output Nuker(TeeFactory): Cloned 1208 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_GeometryReplacer(TeeFactory): Cloned 2464 input feature(s) into 2464 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_4(TeeFactory): Cloned 2464 input feature(s) into 2464 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_4_TestFactory_0(TestFactory): Tested 2464 input feature(s) -- 7 feature(s) passed and 2457 feature(s) failed
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_4_UNFILTERED(TeeFactory): Cloned 2457 input feature(s) into 2457 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|INFORM|PotensielleSvingerestriksjoner_Matcher(MatchingFactory): Upper bound on the number of comparisons is 24. Fewer comparisons may be made, and the worst case will not exceed this upper bound
+2011-05-30 17:24:18|  21.2|  0.0|INFORM|PotensielleSvingerestriksjoner_Matcher(MatchingFactory): Processing comparison #1
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_Matcher(MatchingFactory): Found 2 matching group(s) of features in 7 input feature(s). 2 feature(s) did not have any matches
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_Matcher MATCHED Splitter(TeeFactory): Cloned 5 input feature(s) into 10 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_7(TeeFactory): Cloned 2459 input feature(s) into 2459 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_7_TestFactory_0(TestFactory): Tested 2459 input feature(s) -- 2439 feature(s) passed and 20 feature(s) failed
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_7_UNFILTERED(TeeFactory): Cloned 20 input feature(s) into 20 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|INFORM|Processed CANDIDATE 10 / 20
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_SpatialFilter(SpatialFilterFactory): Total: Processed 910 input feature(s): 890 BASE feature(s) and 20 CANDIDATE feature(s). 0 feature(s) PASSED
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_2(TeeFactory): Cloned 2455 input feature(s) into 2455 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_2_TestFactory_0(TestFactory): Tested 2455 input feature(s) -- 4 feature(s) passed and 2451 feature(s) failed
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_2_TestFactory_1(TestFactory): Tested 2451 input feature(s) -- 10 feature(s) passed and 2441 feature(s) failed
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_2_UNFILTERED(TeeFactory): Cloned 2441 input feature(s) into 2441 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_2 <UNFILTERED> Splitter(TeeFactory): Cloned 2441 input feature(s) into 4882 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_5(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_5_TestFactory_0(TestFactory): Tested 5 input feature(s) -- 1 feature(s) passed and 4 feature(s) failed
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_5_TestFactory_1(TestFactory): Tested 4 input feature(s) -- 3 feature(s) passed and 1 feature(s) failed
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_5_TestFactory_2(TestFactory): Tested 1 input feature(s) -- 1 feature(s) passed and 0 feature(s) failed
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_5_UNFILTERED(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_5 <UNFILTERED> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_AttributeCreator_5(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_AttributeCreator_4(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_AttributeCreator_4 OUTPUT Splitter(TeeFactory): Cloned 3 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_Bufferer_3_passer_onner(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_Bufferer_3_aggregator(AggregateFactory): Combined 4 input feature(s) into 3 output feature(s), including 0 singleton(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_Bufferer_3(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_AttributeCreator_2(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_AttributeCreator_3(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_Bufferer_passer_onner(TeeFactory): Cloned 4 input feature(s) into 4 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_Bufferer_aggregator(AggregateFactory): Combined 4 input feature(s) into 3 output feature(s), including 0 singleton(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_Bufferer(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_AttributeCreator(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_Bufferer_2_passer_onner(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_Bufferer_2(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_6(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_6_TestFactory_0(TestFactory): Tested 6 input feature(s) -- 4 feature(s) passed and 2 feature(s) failed
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_6_UNFILTERED(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
+2011-05-30 17:24:18|  21.2|  0.0|INFORM|PotensielleSvingerestriksjoner_SpatialRelator(SpatialRelationshipFactory): Processing 2443 feature(s) in 815 group(s)...
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_SpatialRelator(SpatialRelationshipFactory): Total results: processed 2 BASE(s) and 2441 CANDIDATE(s).  0 BASE/CANDIDATE pair(s) had at least one true predicate, with a total of 0 true predicate(s) found
+2011-05-30 17:24:18|  21.2|  0.0|STATS |PotensielleSvingerestriksjoner_SpatialRelator(SpatialRelationshipFactory): Total comparisons made: 0
+2011-05-30 17:24:18|  21.2|  0.0|STATS |Stored 2441 feature(s) to FME feature store file `C:\DOCUME~1\KNJETL~1.VEG\LOKALE~1\Temp\fctspatrel1306769038703_5440'
+2011-05-30 17:24:18|  21.3|  0.0|INFORM|PotensielleSvingerestriksjoner_SpatialRelator_2(SpatialRelationshipFactory): Processing 2459 feature(s) in 815 group(s)...
+2011-05-30 17:24:18|  21.3|  0.0|STATS |PotensielleSvingerestriksjoner_SpatialRelator_2(SpatialRelationshipFactory): Total results: processed 4 BASE(s) and 2455 CANDIDATE(s).  1 BASE/CANDIDATE pair(s) had at least one true predicate, with a total of 1 true predicate(s) found
+2011-05-30 17:24:18|  21.3|  0.0|STATS |PotensielleSvingerestriksjoner_SpatialRelator_2(SpatialRelationshipFactory): Total comparisons made: 2
+2011-05-30 17:24:18|  21.3|  0.0|STATS |Stored 2455 feature(s) to FME feature store file `C:\DOCUME~1\KNJETL~1.VEG\LOKALE~1\Temp\fctspatrel1306769038703_5440_0'
+2011-05-30 17:24:18|  21.3|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter(TeeFactory): Cloned 6 input feature(s) into 6 output feature(s)
+2011-05-30 17:24:18|  21.3|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_TestFactory_0(TestFactory): Tested 6 input feature(s) -- 1 feature(s) passed and 5 feature(s) failed
+2011-05-30 17:24:18|  21.3|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter_UNFILTERED(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2011-05-30 17:24:18|  21.3|  0.0|STATS |PotensielleSvingerestriksjoner_TestFilter <UNFILTERED> Output Nuker(TeeFactory): Cloned 5 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:18|  21.3|  0.0|STATS |PotensielleSvingerestriksjoner_GeometryReplacer_2(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2011-05-30 17:24:18|  21.3|  0.0|STATS |PotensielleSvingerestriksjoner_AttributeKeeper_3(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2011-05-30 17:24:18|  21.3|  0.0|STATS |PotensielleSvingerestriksjoner_AttributeKeeper_4(TeeFactory): Cloned 3672 input feature(s) into 3672 output feature(s)
+2011-05-30 17:24:18|  21.3|  0.0|INFORM|PotensielleSvingerestriksjoner_Matcher_2(MatchingFactory): Upper bound on the number of comparisons is 6743628. Fewer comparisons may be made, and the worst case will not exceed this upper bound
+2011-05-30 17:24:18|  21.3|  0.0|INFORM|PotensielleSvingerestriksjoner_Matcher_2(MatchingFactory): Processing comparison #1
+2011-05-30 17:24:18|  21.4|  0.1|STATS |PotensielleSvingerestriksjoner_Matcher_2(MatchingFactory): Found 14 matching group(s) of features in 3672 input feature(s). 3644 feature(s) did not have any matches
+2011-05-30 17:24:18|  21.4|  0.0|STATS |PotensielleSvingerestriksjoner_PotensielleSvingerestriksjoner Output Collector(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |PotensielleSvingerestriksjoner_Sperrelinjer_gjennom_kryss Output Collector(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |PotensielleSvingerestriksjoner_NodeTransid Output Collector(TeeFactory): Cloned 3658 input feature(s) into 3658 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |PotensielleSvingerestriksjoner Sperrelinjer_gjennom_kryss Output Renamer/Nuker(TeeFactory): Cloned 5 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |PotensielleSvingerestriksjoner PotensielleSvingerestriksjoner Output Renamer/Nuker(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |PotensielleSvingerestriksjoner NodeTransid Output Renamer/Nuker(TeeFactory): Cloned 3658 input feature(s) into 3658 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |Restriksjonsnoder NodeTransID Input Collector(TeeFactory): Cloned 3658 input feature(s) into 3658 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |Restriksjonsnoder Svingerestriksjoner Input Collector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |Restriksjonsnoder_Svingerestriksjoner Input Splitter(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |Restriksjonsnoder_NodeTransID Input Splitter(TeeFactory): Cloned 3658 input feature(s) into 7316 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |Restriksjonsnoder_AttributeKeeper_2(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|INFORM|Restriksjonsnoder_FeatureMerger(ReferenceFactory): Completed 100% of intermediate processing
+2011-05-30 17:24:18|  21.4|  0.0|STATS |Restriksjonsnoder_FeatureMerger(ReferenceFactory): Total Results: 0 Complete Feature(s), 0 Incomplete Feature(s), 0 Referenced Feature(s), 3658 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |Restriksjonsnoder_ListExploder_2(ElementFactory): Split out 0 list elements from 0 input features, using mode LEAN
+2011-05-30 17:24:18|  21.4|  0.0|STATS |Restriksjonsnoder_AttributeKeeper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|INFORM|Restriksjonsnoder_FeatureMerger_3(ReferenceFactory): Completed 100% of intermediate processing
+2011-05-30 17:24:18|  21.4|  0.0|STATS |Restriksjonsnoder_FeatureMerger_3(ReferenceFactory): Total Results: 0 Complete Feature(s), 0 Incomplete Feature(s), 0 Referenced Feature(s), 3658 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |Restriksjonsnoder_ListExploder(ElementFactory): Split out 0 list elements from 0 input features, using mode LEAN
+2011-05-30 17:24:18|  21.4|  0.0|STATS |Restriksjonsnoder_FeatureMerger_2(ReferenceFactory): Total Results: 0 Complete Feature(s), 0 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |Restriksjonsnoder_GeometryReplacer(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |Restriksjonsnoder_Restriksjonsnoder Output Collector(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |Restriksjonsnoder Restriksjonsnoder Output Renamer/Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |FeatureMerger_3(ReferenceFactory): Total Results: 0 Complete Feature(s), 1 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |NeighborFinder(ProximityFactory): Input Summary:  0 base feature(s), 42 candidate feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |NeighborFinder(ProximityFactory): Output Summary: 0 matched feature(s), 0 unmatched base feature(s), 42 unmatched candidate feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |AttributeCreator_5(TeeFactory): Cloned 42 input feature(s) into 42 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |AttributeCreator_4(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |AttributeCreator_3(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |AttributeCreator_2(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |CoordinateExtractor(TestFactory): Tested 43 input feature(s) -- 1 feature(s) passed and 42 feature(s) failed
+2011-05-30 17:24:18|  21.4|  0.0|STATS |StringFormatter_6(TeeFactory): Cloned 43 input feature(s) into 43 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |StringFormatter_5(TeeFactory): Cloned 43 input feature(s) into 43 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |StringConcatenator_3(TeeFactory): Cloned 43 input feature(s) into 43 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |AttributeCreator(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |StringFormatter_7(TeeFactory): Cloned 436 input feature(s) into 436 output feature(s)
+2011-05-30 17:24:18|  21.4|  0.0|STATS |Tester(TestFactory): Tested 436 input feature(s) -- 1 feature(s) passed and 435 feature(s) failed
+2011-05-30 17:24:18|  21.4|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `TEXTLINE'
+2011-05-30 17:24:18|  21.4|  0.0|INFORM|Loaded module 'TEXTLINE' from file 'C:\Programfiler\FME\plugins/TEXTLINE.dll'
+2011-05-30 17:24:18|  21.4|  0.0|INFORM|FME API version of module 'TEXTLINE' matches current internal version (3.6 20110321)
+2011-05-30 17:24:18|  21.4|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2011-05-30 17:24:18|  21.4|  0.0|INFORM|FME API version of module 'TEXTLINE' matches current internal version (3.6 20110321)
+2011-05-30 17:24:18|  21.4|  0.0|INFORM|Writer `TEXTLINE_1' of type `TEXTLINE' using group definition keyword `TEXTLINE_DEF'
+2011-05-30 17:24:18|  21.4|  0.0|INFORM|FME API version of module 'TEXTLINE' matches current internal version (3.6 20110321)
+2011-05-30 17:24:18|  21.4|  0.0|INFORM|Opening the Text File Writer on file `C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\0514Elveg\0514Svingerestriksjonsfeil.txt'
+2011-05-30 17:24:18|  21.4|  0.0|INFORM|Text File Writer: Line Termination: 'Windows'
+2011-05-30 17:24:18|  21.4|  0.0|INFORM|Text File Writer: Character Encoding: ''
+2011-05-30 17:24:18|  21.4|  0.0|INFORM|Text File Writer: Write UTF-8 Byte Order Mark: no
+2011-05-30 17:24:18|  21.4|  0.0|INFORM|FME Configuration: Destination coordinate system set to input coordinate system `EPSG:3045'
+2011-05-30 17:24:18|  21.5|  0.1|INFORM|Processed CANDIDATE 10 / 43
+2011-05-30 17:24:18|  21.5|  0.0|STATS |SpatialFilter(SpatialFilterFactory): Total: Processed 44 input feature(s): 1 BASE feature(s) and 43 CANDIDATE feature(s). 0 feature(s) PASSED
+2011-05-30 17:24:18|  21.5|  0.0|STATS |SpatialFilter PASSED Splitter(TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
+2011-05-30 17:24:18|  21.5|  0.0|STATS |SpatialFilter_PASSED_0 -> text_line Correlator(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2011-05-30 17:24:18|  21.5|  0.0|STATS |SpatialFilter_PASSED_1 -> Svingerestriksjonsavvik Correlator(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2011-05-30 17:24:18|  21.5|  0.0|STATS |Final Output Feature Type Router(TestFactory): Tested 2 input feature(s) -- 2 feature(s) passed and 0 feature(s) failed
+2011-05-30 17:24:18|  21.5|  0.0|STATS |Final Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2011-05-30 17:24:18|  21.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2011-05-30 17:24:18|  21.5|  0.0|STATS |                            `Count' Domain Summary
+2011-05-30 17:24:18|  21.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2011-05-30 17:24:18|  21.5|  0.0|STATS |PotensielleSvingerestriksjoner_Matcher                                       2
+2011-05-30 17:24:18|  21.5|  0.0|STATS |PotensielleSvingerestriksjoner_Matcher_2                                    14
+2011-05-30 17:24:18|  21.5|  0.0|STATS |___Segmentering_DuplicateRemover_2_145497720                                 2
+2011-05-30 17:24:18|  21.5|  0.0|STATS |___Segmentering_DuplicateRemover_2_145497721                                 2
+2011-05-30 17:24:18|  21.5|  0.0|STATS |___Segmentering_DuplicateRemover_2_145510189                                 2
+2011-05-30 17:24:18|  21.5|  0.0|STATS |___Segmentering_DuplicateRemover_2_145514629                                 2
+2011-05-30 17:24:18|  21.5|  0.0|STATS |___Segmentering_DuplicateRemover_2_145514630                                 2
+2011-05-30 17:24:18|  21.5|  0.0|STATS |___Segmentering_DuplicateRemover_2_145515606                                 2
+2011-05-30 17:24:18|  21.5|  0.0|STATS |___Segmentering_DuplicateRemover_2_145515607                                 2
+2011-05-30 17:24:18|  21.5|  0.0|STATS |___Segmentering_DuplicateRemover_2_240636286                                 2
+2011-05-30 17:24:18|  21.5|  0.0|STATS |___Segmentering_DuplicateRemover_3_145497720                                 2
+2011-05-30 17:24:18|  21.5|  0.0|STATS |___Segmentering_DuplicateRemover_3_145497721                                 2
+2011-05-30 17:24:18|  21.5|  0.0|STATS |___Segmentering_DuplicateRemover_3_145510189                                 3
+2011-05-30 17:24:18|  21.5|  0.0|STATS |___Segmentering_DuplicateRemover_3_145514629                                 3
+2011-05-30 17:24:18|  21.5|  0.0|STATS |___Segmentering_DuplicateRemover_3_145514630                                 3
+2011-05-30 17:24:18|  21.5|  0.0|STATS |___Segmentering_DuplicateRemover_3_145515606                                 3
+2011-05-30 17:24:18|  21.5|  0.0|STATS |___Segmentering_DuplicateRemover_3_145515607                                 3
+2011-05-30 17:24:18|  21.5|  0.0|STATS |___Segmentering_DuplicateRemover_3_240636286                                 2
+2011-05-30 17:24:18|  21.5|  0.0|STATS |counter                                                                   1832
+2011-05-30 17:24:18|  21.5|  0.0|STATS |==============================================================================
+2011-05-30 17:24:18|  21.5|  0.0|STATS |Total `@Count' Invocations:                                               1885
+2011-05-30 17:24:18|  21.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2011-05-30 17:24:18|  21.5|  0.0|INFORM|Closing the Text File Writer
+2011-05-30 17:24:18|  21.5|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2011-05-30 17:24:18|  21.5|  0.0|INFORM|Feature output statistics for `TEXTLINE' writer using keyword `TEXTLINE_1':
+2011-05-30 17:24:18|  21.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2011-05-30 17:24:18|  21.5|  0.0|STATS |                               Features Written
+2011-05-30 17:24:18|  21.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2011-05-30 17:24:18|  21.5|  0.0|STATS |text_line                                                                    1
+2011-05-30 17:24:18|  21.5|  0.0|STATS |==============================================================================
+2011-05-30 17:24:18|  21.5|  0.0|STATS |Total Features Written                                                       1
+2011-05-30 17:24:18|  21.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2011-05-30 17:24:18|  21.5|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Started outputting features
+2011-05-30 17:24:19|  21.6|  0.1|INFORM|Trying to find a DYNAMIC plugin for writer named `GEODATABASE_MDB'
+2011-05-30 17:24:19|  21.6|  0.0|INFORM|Loaded module 'GEODATABASE_MDB' from file 'C:\Programfiler\FME\GEODATABASE9.dll'
+2011-05-30 17:24:19|  21.6|  0.0|INFORM|FME API version of module 'GEODATABASE_MDB' matches current internal version (3.6 20110321)
+2011-05-30 17:24:19|  21.6|  0.0|INFORM|FME Configuration: Destination coordinate system set to `EPSG:3045'
+2011-05-30 17:24:19|  21.6|  0.0|INFORM|Coordinate System `EPSG:3045' parameters: CS_NAME=`ETRF89.TM33' DESC_NM=`ETRF89 / ETRS-TM33' DT_NAME=`ETRF89' EPSG=`3045' GROUP=`EUROPE' MAP_SCL=`1' MAX_LAT=`75' MAX_LNG=`18' MIN_LAT=`35.5' MIN_LNG=`12' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.11.2, 3045 [European Commission Joint Research Cent]' UNIT=`Meter' X_OFF=`500000' ZERO_X=`0.001' ZERO_Y=`0.001' 
+2011-05-30 17:24:19|  21.6|  0.0|INFORM|Coordinate System `EPSG:3045' as OGC Well Known Text: PROJCS["ETRF89 / ETRS-TM33",GEOGCS["ETRS89",DATUM["European_Terrestrial_Reference_System_1989",SPHEROID["Geodetic Reference System of 1980",6378137,298.2572221009113,AUTHORITY["EPSG","7019"]],AUTHORITY["EPSG","6258"]],PRIMEM["Greenwich",0],UNIT["degree",0.0174532925199433],AUTHORITY["EPSG","4258"]],PROJECTION["Transverse_Mercator"],PARAMETER["latitude_of_origin",0],PARAMETER["central_meridian",15],PARAMETER["scale_factor",0.9996],PARAMETER["false_easting",500000],PARAMETER["false_northing",0],UNIT["Meter",1],AUTHORITY["EPSG","3045"]]
+2011-05-30 17:24:19|  21.6|  0.0|INFORM|FME API version of module 'GEODATABASE_MDB' matches current internal version (3.6 20110321)
+2011-05-30 17:24:19|  21.6|  0.0|INFORM|Writer `GEODATABASE_MDB_1' of type `GEODATABASE_MDB' using group definition keyword `GEODATABASE_MDB_1_DEF'
+2011-05-30 17:24:19|  21.7|  0.1|INFORM|FME API version of module 'GEODATABASE_MDB' matches current internal version (3.6 20110321)
+2011-05-30 17:24:19|  21.7|  0.0|INFORM|Installed ArcGIS version is '10.0.2414'
+2011-05-30 17:24:20|  22.7|  1.0|WARN  |FME has checked out an ESRI license. The product checked out is 'ArcView'
+2011-05-30 17:24:21|  22.8|  0.1|INFORM|Connected to the Personal Geodatabase at 'C:\DATA\Kvalitetskontroller\Data\Geometrikontroll_20110511\Svingerestriksjoner.mdb'
+2011-05-30 17:24:21|  22.8|  0.0|INFORM|Personal Geodatabase release: '10.0'
+2011-05-30 17:24:21|  22.9|  0.1|INFORM|The 'HAS_Z_VALUES' keyword is set to 'AUTO_DETECT'. With the exception of MultiPatch feature classes, the dimensionality of new feature classes will be based on the first feature written to the feature class. (Features with no geometry are considered 2D)
+2011-05-30 17:24:21|  22.9|  0.0|INFORM|A default z-value of '0' will be used for all 3D features where z-values are not provided
+2011-05-30 17:24:21|  22.9|  0.0|INFORM|Geodatabase Writer: Not simplifying geometries being written to the Geodatabase
+2011-05-30 17:24:21|  22.9|  0.0|INFORM|Writer mode is 'INSERT'
+2011-05-30 17:24:21|  22.9|  0.0|INFORM|Transactions are being used by the Geodatabase Writer
+2011-05-30 17:24:21|  23.0|  0.0|INFORM|Geodatabase Writer: The field 'OBJECTID' in table 'Svingerestriksjonsavvik' will not be updated since it is not editable
+2011-05-30 17:24:21|  23.0|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Writing feature 0 
+2011-05-30 17:24:21|  23.0|  0.0|STATS |GeodatabaseRelationshipFeaturesPipeline::GeodatabaseRelationshipFeatures(SortFactory): Sorted 0 feature(s)
+2011-05-30 17:24:21|  23.0|  0.0|INFORM|Transaction #1 (final transaction) was successfully committed
+2011-05-30 17:24:21|  23.0|  0.0|INFORM|Closing the Geodatabase writer
+2011-05-30 17:24:21|  23.0|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2011-05-30 17:24:21|  23.0|  0.0|INFORM|Feature output statistics for `GEODATABASE_MDB' writer using keyword `GEODATABASE_MDB_1':
+2011-05-30 17:24:21|  23.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2011-05-30 17:24:21|  23.0|  0.0|STATS |                               Features Written
+2011-05-30 17:24:21|  23.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2011-05-30 17:24:21|  23.0|  0.0|STATS |Svingerestriksjonsavvik                                                      1
+2011-05-30 17:24:21|  23.0|  0.0|STATS |==============================================================================
+2011-05-30 17:24:21|  23.0|  0.0|STATS |Total Features Written                                                       1
+2011-05-30 17:24:21|  23.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2011-05-30 17:24:21|  23.0|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': done writing 1 feature(s) 
+2011-05-30 17:24:21|  23.0|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+2011-05-30 17:24:21|  23.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2011-05-30 17:24:21|  23.0|  0.0|STATS |                            Features Read Summary
+2011-05-30 17:24:21|  23.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2011-05-30 17:24:21|  23.0|  0.0|STATS |0514Innkjoring                                                              32
+2011-05-30 17:24:21|  23.0|  0.0|STATS |Fylkesgrense                                                             29721
+2011-05-30 17:24:21|  23.0|  0.0|STATS |GangSykkelVegSenterlinje                                                    53
+2011-05-30 17:24:21|  23.0|  0.0|STATS |KOMMUNE                                                                     26
+2011-05-30 17:24:21|  23.0|  0.0|STATS |Kjørebane                                                                   23
+2011-05-30 17:24:21|  23.0|  0.0|STATS |Kommune                                                                    436
+2011-05-30 17:24:21|  23.0|  0.0|STATS |Kommunedele                                                                 17
+2011-05-30 17:24:21|  23.0|  0.0|STATS |Kommunegrense                                                           134757
+2011-05-30 17:24:21|  23.0|  0.0|STATS |Riksgrense                                                                 251
+2011-05-30 17:24:21|  23.0|  0.0|STATS |SKILTPLATE                                                                  42
+2011-05-30 17:24:21|  23.0|  0.0|STATS |TILSTAND/SKADE__SKILTPLATE                                                  41
+2011-05-30 17:24:21|  23.0|  0.0|STATS |Territorialgrense                                                           85
+2011-05-30 17:24:21|  23.0|  0.0|STATS |VEGOPPMERKING__LANGSGÅENDE                                                2242
+2011-05-30 17:24:21|  23.0|  0.0|STATS |VEGREFERANSE                                                             16171
+2011-05-30 17:24:21|  23.0|  0.0|STATS |VegSenterlinje                                                            1801
+2011-05-30 17:24:21|  23.0|  0.0|STATS |Vegsperring                                                                 14
+2011-05-30 17:24:21|  23.0|  0.0|STATS |==============================================================================
+2011-05-30 17:24:21|  23.0|  0.0|STATS |Total Features Read                                                     185712
+2011-05-30 17:24:21|  23.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2011-05-30 17:24:21|  23.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2011-05-30 17:24:21|  23.0|  0.0|STATS |                           Features Written Summary
+2011-05-30 17:24:21|  23.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2011-05-30 17:24:21|  23.0|  0.0|STATS |Svingerestriksjonsavvik                                                      1
+2011-05-30 17:24:21|  23.0|  0.0|STATS |text_line                                                                    1
+2011-05-30 17:24:21|  23.0|  0.0|STATS |==============================================================================
+2011-05-30 17:24:21|  23.0|  0.0|STATS |Total Features Written                                                       2
+2011-05-30 17:24:21|  23.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2011-05-30 17:24:21|  23.0|  0.0|INFORM|Translation was SUCCESSFUL with 8 warning(s) (2 feature(s) output)
+2011-05-30 17:24:21|  23.0|  0.0|INFORM|FME Session Duration: 24.1 seconds. (CPU: 21.7s user, 0.9s system)
+2011-05-30 17:24:21|  23.0|  0.0|INFORM|END - ProcessID: 5440, peak process memory usage: 175876 kB, current process memory usage: 169208 kB.

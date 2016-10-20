@@ -1,0 +1,12 @@
+FEIL: 6652673.910   339921.800       Oppmerking uten restriksjon, finner ikke vegbilder, men antakelig ok ifølge google maps
+FEIL: 6651832.690   341395.600       Oppmerking uten restriksjon, finner ikke vegbilder, men antakelig ok ifølge google maps
+FEIL: 6651783.590   341468.200       Oppmerking uten restriksjon, finner ikke vegbilder, men antakelig ok ifølge google maps
+FEIL: 6656421.810   338858.100       Restriksjon uten skilt eller oppmerking, ok, skilt og oppmerking i orden
+FEIL: 6655316.090   338759.500       Restriksjon uten skilt eller oppmerking, ok, skilt og oppmerking i orden
+FEIL: 6652640.190   339119.800       Restriksjon uten skilt eller oppmerking, ok, skilt og oppmerking i orden
+FEIL: 6652853.823   338955.783       Skilt uten restriksjon, ok
+FEIL: 6652820.118   338980.096       Skilt uten restriksjon, ok
+FEIL: 6652864.607   338930.106       Skilt uten restriksjon, ok
+FEIL: 6655409.697   338760.124       Skilt uten restriksjon, ok, res. tilstede
+FEIL: 6655404.695   338760.148       Skilt uten restriksjon, ok, res. tilstede
+FEIL: 6656312.058   338832.603       Skilt uten restriksjon, ok, res. tilstede

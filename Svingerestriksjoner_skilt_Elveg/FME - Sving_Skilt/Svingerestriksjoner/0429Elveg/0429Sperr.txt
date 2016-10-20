@@ -1,0 +1,6 @@
+*0429*2011 VEGNETT*20110511*SPER*20110511*VDB SVNT*AHT
+..Eksport-dato 20110511
+
+
+Komm; TransID;kode;Fra;   Til;felt;
+0429;145386206;3;0;0;1#2;;

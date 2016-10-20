@@ -1,0 +1,12 @@
+FEIL: 6632219.600   265218.400       Oppmerking uten restriksjon		Rettet	Svigeres + innkj. forb.
+FEIL: 6638253.000   270081.400       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
+FEIL: 6619876.700   270150.400       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
+FEIL: 6629573.500   271913.700       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
+FEIL: 6631250.200   266742.700       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
+FEIL: 6632077.800   266543.100       Oppmerking uten restriksjon			Ingen svingeres. Pv som ender i gangfelt. Ser ikke ut som om Pv og Fv faktisk krysser på bildene, er fortauskant.	
+FEIL: 6622391.100   268008.500       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
+FEIL: 6627212.500   265966.700       Oppmerking uten restriksjon			Ingen svingeres. Stipla linje.
+FEIL: 6632230.900   264917.000       Restriksjon uten skilt eller oppmerking		Avskjøringsfelt. Må ligge inne svineres.
+FEIL: 6627707.932   266358.508       Skilt uten restriksjon			Rettet	Svingeres. Mulig det skal være inn på busslomme og, men ingen registrert vei.
+FEIL: 6632153.902   264691.283       Skilt uten restriksjon				Finner ikke skiltet i GISLINE eller Google.
+FEIL: 6627699.858   266320.320       Skilt uten restriksjon				Finner ikke skiltet i GISLINE eller Google.
