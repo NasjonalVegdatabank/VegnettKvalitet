@@ -1,0 +1,60 @@
+FEIL: 6744074.000   289513.500       Oppmerking uten restriksjon, ok
+FEIL: 6744074.000   289513.500       Oppmerking uten restriksjon, ok
+FEIL: 6744027.090   289101.100       Oppmerking uten restriksjon, ok
+FEIL: 6744359.410   298924.000       Oppmerking uten restriksjon, res lagt inn
+FEIL: 6743985.000   288856.000       Oppmerking uten restriksjon, ok
+FEIL: 6743872.090   288585.800       Oppmerking uten restriksjon, ok
+FEIL: 6745256.410   289301.200       Oppmerking uten restriksjon, ok
+FEIL: 6744010.910   289009.300       Oppmerking uten restriksjon, ok
+FEIL: 6743957.500   288762.800       Oppmerking uten restriksjon, ok
+FEIL: 6743957.500   288762.800       Oppmerking uten restriksjon, ok
+FEIL: 6743924.410   288694.600       Oppmerking uten restriksjon, ok
+FEIL: 6744433.800   298892.200       Oppmerking uten restriksjon, res lagt inn
+FEIL: 6715165.300   293789.200       Oppmerking uten restriksjon, pv eksisterer ikke
+FEIL: 6743915.880   288677.280       Oppmerking uten restriksjon, ok 
+FEIL: 6743993.800   288903.900       Oppmerking uten restriksjon, ok
+FEIL: 6743363.090   289085.400       Oppmerking uten restriksjon, ok
+FEIL: 6744015.590   289032.800       Oppmerking uten restriksjon, ok
+FEIL: 6745515.700   289149.300       Oppmerking uten restriksjon, res lagt inn
+FEIL: 6744002.000   288948.100       Oppmerking uten restriksjon, ok
+FEIL: 6743884.200   288613.600       Oppmerking uten restriksjon, ok
+FEIL: 6744033.000   289137.300       Oppmerking uten restriksjon, ok
+FEIL: 6744033.000   289137.300       Oppmerking uten restriksjon, ok
+FEIL: 6744040.700   289219.500       Oppmerking uten restriksjon, ok
+FEIL: 6720275.410   294908.300       Restriksjon uten skilt eller oppmerking, ok, skilt tilstede
+FEIL: 6744832.700   289556.000       Restriksjon uten skilt eller oppmerking, ok, skilt tilstede
+FEIL: 6736002.590   295950.100       Restriksjon uten skilt eller oppmerking, ok, skilt tilstede
+FEIL: 6744012.690   288477.450       Restriksjon uten skilt eller oppmerking, ok, skilt tilstede
+FEIL: 6713751.995   293729.934       Skilt uten restriksjon, ok
+FEIL: 6720120.396   294840.011       Skilt uten restriksjon, ok
+FEIL: 6737832.477   294502.400       Skilt uten restriksjon, ok
+FEIL: 6717667.955   294128.161       Skilt uten restriksjon, ok
+FEIL: 6717707.687   294138.123       Skilt uten restriksjon, ok
+FEIL: 6713742.560   293737.233       Skilt uten restriksjon, ok
+FEIL: 6736770.129   297269.124       Skilt uten restriksjon, res lagt inn
+FEIL: 6736774.478   297271.548       Skilt uten restriksjon, res lagt inn
+FEIL: 6714821.905   293845.621       Skilt uten restriksjon, ok
+FEIL: 6718965.981   294411.738       Skilt uten restriksjon, ok
+FEIL: 6720144.471   294836.119       Skilt uten restriksjon, ok
+FEIL: 6737814.833   294500.546       Skilt uten restriksjon, ok
+FEIL: 6722653.382   306551.335       Skilt uten restriksjon, ok
+FEIL: 6714958.591   293822.500       Skilt uten restriksjon, ok
+FEIL: 6719962.587   294783.902       Skilt uten restriksjon, ok
+FEIL: 6718690.691   294268.377       Skilt uten restriksjon, ok
+FEIL: 6736573.608   297174.803       Skilt uten restriksjon, res lagt inn
+FEIL: 6717177.549   294014.286       Skilt uten restriksjon, ok
+FEIL: 6714972.175   293814.422       Skilt uten restriksjon, ok
+FEIL: 6719939.051   294786.232       Skilt uten restriksjon, ok
+FEIL: 6736211.481   297041.227       Skilt uten restriksjon, ok
+FEIL: 6736569.912   297173.255       Skilt uten restriksjon, ok
+FEIL: 6714810.057   293847.646       Skilt uten restriksjon, ok
+FEIL: 6717165.103   294010.460       Skilt uten restriksjon, res lagt inn
+FEIL: 6713796.718   293734.853       Skilt uten restriksjon, ok
+FEIL: 6718669.462   294269.244       Skilt uten restriksjon, ok
+FEIL: 6718987.314   294414.844       Skilt uten restriksjon, ok
+FEIL: 6736544.925   297175.568       Skilt uten restriksjon, ok
+FEIL: 6736799.332   297272.917       Skilt uten restriksjon, ok
+FEIL: 6714806.020   293854.271       Skilt uten restriksjon, ok
+FEIL: 6737178.638   292508.787       Skilt uten restriksjon, ok
+FEIL: 6744146.129   288403.691       Skilt uten restriksjon, ok
+FEIL: 6737198.539   292489.461       Skilt uten restriksjon, ok

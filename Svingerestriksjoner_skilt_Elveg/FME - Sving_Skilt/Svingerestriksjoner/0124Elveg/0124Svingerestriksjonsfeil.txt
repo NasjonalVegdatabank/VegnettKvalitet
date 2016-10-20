@@ -1,0 +1,5 @@
+FEIL: 6612127.800   283986.600       Oppmerking uten restriksjon
+FEIL: 6611234.800   283427.500       Restriksjon uten skilt eller oppmerking
+FEIL: 6611234.800   283427.500       Restriksjon uten skilt eller oppmerking
+FEIL: 6611234.800   283427.500       Restriksjon uten skilt eller oppmerking
+FEIL: 6611234.800   283427.500       Restriksjon uten skilt eller oppmerking

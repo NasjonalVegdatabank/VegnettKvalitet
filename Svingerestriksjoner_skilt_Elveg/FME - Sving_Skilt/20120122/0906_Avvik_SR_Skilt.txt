@@ -1,0 +1,6 @@
+FEIL: 6492417.463   132291.555       Skilt uten restriksjon
+FEIL: 6503018.476   138252.773       Skilt uten restriksjon
+FEIL: 6493742.629   134278.252       Skilt uten restriksjon
+FEIL: 6493276.472   132269.846       Skilt uten restriksjon
+FEIL: 6493251.162   132236.420       Skilt uten restriksjon
+FEIL: 6491829.639   128920.038       Skilt uten restriksjon

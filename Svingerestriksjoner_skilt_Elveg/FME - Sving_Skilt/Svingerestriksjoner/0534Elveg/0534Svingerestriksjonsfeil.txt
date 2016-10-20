@@ -1,0 +1,18 @@
+FEIL: 6704132.910   255145.000       Oppmerking uten restriksjon			Ligger inn innkj. forb. 	
+FEIL: 6702997.990   255568.320       Oppmerking uten restriksjon			Ingen svingeres. Stipla linje.
+FEIL: 6704675.090   254425.300       Oppmerking uten restriksjon		Rettet	Svingeres. Heltrukken linje.
+FEIL: 6712971.300   260154.500       Oppmerking uten restriksjon		Rettet	Svingeres. Heltrukken linje.
+FEIL: 6703854.700   255251.100       Oppmerking uten restriksjon		Rettet	Svingeres. Heltrukken linje + innkj. forb.
+FEIL: 6704179.500   255080.200       Oppmerking uten restriksjon			Ligger inn innkj. forb. 
+FEIL: 6703311.410   255542.800       Oppmerking uten restriksjon		Rettet	Svingeres. Heltrukken linje + innkj. forb.
+FEIL: 6710283.590   260622.100       Oppmerking uten restriksjon			Ingen svingeres. Stipla linje.
+FEIL: 6698174.910   255897.300       Oppmerking uten restriksjon			Ingen svingeres. Stipla linje.
+FEIL: 6702605.910   255755.200       Oppmerking uten restriksjon		Rettet	Svingeres. Heltrukken linje + innkj. forb.
+FEIL: 6713291.410   260132.200       Oppmerking uten restriksjon			Ingen svingeres. Stipla linje.
+FEIL: 6712901.700   260158.300       Oppmerking uten restriksjon			Ingen svingeres. Stipla linje.
+FEIL: 6699618.590   255869.400       Restriksjon uten skilt eller oppmerking		Dobbel svingeres. og innkj. forb. Begge må være der.
+FEIL: 6705037.500   255241.400       Restriksjon uten skilt eller oppmerking		Dobbel svingeres. og innkj. forb. Begge må være der.
+FEIL: 6707162.800   256662.100       Restriksjon uten skilt eller oppmerking		Dobbel svingeres. og innkj. forb. Begge må være der.		
+FEIL: 6704766.090   254232.800       Restriksjon uten skilt eller oppmerking		Dobbel svingeres. og innkj. forb. Begge må være der.	
+FEIL: 6704922.031   255175.921       Skilt uten restriksjon				Ligger inne svingeres.	
+FEIL: 6704944.105   255213.095       Skilt uten restriksjon				Ligger inne svingeres.

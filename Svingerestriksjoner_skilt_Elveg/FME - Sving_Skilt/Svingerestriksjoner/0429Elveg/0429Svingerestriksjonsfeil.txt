@@ -1,0 +1,5 @@
+FEIL: 6782809.939   304331.892       Skilt uten restriksjon, res ok
+FEIL: 6782757.872   304341.973       Skilt uten restriksjon, res ok
+FEIL: 6782784.171   304320.841       Skilt uten restriksjon, res lagt inn
+FEIL: 6782664.247   304237.936       Skilt uten restriksjon, res ok
+FEIL: 6782583.999   304236.028       Skilt uten restriksjon, res lagt inn

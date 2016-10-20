@@ -1,0 +1,40 @@
+FEIL: 6651665.000   254858.900       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb.
+FEIL: 6649174.700   248073.600       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb.
+FEIL: 6648829.800   253776.000       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb.
+FEIL: 6648390.000   249516.100       Oppmerking uten restriksjon			Ingen svingeres. Viser for lang sperre i kartet
+FEIL: 6649581.200   247660.800       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb.
+FEIL: 6648850.000   253748.500       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb.
+FEIL: 6648352.900   252582.400       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb.
+FEIL: 6648593.000   253062.400       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb.
+FEIL: 6653058.800   250023.100       Oppmerking uten restriksjon		Rettet	Svingeres.
+FEIL: 6649573.900   247803.400       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb.					
+FEIL: 6650612.100   248434.200       Oppmerking uten restriksjon			Ingen svingeres.
+FEIL: 6650549.400   253569.900       Oppmerking uten restriksjon			Ingen svingeres.
+FEIL: 6649265.100   249215.700       Oppmerking uten restriksjon			Ingen svingeres
+FEIL: 6648029.800   249640.100       Oppmerking uten restriksjon		Rettet	Innkj. forb.	
+FEIL: 6650938.200   248229.300       Oppmerking uten restriksjon			Ingen svingeres
+FEIL: 6646486.000   248553.400       Oppmerking uten restriksjon		OBS	Ingen bilder. Ser ut som enveiskjørt.	
+FEIL: 6648838.300   248131.800       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb.
+FEIL: 6655999.100   241047.500       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
+FEIL: 6649090.200   248080.000       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb
+FEIL: 6653966.000   255929.100       Oppmerking uten restriksjon			Ingen svingeres
+FEIL: 6654564.300   242356.000       Oppmerking uten restriksjon		Rettet	Svingeres. Heltrukken linje og sperring	
+FEIL: 6649279.000   249213.700       Oppmerking uten restriksjon			Ingen svingeres. Stipla linje
+FEIL: 6649178.600   248044.900       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb.
+FEIL: 6651517.100   247339.400       Oppmerking uten restriksjon			Ingen svingeres. Stipla linje
+FEIL: 6651477.700   246090.100       Oppmerking uten restriksjon			Ingen svingeres. Stipla linje
+FEIL: 6648616.000   253089.800       Oppmerking uten restriksjon			Svingeres. Ligger inne innkj. forb
+FEIL: 6650544.900   246723.100       Oppmerking uten restriksjon			Ingen svingeres.
+FEIL: 6651685.500   255333.800       Oppmerking uten restriksjon			Ingen svingeres. Brudd i heltrukken linje.
+FEIL: 6651501.900   246118.800       Oppmerking uten restriksjon			Ingen svingeres. Brudd i linja.
+FEIL: 6651075.800   252025.500       Restriksjon uten skilt eller oppmerking	Rettet 	Tok vek svingeres, la på innkj. forb.
+FEIL: 6651075.800   252025.500       Restriksjon uten skilt eller oppmerking	Rettet 	Tok vek svingeres, la på innkj. forb.
+FEIL: 6651075.800   252025.500       Restriksjon uten skilt eller oppmerking	Rettet 	Tok vek svingeres, la på innkj. forb.
+FEIL: 6651075.800   252025.500       Restriksjon uten skilt eller oppmerking	Rettet 	Tok vek svingeres, la på innkj. forb.
+FEIL: 6648876.832   248121.029       Skilt uten restriksjon				Svingeres. Ligger inne innkj. forb.
+FEIL: 6648876.832   248121.029       Skilt uten restriksjon				Svingeres. Ligger inne innkj. forb.
+FEIL: 6649219.637   248023.616       Skilt uten restriksjon				Ingen svingeres. Bro.
+FEIL: 6653370.083   244237.496       Skilt uten restriksjon			Rettet	Svingeres.
+FEIL: 6649177.870   248077.450       Skilt uten restriksjon				Svingeres. Ligger inne innkj. forb.
+FEIL: 6648504.010   251632.307       Skilt uten restriksjon			Rettet	La inn innkj. forb.	
+FEIL: 6648595.045   251684.293       Skilt uten restriksjon			Rettet	La inn innkj. forb. 

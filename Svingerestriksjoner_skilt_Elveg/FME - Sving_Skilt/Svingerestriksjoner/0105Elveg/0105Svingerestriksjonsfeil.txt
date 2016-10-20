@@ -1,0 +1,31 @@
+FEIL: 6578619.400   278236.600       Oppmerking uten restriksjon
+FEIL: 6579659.400   276441.300       Oppmerking uten restriksjon
+FEIL: 6581648.530   272501.160       Oppmerking uten restriksjon
+FEIL: 6582064.630   272139.750       Oppmerking uten restriksjon
+FEIL: 6581778.600   272331.600       Oppmerking uten restriksjon
+FEIL: 6582098.330   272078.820       Oppmerking uten restriksjon
+FEIL: 6578907.400   277947.700       Oppmerking uten restriksjon
+FEIL: 6578243.200   278766.300       Oppmerking uten restriksjon
+FEIL: 6569994.500   282500.600       Oppmerking uten restriksjon
+FEIL: 6566005.700   283322.140       Restriksjon uten skilt eller oppmerking
+FEIL: 6566749.560   283015.130       Restriksjon uten skilt eller oppmerking
+FEIL: 6569579.590   281432.400       Restriksjon uten skilt eller oppmerking
+FEIL: 6570398.200   280995.290       Restriksjon uten skilt eller oppmerking
+FEIL: 6577131.210   277310.650       Restriksjon uten skilt eller oppmerking
+FEIL: 6577790.190   276796.000       Restriksjon uten skilt eller oppmerking
+FEIL: 6579319.920   276331.340       Restriksjon uten skilt eller oppmerking
+FEIL: 6579955.030   275814.680       Restriksjon uten skilt eller oppmerking
+FEIL: 6576598.256   273987.416       Skilt uten restriksjon
+FEIL: 6576598.300   273973.300       Skilt uten restriksjon
+FEIL: 6576637.432   280602.717       Skilt uten restriksjon
+FEIL: 6576772.008   273704.530       Skilt uten restriksjon
+FEIL: 6576598.300   273973.300       Skilt uten restriksjon
+FEIL: 6577653.289   279155.042       Skilt uten restriksjon
+FEIL: 6577652.824   279263.384       Skilt uten restriksjon
+FEIL: 6576774.350   273699.010       Skilt uten restriksjon
+FEIL: 6576601.535   273982.463       Skilt uten restriksjon
+FEIL: 6578014.316   279073.358       Skilt uten restriksjon
+FEIL: 6576841.775   280028.262       Skilt uten restriksjon
+FEIL: 6579632.463   276068.566       Skilt uten restriksjon
+FEIL: 6576831.979   280034.017       Skilt uten restriksjon
+FEIL: 6576629.668   280612.594       Skilt uten restriksjon

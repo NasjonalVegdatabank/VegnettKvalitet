@@ -1,0 +1,10 @@
+FEIL: 6855990.300   211997.800       Oppmerking uten restriksjon
+FEIL: 6855990.300   211997.800       Oppmerking uten restriksjon
+FEIL: 6860719.500   212419.100       Oppmerking uten restriksjon
+FEIL: 6860115.700   212456.800       Restriksjon uten skilt eller oppmerking
+FEIL: 6860811.400   211862.300       Restriksjon uten skilt eller oppmerking
+FEIL: 6860782.400   211785.900       Restriksjon uten skilt eller oppmerking
+FEIL: 6871953.239   205695.807       Skilt uten restriksjon
+FEIL: 6871704.153   205622.789       Skilt uten restriksjon
+FEIL: 6866487.768   212396.187       Skilt uten restriksjon
+FEIL: 6851606.137   208366.175       Skilt uten restriksjon

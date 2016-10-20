@@ -1,0 +1,2 @@
+FEIL: 6826302.200   289861.200       Oppmerking uten restriksjon, stiplet midtstripe, ok
+FEIL: 6826706.500   289936.400       Oppmerking uten restriksjon, stiplet midtstripe, ok

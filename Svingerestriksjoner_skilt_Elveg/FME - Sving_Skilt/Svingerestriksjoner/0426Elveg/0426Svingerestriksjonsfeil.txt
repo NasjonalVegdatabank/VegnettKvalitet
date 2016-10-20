@@ -1,0 +1,6 @@
+FEIL: 6728064.590   326391.600       Oppmerking uten restriksjon, feil i analyse, kjøremønster ok
+FEIL: 6728669.800   327380.700       Oppmerking uten restriksjon, kjøremønster ok
+FEIL: 6736248.966   325688.379       Skilt uten restriksjon, res ok
+FEIL: 6736456.974   325503.266       Skilt uten restriksjon, res lagt inn
+FEIL: 6736235.982   325699.416       Skilt uten restriksjon, res ok
+FEIL: 6736224.203   325714.081       Skilt uten restriksjon, res lagt inn

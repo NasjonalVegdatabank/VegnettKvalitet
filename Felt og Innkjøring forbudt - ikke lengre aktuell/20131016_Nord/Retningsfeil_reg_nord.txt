@@ -1,0 +1,26 @@
+FEIL: 7463863.570   482947.150       Felt , mangler restriksjon			H:\Kvalitetskontroller\Retning\Resultater\20131016\1804Retningsfeil.log(1): 
+FEIL: 7462590.540   474717.270       Felt 2, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1804Retningsfeil.log(2): 
+FEIL: 7481887.770   488416.520       Felt 2, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1804Retningsfeil.log(3): 
+FEIL: 7481887.770   488416.520       Felt 1, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1804Retningsfeil.log(4): 
+FEIL: 7480246.880   489687.120       Felt 2, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1804Retningsfeil.log(5): 
+FEIL: 7480246.880   489687.120       Felt 1, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1804Retningsfeil.log(6): 
+FEIL: 7569255.500   481891.360       Felt 1, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1865Retningsfeil.log(1): 
+FEIL: 7569233.520   481872.670       Felt 1, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1865Retningsfeil.log(2): 
+FEIL: 7569255.500   481891.360       Felt 2, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1865Retningsfeil.log(3): 
+FEIL: 7569228.820   481879.370       Felt 2, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1865Retningsfeil.log(4): 
+FEIL: 7569216.250   481855.550       Felt 1, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1865Retningsfeil.log(5): 
+FEIL: 7569224.980   481834.620       Felt 1, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1865Retningsfeil.log(6): 
+FEIL: 7569204.250   481850.310       Felt 2, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1865Retningsfeil.log(7): 
+FEIL: 7569219.380   481831.510       Felt 2, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1865Retningsfeil.log(8): 
+FEIL: 7569201.300   481851.170       Felt 1, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1865Retningsfeil.log(9): 
+FEIL: 7569183.220   481843.320       Felt 1, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1865Retningsfeil.log(10):
+FEIL: 7569194.080   481863.590       Felt 2, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1865Retningsfeil.log(11):
+FEIL: 7569180.430   481848.560       Felt 2, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1865Retningsfeil.log(12):
+FEIL: 7569196.210   481869.280       Felt 1, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1865Retningsfeil.log(13):
+FEIL: 7569191.620   481886.520       Felt 1, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1865Retningsfeil.log(14):
+FEIL: 7569209.820   481873.890       Felt 2, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1865Retningsfeil.log(15):
+FEIL: 7569195.250   481888.670       Felt 2, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1865Retningsfeil.log(16):
+FEIL: 7633472.090   561802.100       Felt 2, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1903Retningsfeil.log(1): 
+FEIL: 7630005.740   563068.430       Felt 2, mangler restriksjon		H:\Kvalitetskontroller\Retning\Resultater\20131016\1903Retningsfeil.log(2): 
+FEIL: 7705855.290   589770.020       Restriksjon på del av lenke		H:\Kvalitetskontroller\Retning\Resultater\20131016\1929Retningsfeil.log(1): 
+FEIL: 7800500.270  1076437.890       Felt 1#2, har restriksjon			H:\Kvalitetskontroller\Retning\Resultater\20131016\2030Retningsfeil.log(1):
