@@ -1,0 +1,6 @@
+FEIL: 7102860.75 328981.57 Skilt: 520 - Sykkelveg, vegreferanse FV7621 m686
+FEIL: 7103032.57 328892.32 Skilt: 520 - Sykkelveg, vegreferanse FV7621 m880
+FEIL: 7102943.93 328931.03 Skilt: 520 - Sykkelveg, vegreferanse FV7621 m783
+FEIL: 7102842.6 328977.56 Skilt: 520 - Sykkelveg, vegreferanse FV7621 m671
+FEIL: 7103031.91418371 328898.156889199 Skilt: 521 - Sykkelfelt, vegreferanse FV7621 m877
+FEIL: 7102729.73 329035.55 Skilt: 521 - Sykkelfelt, vegreferanse FV7621 m546

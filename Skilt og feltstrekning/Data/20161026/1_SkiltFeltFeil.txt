@@ -1,0 +1,20 @@
+FEIL: 6570571.51014015 276436.780339541 Skilt: 520 - Sykkelveg, vegreferanse FV1102 m2504
+FEIL: 6596386.95394394 253541.44177655 Skilt: 521 - Sykkelfelt, vegreferanse RV191 m3598
+FEIL: 6596627.07010125 252198.222160766 Skilt: 521 - Sykkelfelt, vegreferanse FV3131 m1416
+FEIL: 6596698.70563622 251969.223452588 Skilt: 521 - Sykkelfelt, vegreferanse FV3131 m1656
+FEIL: 6571267.0300293 267439.239990234 Skilt: 521 - Sykkelfelt, vegreferanse FV1083 m971
+FEIL: 6571294.67004395 267432.030029297 Skilt: 521 - Sykkelfelt, vegreferanse FV1083 m946
+FEIL: 6571359.02001953 267377.060058594 Skilt: 521 - Sykkelfelt, vegreferanse FV1083 m861
+FEIL: 6571732.57995605 267161.959960938 Skilt: 521 - Sykkelfelt, vegreferanse FV1083 m427
+FEIL: 6596407.19510763 253026.889980649 Skilt: 521 - Sykkelfelt, vegreferanse FV3131 m505
+FEIL: 6596661.22735765 252101.75213323 Skilt: 521 - Sykkelfelt, vegreferanse FV3131 m1518
+FEIL: 6575499.87627247 277110.570762054 Skilt: 508.1 - Kollektivfelt, for buss, vegreferanse RV1113 m396
+FEIL: 6589372.69106275 260548.840513709 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse PV46031 m790
+FEIL: 6570503.18882443 268850.823913802 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV1104 m2577
+FEIL: 6571777.43994141 267158.670043945 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse FV1083 m386
+FEIL: 6594655.76000977 255097.83996582 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse FV1189 m12026
+FEIL: 6570639.46675195 269164.529540089 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV1104 m2942
+FEIL: 6576500.16003418 272850.780029297 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse FV1093 m3234
+FEIL: 6576504.66780836 272847.299975614 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse FV1093 m3234
+FEIL: 6570194.65265338 270418.035875009 Skilt: 509 - Sambruksfelt, vegreferanse RV1112 m70
+FEIL: 6570089.03628547 270303.303530152 Skilt: 509 - Sambruksfelt, vegreferanse RV1104 m4397

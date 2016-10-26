@@ -1,0 +1,148 @@
+FEIL: 6648676.4699707 262146.979980469 Skilt: 520 - Sykkelveg, vegreferanse EV1852 m208
+FEIL: 6650437.62575316 263930.912823103 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m1885
+FEIL: 6649550.84792386 263938.207369877 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m982
+FEIL: 6649459.64825735 263945.629514248 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m890
+FEIL: 6649414.66394648 263944.820249914 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m845
+FEIL: 6649248.509 263944.876 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m679
+FEIL: 6649070.32603168 263946.290021685 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m500
+FEIL: 6648922.29599915 263941.163574414 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m351
+FEIL: 6648872.27278459 263938.453718671 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m301
+FEIL: 6648757.08956303 263961.475854234 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m178
+FEIL: 6648728.63227729 263980.168281703 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m144
+FEIL: 6648621.48642669 264047.351048168 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m15
+FEIL: 6648601.00466816 264061.369120786 Skilt: 521 - Sykkelfelt, vegreferanse KV1611 m214
+FEIL: 6648509.57225994 263883.761795443 Skilt: 521 - Sykkelfelt, vegreferanse KV1611 m14
+FEIL: 6648500.63736728 263874.968098066 Skilt: 521 - Sykkelfelt, vegreferanse KV1611 m1
+FEIL: 6648546.40896932 263958.655786 Skilt: 521 - Sykkelfelt, vegreferanse KV1611 m98
+FEIL: 6650587.3174074 258987.2759186 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m8335
+FEIL: 6651615.06123952 261153.696006614 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5530
+FEIL: 6651542.8879044 261065.464015322 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5643
+FEIL: 6651499.29074943 261000.87085711 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5722
+FEIL: 6651461.14863811 260945.009377009 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5790
+FEIL: 6651426.52767259 260893.746038218 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5852
+FEIL: 6651379.17747107 260824.499200795 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5936
+FEIL: 6651293.57697878 260699.159030417 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m6089
+FEIL: 6648550.32586117 263196.148711832 Skilt: 521 - Sykkelfelt, vegreferanse KV106411 m155
+FEIL: 6648536.47512343 263231.091847798 Skilt: 521 - Sykkelfelt, vegreferanse KV106411 m193
+FEIL: 6648482.61243428 263356.701278225 Skilt: 521 - Sykkelfelt, vegreferanse KV106411 m329
+FEIL: 6650532.346186 259048.990073139 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m8253
+FEIL: 6650508.82094046 259075.141734051 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m8218
+FEIL: 6650462.97960334 259119.27705029 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m8154
+FEIL: 6650398.70396175 259170.390369961 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m8073
+FEIL: 6650343.97261116 259233.472090061 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m7989
+FEIL: 6650358.88116432 259264.540303423 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m7953
+FEIL: 6650552.84810789 259508.622114548 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m7634
+FEIL: 6650670.07743984 259639.599703468 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m7456
+FEIL: 6650680.21515053 259667.703730935 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m7424
+FEIL: 6651358.9193246 260794.974397497 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5972
+FEIL: 6651403.51243786 260859.909561181 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5893
+FEIL: 6651442.77000233 260917.674570433 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5823
+FEIL: 6651483.03523225 260977.236455343 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5751
+FEIL: 6651526.20767138 261039.45862465 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5674
+FEIL: 6651565.33273913 261096.681462973 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5605
+FEIL: 6651662.99660597 261208.830218971 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5457
+FEIL: 6651664.33454535 261210.327175735 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5455
+FEIL: 6651709.73291355 261261.156282964 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5387
+FEIL: 6651720.83257143 261274.105155751 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5370
+FEIL: 6651753.3507284 261312.140874084 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5320
+FEIL: 6651800.62946581 261365.693933806 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5248
+FEIL: 6651828.3 261398 Skilt: 521 - Sykkelfelt, vegreferanse KV1612 m5205
+FEIL: 6651143.54003906 265500.350006104 Skilt: 521 - Sykkelfelt, vegreferanse KV111291 m771
+FEIL: 6651099.33007813 265506.149993897 Skilt: 521 - Sykkelfelt, vegreferanse KV111291 m804
+FEIL: 6648633.68994141 262127.050048828 Skilt: 521 - Sykkelfelt, vegreferanse EV1852 m254
+FEIL: 6648485.01000977 262020.400024414 Skilt: 521 - Sykkelfelt, vegreferanse EV1852 m440
+FEIL: 6650886.25552 264062.408093333 Skilt: 508.1 - Kollektivfelt, for buss, vegreferanse KV43 m223
+FEIL: 6651756.46184915 264332.265162376 Skilt: 508.1 - Kollektivfelt, for buss, vegreferanse RV43 m1168
+FEIL: 6653188.45814425 268919.312035343 Skilt: 508.1 - Kollektivfelt, for buss, vegreferanse RV43 m6209
+FEIL: 6648413.51281413 262988.23358865 Skilt: 508.1 - Kollektivfelt, for buss, vegreferanse RV1621 m756
+FEIL: 6648417.98571462 262977.167516657 Skilt: 508.1 - Kollektivfelt, for buss, vegreferanse RV1621 m756
+FEIL: 6650883.21016247 269038.40668969 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV62 m1914
+FEIL: 6649751.78325497 259543.73082958 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV182 m4504
+FEIL: 6649444.61192898 259776.504859306 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV1895 m23440
+FEIL: 6650127.14161709 258986.114700755 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV1896 m21021
+FEIL: 6650587.0814129 258737.981065952 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV1612 m8601
+FEIL: 6650597.30882692 258837.147822108 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV1612 m8503
+FEIL: 6650650.61902969 258585.48097031 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV1612 m8769
+FEIL: 6650612.66133589 258523.291947727 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV1612 m8897
+FEIL: 6650647.73903361 258545.367228077 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV1612 m8857
+FEIL: 6650583.9430069 258477.243578721 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV1612 m8951
+FEIL: 6650648.61525341 258545.919328954 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV1612 m8856
+FEIL: 6644170.66147842 263971.356058271 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV181 m4870
+FEIL: 6647067.78075726 262815.785487312 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV181 m8018
+FEIL: 6641638.04766062 263399.559200625 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV181 m2129
+FEIL: 6640830.35933914 263535.072552261 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV1880 m13040
+FEIL: 6652447.22941888 265899.678046013 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV482 m21049
+FEIL: 6649647.90833977 265965.320196009 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV651 m1446
+FEIL: 6649768.99095775 266176.423064759 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV651 m1204
+FEIL: 6649803.99561485 266250.776632337 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV651 m1122
+FEIL: 6650233.53174722 267068.987311365 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV651 m189
+FEIL: 6649098.9295613 260517.042381479 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV1893 m34133
+FEIL: 6650510.7881032 258230.20580226 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV1897 m43146
+FEIL: 6650604.902 258907.813 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV1612 m8433
+FEIL: 6651037.47718182 263670.776454546 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV1612 m2619
+FEIL: 6651001.0387345 263706.428390287 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV1612 m2568
+FEIL: 6650858.36496865 263844.941917555 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV1612 m2369
+FEIL: 6650648.32852097 263960.895096163 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV1612 m2097
+FEIL: 6641965.02996713 264975.251051862 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV1551 m6623
+FEIL: 6654063.07502223 270277.918273237 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV486 m13038
+FEIL: 6655674.21122534 272621.264790229 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV43 m10969
+FEIL: 6655624.66979767 272505.505843381 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV43 m10841
+FEIL: 6655474.66795742 272276.195411208 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV43 m10566
+FEIL: 6652561.18517959 266384.525859096 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV43 m3410
+FEIL: 6652380.0371243 265673.482091858 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV43 m2675
+FEIL: 6650941.32574446 264084.370573595 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV43 m284
+FEIL: 6650790.21796355 264017.768087035 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV43 m116
+FEIL: 6649853.81738713 256585.028658407 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV182 m7904
+FEIL: 6649926.62207365 256698.944332287 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV182 m7770
+FEIL: 6649984.2533021 256877.277054221 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV182 m7584
+FEIL: 6650074.09897332 257210.462730473 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV182 m7239
+FEIL: 6650134.85645791 257327.619674362 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV1898 m13010
+FEIL: 6649886.88487038 259311.561900439 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV182 m4780
+FEIL: 6645189.56946269 263654.371670408 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV181 m5944
+FEIL: 6643996.03360928 263985.890720655 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV181 m4689
+FEIL: 6643411.46761697 264041.677094169 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV181 m4098
+FEIL: 6642053.84947491 263596.227197218 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV181 m2608
+FEIL: 6647260.61993751 265538.936713758 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV682 m32170
+FEIL: 6647166.55719633 265394.100142174 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV682 m23026
+FEIL: 6651114.72620857 269437.17886563 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV62 m2382
+FEIL: 6650597.0749354 268784.585560957 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV62 m1534
+FEIL: 6650255.89492441 267884.668526768 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV62 m573
+FEIL: 6647590.43801227 265973.885135412 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV61 m10029
+FEIL: 6647412.42312412 265796.678079927 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV61 m9774
+FEIL: 6647306.28374736 265647.742468057 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV682 m32050
+FEIL: 6650586.74651811 258709.291878017 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV1612 m8630
+FEIL: 6639916.39161571 263407.601000943 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV181 m319
+FEIL: 6640987.74656082 263567.077920193 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV181 m1407
+FEIL: 6641389.50206161 263394.454788639 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV181 m1858
+FEIL: 6645980.5 263354.6 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV181 m6798
+FEIL: 6645817.2 263428.2 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV181 m6618
+FEIL: 6645710.2 263483.7 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV181 m6498
+FEIL: 6645498.3 263590.1 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV181 m6260
+FEIL: 6652429.64146937 266918.808533901 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV43 m3997
+FEIL: 6653612.19019441 263972.290481198 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV1501 m4448
+FEIL: 6651599.39533998 272648.247920766 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV1591 m10254
+FEIL: 6641141.04047968 263564.816394223 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV1880 m14083
+FEIL: 6642383.10819821 263768.457503513 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV181 m2995
+FEIL: 6646242.13922847 263258.012856953 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV181 m7079
+FEIL: 6652057.6350662 258482.80616136 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV1501 m10553
+FEIL: 6652098.9100662 258532.81241136 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV1501 m10488
+FEIL: 6649926.66240502 261806.960477646 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV1621 m3170
+FEIL: 6649934.5631157 261695.240511031 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV1621 m3303
+FEIL: 6649926.72770016 261662.005290104 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV1621 m3327
+FEIL: 6649896.88782596 261663.964143989 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV1621 m3351
+FEIL: 6649879.45402638 261630.467742544 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV1621 m3385
+FEIL: 6649790.97912588 261570.787994159 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV1621 m3491
+FEIL: 6649693.10172672 261527.432028156 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV1621 m3596
+FEIL: 6654083.7181766 270438.899586522 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV43 m8128
+FEIL: 6654389.63330516 271175.259294287 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV43 m8998
+FEIL: 6654431.8750224 271210.004047822 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV43 m9053
+FEIL: 6649958.47575497 259205.011246246 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV182 m4909
+FEIL: 6651754.06888777 271144.950654865 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV62 m4223
+FEIL: 6651311.01559879 269814.37371293 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV62 m2807
+FEIL: 6649319.64902369 265513.49156536 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV651 m2011
+FEIL: 6649892.22632135 266457.401340201 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV651 m898
+FEIL: 6649082.85453489 265268.345446235 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV673 m32298
+FEIL: 6651868.63000488 264621.08996582 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV15082 m22005
+FEIL: 6651143.54003906 265500.350006104 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV111291 m771
+FEIL: 6649936.26858293 261777.702406046 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV1621 m3209
+FEIL: 6649808.54225821 261607.039359904 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV1621 m3456
