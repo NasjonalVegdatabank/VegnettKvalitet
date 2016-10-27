@@ -1,0 +1,4 @@
+FEIL: 6480119.44 87411.99 Mangler feltkode K ved skilt 508.1 - Kollektivfelt, for buss, vegreferanse FV454 hp 412 m58
+FEIL: 6466786.97 87175.47 Mangler feltkode K ved skilt 508.2 - Kollektivfelt for buss og drosje, vegreferanse RV9 hp 1 m482
+FEIL: 6469081.28 39854.96 Mangler feltkode S ved skilt 520 - Sykkelveg, vegreferanse FV553 hp 1 m38
+FEIL: 6466734.31 87247.87 Mangler feltkode S ved skilt 520 - Sykkelveg, vegreferanse RV9 hp 1 m393

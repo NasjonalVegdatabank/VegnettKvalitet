@@ -1,4 +1,0 @@
-FEIL: 7734397.25863584 652065.030141811 Skilt: 521 - Sykkelfelt, vegreferanse KV140501 m37
-FEIL: 7632418.61340326 562061.08506096 Skilt: 508.1 - Kollektivfelt, for buss, vegreferanse RV833 m2446
-FEIL: 7731744.09448033 653597.413862408 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV105001 m97
-FEIL: 7732144.34416599 653626.928492787 Skilt: 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV350001 m99
