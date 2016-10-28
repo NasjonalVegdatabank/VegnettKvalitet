@@ -1,0 +1,11 @@
+FEIL: 6646579.01000306 248845.531643512 Mangler feltkode K ved skilt 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV18 hp 9 m788
+FEIL: 6647466.79547368 249677.864596108 Mangler feltkode K ved skilt 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV18 hp 8 m1281
+FEIL: 6648059.80017032 251329.607370675 Mangler feltkode K ved skilt 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV18 hp 7 m4082
+FEIL: 6648173.20570607 251728.126499299 Mangler feltkode K ved skilt 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV18 hp 7 m3669
+FEIL: 6648031.66044754 250986.611566396 Mangler feltkode K ved skilt 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV18 hp 7 m4427
+FEIL: 6647168.05337133 249397.003457349 Mangler feltkode K ved skilt 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV18 hp 8 m1691
+FEIL: 6646196.75814553 248391.328066916 Mangler feltkode K ved skilt 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV18 hp 9 m1390
+FEIL: 6645929.7989025 248197.745373405 Mangler feltkode K ved skilt 508.2 - Kollektivfelt for buss og drosje, vegreferanse EV18 hp 10 m222
+FEIL: 6634523.92587379 266490.973156756 Mangler feltkode K ved skilt 508.1 - Kollektivfelt, for buss, vegreferanse EV6 hp 5 m5826
+FEIL: 6638238.7370118 267008.66162719 Mangler feltkode K ved skilt 508.1 - Kollektivfelt, for buss, vegreferanse EV6 hp 5 m9687
+FEIL: 6650436.282285 287962.117681466 Mangler feltkode K ved skilt 508.1 - Kollektivfelt, for buss, vegreferanse FV278 hp 1 m928

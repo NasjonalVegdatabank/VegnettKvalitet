@@ -1,0 +1,2 @@
+FEIL: 6745998.93074445 286410.737750162 Mangler feltkode S ved skilt 520 - Sykkelveg, vegreferanse FV222 hp 2 m11113
+FEIL: 6718733.2490038 294270.376223857 Mangler feltkode S ved skilt 520 - Sykkelveg, vegreferanse FV229 hp 2 m38
