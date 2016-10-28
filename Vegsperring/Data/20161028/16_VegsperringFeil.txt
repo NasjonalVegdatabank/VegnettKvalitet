@@ -1,0 +1,14 @@
+FEIL: 7101729.60332491 265238.896276712Vegsperring nær kryss, vegreferanse KV1341 hp  m107
+FEIL: 7026143.99707306 262632.699549811Vegsperring nær kryss, vegreferanse KG1035 hp  m0
+FEIL: 7028162.80475163 271850.083652676Vegsperring nær kryss, vegreferanse KV6 hp  m0
+FEIL: 7060871.34707424 226671.827255117Vegsperring nær kryss, vegreferanse PV99349 hp  m204
+FEIL: 6976134.45 227946.57Vegsperring nær kryss, vegreferanse PV99510 hp  m0
+FEIL: 6950900.70251974 327890.70295796Vegsperring nær kryss, vegreferanse PV6005 hp  m86
+FEIL: 7041153.17157149 281133.74899355Vegsperring nær kryss, vegreferanse PV99633 hp  m0
+FEIL: 6978142.19447502 342534.88685531Vegsperring nær kryss, vegreferanse PV99697 hp  m0
+FEIL: 7028396.00977 241699.89014Vegsperring nær kryss, vegreferanse PV98506 hp  m0
+FEIL: 6997333.7 238226Vegsperring nær kryss, vegreferanse PV99775 hp  m0
+FEIL: 7038474.62942565 268469.961601507Vegsperring nær kryss, vegreferanse PG1100 hp  m120
+FEIL: 7042037 225331.6Vegsperring nær kryss, vegreferanse KV12 hp  m258
+FEIL: 7077731.22021 233643.4502Vegsperring nær kryss, vegreferanse KV4200 hp  m0
+FEIL: 6994864.61453584 331370.697595428Vegsperring nær kryss, vegreferanse KG17 hp  m0
