@@ -1,4 +1,0 @@
-FEIL: 6705236.410   338349.700       Oppmerking uten restriksjon, feil i analyse, kjøremønster ok
-FEIL: 6704702.500   338718.900       Restriksjon uten skilt eller oppmerking, finner ikke eventuell feil i veged
-FEIL: 6704702.500   338718.900       Restriksjon uten skilt eller oppmerking, finner ikke vegbilder
-FEIL: 6705352.530   337960.673       Skilt uten restriksjon, res lagt inn

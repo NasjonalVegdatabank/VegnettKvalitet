@@ -1,2 +1,0 @@
-FEIL: 6650313.343   274668.144       Skilt uten restriksjon	OBS 	Påbudt kjøreret. Ingen vei å refere til.
-FEIL: 6651091.837   276139.505       Skilt uten restriksjon	Rettet	Svingeres. Skilt med påbudt kjøreret. 

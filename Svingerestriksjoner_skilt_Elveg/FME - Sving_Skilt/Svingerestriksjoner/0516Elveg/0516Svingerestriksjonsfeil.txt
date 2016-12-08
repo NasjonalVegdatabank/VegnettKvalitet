@@ -1,7 +1,0 @@
-FEIL: 6840740.600   221239.800       Restriksjon uten skilt eller oppmerking
-FEIL: 6840738.000   221235.300       Restriksjon uten skilt eller oppmerking
-FEIL: 6840690.500   221138.900       Restriksjon uten skilt eller oppmerking
-FEIL: 6840693.200   221147.900       Restriksjon uten skilt eller oppmerking
-FEIL: 6840695.000   221136.500       Restriksjon uten skilt eller oppmerking
-FEIL: 6849124.905   212981.527       Skilt uten restriksjon
-FEIL: 6849122.464   212984.728       Skilt uten restriksjon

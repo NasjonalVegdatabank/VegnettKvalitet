@@ -1,6 +1,0 @@
-*0111*2011 VEGNETT*20110511*HOYD*20110511*VDB SVNT*AHT
-..Eksport-dato 20110511
-
-
-Komm; TransID;kode;Fra;   Til;felt;Høyde;
-0111;145144777;1;0;555;1#2;4.4;

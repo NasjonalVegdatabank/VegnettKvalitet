@@ -1,3 +1,0 @@
-FEIL: 6902865.971      487.215       Skilt uten restriksjon
-FEIL: 6902888.762      394.535       Skilt uten restriksjon
-FEIL: 6906478.011   -17537.013       Skilt uten restriksjon

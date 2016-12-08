@@ -1,6 +1,0 @@
-FEIL: 6903932.000   174499.400       Oppmerking uten restriksjon		Ikke svingeres. Brudd i heltrukken linje.
-FEIL: 6903932.000   174499.400       Oppmerking uten restriksjon		Ikke svingeres. Brudd i heltrukken linje.
-FEIL: 6921435.400   147623.900       Oppmerking uten restriksjon		Ikke svingeres. Brudd i heltrukken linje.
-FEIL: 6921435.400   147623.900       Oppmerking uten restriksjon		Ikke svingeres. Brudd i heltrukken linje.
-FEIL: 6903482.200   176619.200       Oppmerking uten restriksjon		Ikke svingeres. Stipla linje.
-FEIL: 6903482.200   176619.200       Oppmerking uten restriksjon		Ikke svingeres. Stipla linje.

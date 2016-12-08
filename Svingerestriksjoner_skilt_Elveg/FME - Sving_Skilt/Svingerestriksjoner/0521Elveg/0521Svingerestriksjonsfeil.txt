@@ -1,9 +1,0 @@
-FEIL: 6802460.200   250249.800       Oppmerking uten restriksjon		Rettet	Svingeres. Heltrukken linje	
-FEIL: 6799468.300   255223.300       Oppmerking uten restriksjon			Bro. Ingen veier som krysser
-FEIL: 6799468.300   255223.300       Oppmerking uten restriksjon			Bro. Ingen veier som krysser
-FEIL: 6802435.400   250226.600       Oppmerking uten restriksjon		Rettet	Svingeres *2. Heltrukken linje.
-FEIL: 6802334.200   250102.100       Oppmerking uten restriksjon		Rettet 	Svingeres *2. Heltrukken linje.
-FEIL: 6800619.800   254199.900       Restriksjon uten skilt eller oppmerking	Rettet	Tok vek svingeres.
-FEIL: 6801046.700   254549.800       Restriksjon uten skilt eller oppmerking	OBS	KV kommer inn på FV. Svakt bilde i goodle der man kan se et skilt, men ikke hva som står på det. Tror at svingeres skal stå.
-FEIL: 6797084.152   255537.680       Skilt uten restriksjon			OBS	Svingeres. SKilt. Ingen vei å refere til.
-FEIL: 6803989.306   247427.132       Skilt uten restriksjon			Rettet	SVingeres. Skilt
