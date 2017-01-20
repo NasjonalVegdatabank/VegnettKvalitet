@@ -1,7 +1,0 @@
-FEIL: 6734327.5 -32027.7Vegsperring nær kryss, vegreferanse FV270 hp  m292
-FEIL: 6734714.7 -31663.5Vegsperring nær kryss, vegreferanse KV4803 hp  m0
-FEIL: 6728173 -31975.2Vegsperring nær kryss, vegreferanse KG9000 hp  m133
-FEIL: 6731660.4 -30358.7Vegsperring nær kryss, vegreferanse KG255 hp  m1575
-FEIL: 6733352 -32830.09Vegsperring nær kryss, vegreferanse PV41880 hp  m0
-FEIL: 6722889.52956763 -47294.8693338115Vegsperring nær kryss, vegreferanse KV3 hp  m47
-FEIL: 6752179.05912571 -31574.5816486052Vegsperring nær kryss, vegreferanse KV1018 hp  m281

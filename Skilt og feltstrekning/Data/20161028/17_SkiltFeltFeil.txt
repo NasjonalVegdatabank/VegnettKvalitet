@@ -1,6 +1,0 @@
-FEIL: 7103031.91418371 328898.156889199 Mangler feltkode S ved skilt 521 - Sykkelfelt, vegreferanse FV762 hp 1 m877
-FEIL: 7102729.73 329035.55 Mangler feltkode S ved skilt 521 - Sykkelfelt, vegreferanse FV762 hp 1 m546
-FEIL: 7102842.6 328977.56 Mangler feltkode S ved skilt 520 - Sykkelveg, vegreferanse FV762 hp 1 m671
-FEIL: 7102943.93 328931.03 Mangler feltkode S ved skilt 520 - Sykkelveg, vegreferanse FV762 hp 1 m783
-FEIL: 7102860.75 328981.57 Mangler feltkode S ved skilt 520 - Sykkelveg, vegreferanse FV762 hp 1 m686
-FEIL: 7103032.57 328892.32 Mangler feltkode S ved skilt 520 - Sykkelveg, vegreferanse FV762 hp 1 m880

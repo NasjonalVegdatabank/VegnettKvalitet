@@ -1,7 +1,0 @@
-FEIL: 6964974.64055086 171601.793864503 Mangler feltkode S ved skilt 520 - Sykkelveg, vegreferanse RV70 hp 1 m37136
-FEIL: 6965053.59410487 171500.769735502 Mangler feltkode S ved skilt 520 - Sykkelveg, vegreferanse RV70 hp 1 m37263
-FEIL: 6964681.82252518 171940.298712057 Mangler feltkode S ved skilt 520 - Sykkelveg, vegreferanse RV70 hp 1 m36686
-FEIL: 6964508.48773104 172077.986234173 Mangler feltkode S ved skilt 520 - Sykkelveg, vegreferanse RV70 hp 1 m36465
-FEIL: 6964704.55489175 171921.136274796 Mangler feltkode S ved skilt 520 - Sykkelveg, vegreferanse RV70 hp 1 m36716
-FEIL: 6964387.51140453 172276.632083779 Mangler feltkode S ved skilt 520 - Sykkelveg, vegreferanse RV70 hp 1 m36229
-FEIL: 6964488.72275946 172097.536669358 Mangler feltkode S ved skilt 520 - Sykkelveg, vegreferanse RV70 hp 1 m36437

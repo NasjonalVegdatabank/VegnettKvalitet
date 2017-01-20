@@ -1,3 +1,0 @@
-FEIL: 7262843.91777727 370434.634215686Vegsperring nær kryss, vegreferanse KG23 hp  m20
-FEIL: 7263007.95933452 370457.600252044Vegsperring nær kryss, vegreferanse KV4850 hp  m0
-FEIL: 7460992.80500417 516662.026045919Vegsperring nær kryss, vegreferanse KV2140 hp  m5

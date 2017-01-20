@@ -1,3 +1,0 @@
-FEIL: 7632418.61340326 562061.08506096 Mangler feltkode K ved skilt 508.1 - Kollektivfelt, for buss, vegreferanse RV83 hp 3 m2446
-FEIL: 7731744.09448033 653597.413862408 Mangler feltkode K ved skilt 508.2 - Kollektivfelt for buss og drosje, vegreferanse KV10500 hp 1 m97
-FEIL: 7734397.25863584 652065.030141811 Mangler feltkode S ved skilt 521 - Sykkelfelt, vegreferanse KV14050 hp 1 m37
