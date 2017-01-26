@@ -1,611 +1,551 @@
-2017-01-24 23:36:20|   0.2|  0.2|INFORM|FME 2016.1.0.0 Beta (20160329 - Build 16481 - WIN64)
-2017-01-24 23:36:20|   0.2|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME2016.1\64\'
-2017-01-24 23:36:20|   0.2|  0.0|INFORM|FME ESRI Edition (node locked-crc)
-2017-01-24 23:36:20|   0.2|  0.0|INFORM|Serial Number: S0601A0917
-2017-01-24 23:36:20|   0.2|  0.0|INFORM|Permanent License.
-2017-01-24 23:36:20|   0.2|  0.0|INFORM|Machine host name is: SVV-55247
-2017-01-24 23:36:20|   0.2|  0.0|INFORM|START - ProcessID: 1332, peak process memory usage: 40372 kB, current process memory usage: 40372 kB
-2017-01-24 23:36:20|   0.2|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME2016.1\64\fme.exe' `C:/DATA/GitHub/VegnettKvalitet/Fylkesvegnummer/FMW\wb-xlate-1485297376432_11420' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{585bdafc-f536-4bae-86fe-73785262c160}' `DEBUG_PORT' `60795'
-2017-01-24 23:36:21|   0.4|  0.2|INFORM|Shared folders for formats are : C:\Program Files\FME2016.1\64\datasources;C:\Users\knjetl\AppData\Roaming\Safe Software\FME\FME Store\Formats;\\SVV1P04AUSER01\KNJETL$\documents\FME\Formats
-2017-01-24 23:36:21|   0.4|  0.0|INFORM|Shared folders for transformers are : C:\Program Files\FME2016.1\64\transformers;C:\Users\knjetl\AppData\Roaming\Safe Software\FME\FME Store\Transformers;\\SVV1P04AUSER01\KNJETL$\documents\FME\Transformers
-2017-01-24 23:36:21|   0.4|  0.0|INFORM|Shared folders for coordinate systems are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CoordinateSystems
-2017-01-24 23:36:21|   0.4|  0.0|INFORM|Shared folders for coordinate system exceptions are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CoordinateSystemExceptions
-2017-01-24 23:36:21|   0.4|  0.0|INFORM|Shared folders for coordinate system grid overrides are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CoordinateSystemGridOverrides
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CsmapTransformationExceptions
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|Shared folders for transformer categories are : \\SVV1P04AUSER01\KNJETL$\documents\FME\TransformerCategories
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|FME Configuration: Reader Keyword is `SPATIALITE_1'
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|FME Configuration: Reader type is `SPATIALITE'
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|FME Configuration: No destination coordinate system set
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|FME Configuration: Current working folder is `C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\FMW'
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\knjetl\AppData\Local\Temp'
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME2016.1\64\'
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\FMW/'
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'Fylkesvegnummer.fmw'
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2016.1.0.0'
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|System Status: 205.45 GB of disk space available in the FME temporary folder (C:\Users\knjetl\AppData\Local\Temp)
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|System Status: 8.00 TB of virtual memory available
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|Operating System: Microsoft Windows 7 64-bit Service Pack 1 (Build 7601)
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|FME Platform: WIN64
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|Locale: nb_NO
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|Code Page: 1252  (ANSI - latin I)
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|FME Configuration: Process limits are 31.91 GB of physical memory and 8.00 TB of address space
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 95.72 GB of memory or 8.00 TB of address space
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 71.79 GB of memory and 6.00 TB of address space
-2017-01-24 23:36:21|   0.5|  0.0|INFORM|Creating writer for format: 
-2017-01-24 23:36:22|   0.5|  0.0|INFORM|Creating reader for format: SpatiaLite
-2017-01-24 23:36:22|   0.6|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `SPATIALITE'
-2017-01-24 23:36:22|   0.6|  0.0|INFORM|Loaded module 'SPATIALITE' from file 'C:\Program Files\FME2016.1\64\plugins/GDAL.dll'
-2017-01-24 23:36:22|   0.6|  0.0|INFORM|FME API version of module 'SPATIALITE' matches current internal version (3.8 20160224)
-2017-01-24 23:36:22|   0.6|  0.0|INFORM|SPATIALITE reader: Opening file 'C:\DATA\TNE\data\tne_local_fylkesveg.db'
-2017-01-24 23:36:22|   0.7|  0.0|INFORM|Using MultiWriter $Revision$ ( $Date$ ) with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
-2017-01-24 23:36:22|   0.7|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
-2017-01-24 23:36:22|   0.7|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME2016.1\64\plugins/LogCount_func.dll'
-2017-01-24 23:36:22|   0.7|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20160224)
-2017-01-24 23:36:22|   0.7|  0.0|INFORM|Creating writer for format: FME Feature Store (FFS)
-2017-01-24 23:36:22|   0.7|  0.0|INFORM|FME Configuration: No destination coordinate system set
-2017-01-24 23:36:23|   0.7|  0.0|INFORM|Loaded module 'BreakpointFactory' from file 'C:\Program Files\FME2016.1\64\plugins/BreakpointFactory.dll'
-2017-01-24 23:36:23|   0.7|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
-2017-01-24 23:36:23|   0.7|  0.0|INFORM|Feature Inspection module initialized. Workbench@60795 and FME@60830
-2017-01-24 23:36:23|   0.7|  0.0|INFORM|Loaded module 'Geometry_func' from file 'C:\Program Files\FME2016.1\64\plugins/Geometry_func.dll'
-2017-01-24 23:36:23|   0.7|  0.0|INFORM|FME API version of module 'Geometry_func' matches current internal version (3.8 20160224)
-2017-01-24 23:36:23|   0.7|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
-2017-01-24 23:36:23|   0.7|  0.0|INFORM|... Last line repeated 4 times ...
-2017-01-24 23:36:23|   0.7|  0.0|INFORM|Loaded module 'HTTPFactory' from file 'C:\Program Files\FME2016.1\64\plugins/HTTPFactory.dll'
-2017-01-24 23:36:23|   0.7|  0.0|INFORM|FME API version of module 'HTTPFactory' matches current internal version (3.8 20160224)
-2017-01-24 23:36:23|   0.7|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
-2017-01-24 23:36:24|   0.8|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
-2017-01-24 23:36:24|   0.8|  0.0|INFORM|Loaded module 'XFMapFactory' from file 'C:\Program Files\FME2016.1\64\plugins/XFMapFactory.dll'
-2017-01-24 23:36:24|   0.8|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20160224)
-2017-01-24 23:36:24|   0.8|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
-2017-01-24 23:36:24|   0.8|  0.0|INFORM|Loaded module 'PythonFactory' from file 'C:\Program Files\FME2016.1\64\plugins/PythonFactory.dll'
-2017-01-24 23:36:24|   0.8|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20160224)
-2017-01-24 23:36:24|   0.8|  0.0|INFORM|Using FME's provided Python interpreter from `C:\Program Files\FME2016.1\64\fmepython27\python27.dll'
-2017-01-24 23:36:24|   0.8|  0.0|INFORM|Python version 2.7 loaded successfully
-2017-01-24 23:36:24|   0.9|  0.1|INFORM|Adding folder `C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\FMW\' to the python path
-2017-01-24 23:36:24|   0.9|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
-2017-01-24 23:36:25|   0.9|  0.0|INFORM|Loaded module 'OGCGeometry_func' from file 'C:\Program Files\FME2016.1\64\plugins/OGCGeometry_func.dll'
-2017-01-24 23:36:25|   0.9|  0.0|INFORM|FME API version of module 'OGCGeometry_func' matches current internal version (3.8 20160224)
-2017-01-24 23:36:25|   0.9|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
-2017-01-24 23:36:25|   0.9|  0.0|INFORM|... Last line repeated 6 times ...
-2017-01-24 23:36:25|   0.9|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20160224)
-2017-01-24 23:36:25|   0.9|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
-2017-01-24 23:36:25|   1.0|  0.0|INFORM|... Last line repeated 15 times ...
-2017-01-24 23:36:25|   1.0|  0.0|INFORM|Loaded module 'InlineQueryFactory' from file 'C:\Program Files\FME2016.1\64\plugins/InlineQueryFactory.dll'
-2017-01-24 23:36:25|   1.0|  0.0|INFORM|FME API version of module 'InlineQueryFactory' matches current internal version (3.8 20160224)
-2017-01-24 23:36:25|   1.0|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
-2017-01-24 23:36:26|   1.2|  0.3|INFORM|... Last line repeated 16 times ...
-2017-01-24 23:36:26|   1.2|  0.0|INFORM|The EPSG number of the FME coordinate system 'ETRS89.UTM-33N' is '25833'
-2017-01-24 23:36:26|   1.2|  0.0|INFORM|FME Configuration: Source coordinate system for reader SPATIALITE_1[SPATIALITE] set to `ETRS89.UTM-33N' as read from input data
-2017-01-24 23:36:26|   1.2|  0.0|INFORM|Coordinate System `ETRS89.UTM-33N' parameters: CS_NAME=`ETRS89.UTM-33N' DESC_NM=`Transverse Mercator (ETRS89-TM33)' DT_NAME=`ETRS89/01' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`84.5' MAX_LNG=`22.1333333333333' MIN_LAT=`31.05' MIN_LNG=`10.8833333333333' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25833 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
-2017-01-24 23:36:26|   1.2|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=1&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
-2017-01-24 23:36:27|   1.2|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 1.00 MB 
-2017-01-24 23:36:27|   1.3|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 2.01 MB 
-2017-01-24 23:36:27|   1.3|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 3.02 MB 
-2017-01-24 23:36:27|   1.3|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 4.02 MB 
-2017-01-24 23:36:27|   1.3|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 5.03 MB 
-2017-01-24 23:36:28|   1.3|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 6.05 MB 
-2017-01-24 23:36:28|   1.4|  0.1|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 7.05 MB 
-2017-01-24 23:36:28|   1.4|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 8.06 MB 
-2017-01-24 23:36:28|   1.4|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 9.07 MB 
-2017-01-24 23:36:29|   1.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 10.08 MB 
-2017-01-24 23:36:29|   1.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 11.08 MB 
-2017-01-24 23:36:29|   1.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 12.09 MB 
-2017-01-24 23:36:29|   1.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 13.09 MB 
-2017-01-24 23:36:29|   1.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 14.10 MB 
-2017-01-24 23:36:30|   1.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 15.11 MB 
-2017-01-24 23:36:30|   1.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 16.11 MB 
-2017-01-24 23:36:30|   1.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 17.12 MB 
-2017-01-24 23:36:30|   1.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 18.13 MB 
-2017-01-24 23:36:31|   1.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 19.13 MB 
-2017-01-24 23:36:31|   1.7|  0.1|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 20.14 MB 
-2017-01-24 23:36:31|   1.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 21.15 MB 
-2017-01-24 23:36:31|   1.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 22.17 MB 
-2017-01-24 23:36:31|   1.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 23.17 MB 
-2017-01-24 23:36:32|   1.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 24.17 MB 
-2017-01-24 23:36:32|   1.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 25.18 MB 
-2017-01-24 23:36:32|   1.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 26.19 MB 
-2017-01-24 23:36:32|   1.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 27.19 MB 
-2017-01-24 23:36:33|   1.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 28.19 MB 
-2017-01-24 23:36:33|   1.9|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '28636280 bytes', DNS lookup time: '0 seconds', total transfer time: '7.161 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=1&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
-2017-01-24 23:36:35|   3.6|  1.7|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=1&vegreferanse=F&start=hkxwC6GkbaeK&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
-2017-01-24 23:36:35|   3.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '357 bytes', DNS lookup time: '0 seconds', total transfer time: '0.141 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=1&vegreferanse=F&start=hkxwC6GkbaeK&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
-2017-01-24 23:36:36|   3.7|  0.1|INFORM|Creating reader for format: CSV (Comma Separated Value)
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|Loaded module 'CSV' from file 'C:\Program Files\FME2016.1\64\plugins/CSV.dll'
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297395548_1332\'
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|CSV Reader: Separator Character: ';'
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|CSV Reader: File Has Field Names: yes
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|CSV Reader: Encoding name ''
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|CSV Reader: Feature type names from file names: no
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297395548_1332\NVDB_enMapping.csv'
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|Creating reader for format: Tabular Data
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297395548_1332'
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297395548_1332\NVDB_enMapping.csv'
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|Opened Separated Value File C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297395548_1332\NVDB_enMapping.csv for input with delimiter `;'
-2017-01-24 23:36:36|   3.7|  0.0|INFORM|Skipped line `ptid;enid;name;fullname' in CSV File `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297395548_1332\NVDB_enMapping.csv'
-2017-01-24 23:36:36|   3.8|  0.1|INFORM|CSV Reader: Closing dataset 'C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297395548_1332\NVDB_enMapping.csv'
-2017-01-24 23:36:36|   3.8|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297395548_1332\'
-2017-01-24 23:36:37|   3.9|  0.1|INFORM|Creating reader for format: CSV (Comma Separated Value)
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297396755_1332\'
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|CSV Reader: Separator Character: ';'
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|CSV Reader: File Has Field Names: yes
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|CSV Reader: Encoding name ''
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|CSV Reader: Feature type names from file names: no
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297396755_1332\NVDB_ptMapping.csv'
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|Creating reader for format: Tabular Data
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297396755_1332'
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297396755_1332\NVDB_ptMapping.csv'
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|Opened Separated Value File C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297396755_1332\NVDB_ptMapping.csv for input with delimiter `;'
-2017-01-24 23:36:37|   3.9|  0.0|INFORM|Skipped line `ft_attr;ftid;ptid;name' in CSV File `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297396755_1332\NVDB_ptMapping.csv'
-2017-01-24 23:36:37|   4.0|  0.1|INFORM|CSV Reader: Closing dataset 'C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297396755_1332\NVDB_ptMapping.csv'
-2017-01-24 23:36:37|   4.0|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297396755_1332\'
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297397817_1332\'
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|CSV Reader: Separator Character: ';'
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|CSV Reader: File Has Field Names: yes
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|CSV Reader: Encoding name ''
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|CSV Reader: Feature type names from file names: no
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297397817_1332\NVDB_ftMapping.csv'
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|Creating reader for format: Tabular Data
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297397817_1332'
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297397817_1332\NVDB_ftMapping.csv'
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|Opened Separated Value File C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297397817_1332\NVDB_ftMapping.csv for input with delimiter `;'
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|Skipped line `ftid;name' in CSV File `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297397817_1332\NVDB_ftMapping.csv'
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|CSV Reader: Closing dataset 'C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297397817_1332\NVDB_ftMapping.csv'
-2017-01-24 23:36:38|   4.1|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485297397817_1332\'
-2017-01-24 23:36:51|  16.3| 12.2|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=2&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
-2017-01-24 23:37:06|  16.8|  0.5|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '23757511 bytes', DNS lookup time: '0 seconds', total transfer time: '15.647 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=2&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
-2017-01-24 23:37:11|  18.8|  2.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=2&vegreferanse=F&start=dLDD1QAmh14c&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
-2017-01-24 23:37:18|  19.4|  0.6|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '28967005 bytes', DNS lookup time: '0 seconds', total transfer time: '10.218 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=2&vegreferanse=F&start=dLDD1QAmh14c&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
-2017-01-24 23:37:34|  35.6| 16.2|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=2&vegreferanse=F&start=hm8NQGVbQTK2&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
-2017-01-24 23:37:34|  35.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '357 bytes', DNS lookup time: '0 seconds', total transfer time: '0.046 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=2&vegreferanse=F&start=hm8NQGVbQTK2&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
-2017-01-24 23:37:48|  49.6| 14.0|INFORM|XML Reader mapped feature # 5000
-2017-01-24 23:37:48|  49.6|  0.0|STATS |Storing feature(s) to FME feature store file `C:\Users\knjetl\AppData\Local\Temp\Fylkesvegnummer_233619\inspector.ffs'
-2017-01-24 23:37:48|  49.6|  0.0|STATS |Storing feature(s) to FME feature store file `C:\Users\knjetl\AppData\Local\Temp\Fylkesvegnummer_233619\inspector.fsc'
-2017-01-24 23:37:48|  49.6|  0.0|WARN  |Coordinate system of reader identified by keyword `SPATIALITE_1' has changed from `ETRS89.UTM-33N' to `'
-2017-01-24 23:37:48|  49.6|  0.0|INFORM|FME Configuration: Source coordinate system for reader SPATIALITE_1[SPATIALITE] set to `ETRS89.UTM-33N' as read from input data
-2017-01-24 23:37:48|  49.6|  0.0|INFORM|Coordinate System `ETRS89.UTM-33N' parameters: CS_NAME=`ETRS89.UTM-33N' DESC_NM=`Transverse Mercator (ETRS89-TM33)' DT_NAME=`ETRS89/01' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`84.5' MAX_LNG=`22.1333333333333' MIN_LAT=`31.05' MIN_LNG=`10.8833333333333' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25833 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
-2017-01-24 23:37:49|  50.0|  0.4|INFORM|Reading source feature # 2500
-2017-01-24 23:37:49|  50.1|  0.0|WARN  |Coordinate system of reader identified by keyword `SPATIALITE_1' has changed from `ETRS89.UTM-33N' to `'
-2017-01-24 23:37:49|  50.1|  0.0|INFORM|FME Configuration: Source coordinate system for reader SPATIALITE_1[SPATIALITE] set to `ETRS89.UTM-33N' as read from input data
-2017-01-24 23:37:49|  50.1|  0.0|INFORM|Coordinate System `ETRS89.UTM-33N' parameters: CS_NAME=`ETRS89.UTM-33N' DESC_NM=`Transverse Mercator (ETRS89-TM33)' DT_NAME=`ETRS89/01' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`84.5' MAX_LNG=`22.1333333333333' MIN_LAT=`31.05' MIN_LNG=`10.8833333333333' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25833 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
-2017-01-24 23:37:49|  50.4|  0.4|INFORM|Reading source feature # 5000
-2017-01-24 23:37:50|  50.8|  0.4|INFORM|Reading source feature # 7500
-2017-01-24 23:37:50|  51.2|  0.4|INFORM|Reading source feature # 10000
-2017-01-24 23:37:50|  51.5|  0.3|WARN  |Coordinate system of reader identified by keyword `SPATIALITE_1' has changed from `ETRS89.UTM-33N' to `'
-2017-01-24 23:37:50|  51.5|  0.0|INFORM|FME Configuration: Source coordinate system for reader SPATIALITE_1[SPATIALITE] set to `ETRS89.UTM-33N' as read from input data
-2017-01-24 23:37:50|  51.5|  0.0|INFORM|Coordinate System `ETRS89.UTM-33N' parameters: CS_NAME=`ETRS89.UTM-33N' DESC_NM=`Transverse Mercator (ETRS89-TM33)' DT_NAME=`ETRS89/01' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`84.5' MAX_LNG=`22.1333333333333' MIN_LAT=`31.05' MIN_LNG=`10.8833333333333' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25833 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
-2017-01-24 23:37:50|  51.6|  0.1|INFORM|Reading source feature # 12500
-2017-01-24 23:37:50|  51.7|  0.1|WARN  |Coordinate system of reader identified by keyword `SPATIALITE_1' has changed from `ETRS89.UTM-33N' to `'
-2017-01-24 23:37:50|  51.7|  0.0|INFORM|FME Configuration: Source coordinate system for reader SPATIALITE_1[SPATIALITE] set to `ETRS89.UTM-33N' as read from input data
-2017-01-24 23:37:50|  51.7|  0.0|INFORM|Coordinate System `ETRS89.UTM-33N' parameters: CS_NAME=`ETRS89.UTM-33N' DESC_NM=`Transverse Mercator (ETRS89-TM33)' DT_NAME=`ETRS89/01' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`84.5' MAX_LNG=`22.1333333333333' MIN_LAT=`31.05' MIN_LNG=`10.8833333333333' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25833 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
-2017-01-24 23:37:51|  51.8|  0.0|WARN  |Coordinate system of reader identified by keyword `SPATIALITE_1' has changed from `ETRS89.UTM-33N' to `'
-2017-01-24 23:37:51|  51.8|  0.0|WARN  |Further coordinate system changes will not be logged
-2017-01-24 23:37:51|  52.0|  0.2|INFORM|Reading source feature # 15000
-2017-01-24 23:37:51|  52.4|  0.4|INFORM|Reading source feature # 17500
-2017-01-24 23:37:52|  52.8|  0.4|INFORM|Reading source feature # 20000
-2017-01-24 23:37:52|  53.2|  0.4|INFORM|Reading source feature # 22500
-2017-01-24 23:37:52|  53.5|  0.4|INFORM|Reading source feature # 25000
-2017-01-24 23:37:53|  53.9|  0.4|INFORM|Reading source feature # 27500
-2017-01-24 23:37:53|  54.3|  0.4|INFORM|Reading source feature # 30000
-2017-01-24 23:37:54|  54.7|  0.4|INFORM|Reading source feature # 32500
-2017-01-24 23:37:54|  55.1|  0.4|INFORM|Reading source feature # 35000
-2017-01-24 23:37:54|  55.5|  0.4|INFORM|Reading source feature # 37500
-2017-01-24 23:37:55|  55.9|  0.4|INFORM|Reading source feature # 40000
-2017-01-24 23:37:55|  56.3|  0.4|INFORM|Reading source feature # 42500
-2017-01-24 23:37:56|  56.7|  0.4|INFORM|Reading source feature # 45000
-2017-01-24 23:37:56|  57.1|  0.4|INFORM|Reading source feature # 47500
-2017-01-24 23:37:56|  57.5|  0.4|INFORM|Reading source feature # 50000
-2017-01-24 23:37:57|  57.9|  0.4|INFORM|Reading source feature # 52500
-2017-01-24 23:37:57|  58.3|  0.4|INFORM|Reading source feature # 55000
-2017-01-24 23:37:58|  58.7|  0.4|INFORM|Reading source feature # 57500
-2017-01-24 23:37:58|  59.1|  0.4|INFORM|Reading source feature # 60000
-2017-01-24 23:37:58|  59.5|  0.4|INFORM|Reading source feature # 62500
-2017-01-24 23:37:59|  59.7|  0.3|INFORM|Emptying factory pipeline
-2017-01-24 23:37:59|  59.7|  0.0|STATS |Router and Unexpected Input Remover(RoutingFactory): Tested 64375 input feature(s), wrote 64375 output feature(s): 64375 matched merge filters, 64375 were routed to output, 0 could not be routed.
-2017-01-24 23:37:59|  59.7|  0.0|STATS |Unexpected Input Remover Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |vegfunksjon (SPATIALITE_1) Splitter(TeeFactory): Cloned 64375 input feature(s) into 64375 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |Creator_2_XML_Creator(CreationFactory): Created 1 features
-2017-01-24 23:37:59|  59.7|  0.0|STATS |Creator_2_Cloner(TeeFactory): Cloned 1 input feature(s) into 2 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |Creator_2_CREATED Brancher -1 12(BranchingFactory): Branched 2 input features -- 2 features routed to the target factory, and 0 features routed to the fallback factory.
-2017-01-24 23:37:59|  59.7|  0.0|STATS |_CREATOR_BRANCH_TARGET(TeeFactory): Cloned 64377 input feature(s) into 64377 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |Counter_2_Counter(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |Counter_2_Rejector(TestFactory): Tested 2 input feature(s) -- 0 feature(s) passed and 2 feature(s) failed
-2017-01-24 23:37:59|  59.7|  0.0|STATS |Counter_2_<REJECTED> Feature Counter -1 2147680267(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser _Input Input Collector(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser__Input1485297377 Input Splitter(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_Loop1485297377 Input Splitter(TeeFactory): Cloned 3 input feature(s) into 3 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_HTTPCaller_2 Output Splitter(TeeFactory): Cloned 5 input feature(s) into 10 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_HTTPCaller_2 <Rejected> Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|INFORM|NVDB_Leser_XMLFragmenter(XFMapFactory): Total Results: 14304 Mapped Feature(s), 5 Input Feature(s), and 0 Invalid input Feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|INFORM|Optional `close' method not present; not called
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_GeometryReplacer(TeeFactory): Cloned 14304 input feature(s) into 14304 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_GeometryReplacer_Rejector(TestFactory): Tested 14304 input feature(s) -- 0 feature(s) passed and 14304 feature(s) failed
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_GeometryReplacer OUTPUT Splitter(TeeFactory): Cloned 14304 input feature(s) into 28608 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_GeometryReplacer_<REJECTED> Feature Counter 0 2147680271(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_CoordinateSystemSetter_2(TeeFactory): Cloned 14304 input feature(s) into 14304 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_CoordinateSystemSetter (Disabled) Nuker(TeeFactory): Cloned 14304 input feature(s) into 0 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_Deaggregator(DeaggregateFactory): Split 14304 input feature(s) into 0 point-in-polygon feature(s), 0 donut polygon(s), 0 polygon(s), 14304 line(s), 0 point(s), and 0 aggregate(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_Deaggregator(DeaggregateFactory): 14304 non-aggregate input features were routed through the factory
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_NullAttributeMapper(TeeFactory): Cloned 14304 input feature(s) into 14304 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_StringConcatenator(TeeFactory): Cloned 14304 input feature(s) into 14304 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|INFORM|NVDB_Leser_XMLFragmenter_2(XFMapFactory): Total Results: 5 Mapped Feature(s), 5 Input Feature(s), and 0 Invalid input Feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_TestFilter(TeeFactory): Cloned 5 input feature(s) into 5 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_TestFilter_TestFactory_0(TestFactory): Tested 5 input feature(s) -- 3 feature(s) passed and 2 feature(s) failed
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_TestFilter_<lt>UNFILTERED<gt>(TeeFactory): Cloned 2 input feature(s) into 2 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_TestFilter <lt>UNFILTERED<gt> Output Nuker(TeeFactory): Cloned 2 input feature(s) into 0 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |Loop to NVDB_Leser_Loop1485297377 Input Splitter(BranchingFactory): Branched 3 input features -- 3 features routed to the target factory, and 0 features routed to the fallback factory.
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser_Output1485297377 Output Collector(TeeFactory): Cloned 14304 input feature(s) into 14304 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NVDB_Leser Output Output Renamer/Nuker(TeeFactory): Cloned 14304 input feature(s) into 14304 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |NullAttributeMapper_3(TeeFactory): Cloned 14304 input feature(s) into 14304 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |AttributeExposer(TeeFactory): Cloned 14304 input feature(s) into 14304 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |TestFilter(TeeFactory): Cloned 14304 input feature(s) into 14304 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |TestFilter_TestFactory_0(TestFactory): Tested 14304 input feature(s) -- 3 feature(s) passed and 14301 feature(s) failed
-2017-01-24 23:37:59|  59.7|  0.0|STATS |TestFilter_<lt>UNFILTERED<gt>(TeeFactory): Cloned 14301 input feature(s) into 14301 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |TestFilter fiktive Output Nuker(TeeFactory): Cloned 3 input feature(s) into 0 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |LengthCalculator_LengthCalculator(TeeFactory): Cloned 14301 input feature(s) into 14301 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |LengthCalculator_Rejector(TestFactory): Tested 14301 input feature(s) -- 0 feature(s) passed and 14301 feature(s) failed
-2017-01-24 23:37:59|  59.7|  0.0|STATS |LengthCalculator_<REJECTED> Feature Counter -1 2147680300(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |AttributeManager_3 OUTPUT Splitter(TeeFactory): Cloned 14301 input feature(s) into 28602 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |AttributeManager_2 OUTPUT Splitter(TeeFactory): Cloned 64375 input feature(s) into 128750 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |VegfunksjonPFV_DirCreator(CreationFactory): Created 1 features
-2017-01-24 23:37:59|  59.7|  0.0|STATS |VegfunksjonPFV_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |VegfunksjonPFV_FeatureDirector(TestFactory): Tested 64375 input feature(s) -- 0 feature(s) passed and 64375 feature(s) failed
-2017-01-24 23:37:59|  59.7|  0.0|STATS |VegfunksjonPFV___FeatureDirector1(TestFactory): Tested 64375 input feature(s) -- 0 feature(s) passed and 64375 feature(s) failed
-2017-01-24 23:37:59|  59.7|  0.0|STATS |VegfunksjonPFV_VectorSetterUpper(TeeFactory): Cloned 64375 input feature(s) into 64375 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |VegfunksjonPFV___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|STATS |VegfunksjonPFV_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-01-24 23:37:59|  59.7|  0.0|INFORM|VegfunksjonPFV_Recorder(RecorderFactory): Recorded 64375 feature(s) to file `C:\Users\knjetl\AppData\Local\Temp\Fylkesvegnummer_233619\inspector.ffs'
-2017-01-24 23:37:59|  59.7|  0.0|INFORM|InlineQuerier(InlineQueryFactory): Generating output 'PFV' using query 'SELECT * FROM Vegreferanse
+2017-01-25 18:50:33|   0.2|  0.2|INFORM|FME 2016.1.0.0 Beta (20160329 - Build 16481 - WIN64)
+2017-01-25 18:50:33|   0.2|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME2016.1\64\'
+2017-01-25 18:50:33|   0.2|  0.0|INFORM|FME ESRI Edition (node locked-crc)
+2017-01-25 18:50:33|   0.2|  0.0|INFORM|Serial Number: S0601A0917
+2017-01-25 18:50:33|   0.2|  0.0|INFORM|Permanent License.
+2017-01-25 18:50:33|   0.2|  0.0|INFORM|Machine host name is: SVV-55247
+2017-01-25 18:50:33|   0.2|  0.0|INFORM|START - ProcessID: 13032, peak process memory usage: 39712 kB, current process memory usage: 39712 kB
+2017-01-25 18:50:33|   0.2|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME2016.1\64\fme.exe' `C:/DATA/GitHub/VegnettKvalitet/Fylkesvegnummer/FMW\wb-xlate-1485366627904_8108' `LOG_STANDARDOUT' `YES' `LogCountServerName' `{e88923a1-7626-4414-995c-1c6ccdd1fcc8}' `DEBUG_PORT' `61082'
+2017-01-25 18:50:34|   0.4|  0.2|INFORM|Shared folders for formats are : C:\Program Files\FME2016.1\64\datasources;C:\Users\knjetl\AppData\Roaming\Safe Software\FME\FME Store\Formats;\\SVV1P04AUSER01\KNJETL$\documents\FME\Formats
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|Shared folders for transformers are : C:\Program Files\FME2016.1\64\transformers;C:\Users\knjetl\AppData\Roaming\Safe Software\FME\FME Store\Transformers;\\SVV1P04AUSER01\KNJETL$\documents\FME\Transformers
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|Shared folders for coordinate systems are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CoordinateSystems
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|Shared folders for coordinate system exceptions are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CoordinateSystemExceptions
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|Shared folders for coordinate system grid overrides are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CoordinateSystemGridOverrides
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : \\SVV1P04AUSER01\KNJETL$\documents\FME\CsmapTransformationExceptions
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|Shared folders for transformer categories are : \\SVV1P04AUSER01\KNJETL$\documents\FME\TransformerCategories
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|FME Configuration: Reader Keyword is `SPATIALITE_1'
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|FME Configuration: Reader type is `SPATIALITE'
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|FME Configuration: Current working folder is `C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\FMW'
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\knjetl\AppData\Local\Temp'
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME2016.1\64\'
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\FMW/'
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'Fylkesvegnummer.fmw'
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2016.1.0.0'
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|System Status: 205.00 GB of disk space available in the FME temporary folder (C:\Users\knjetl\AppData\Local\Temp)
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|System Status: 8.00 TB of virtual memory available
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|Operating System: Microsoft Windows 7 64-bit Service Pack 1 (Build 7601)
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|FME Platform: WIN64
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|Locale: nb_NO
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|Code Page: 1252  (ANSI - latin I)
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|FME Configuration: Process limits are 31.91 GB of physical memory and 8.00 TB of address space
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|FME Configuration: Start freeing memory when process usage exceeds 95.72 GB of memory or 8.00 TB of address space
+2017-01-25 18:50:34|   0.4|  0.0|INFORM|FME Configuration: Stop freeing memory when process usage is below 71.79 GB of memory and 6.00 TB of address space
+2017-01-25 18:50:34|   0.4|  0.1|INFORM|Creating writer for format: 
+2017-01-25 18:50:35|   0.5|  0.1|INFORM|Creating reader for format: SpatiaLite
+2017-01-25 18:50:35|   0.5|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `SPATIALITE'
+2017-01-25 18:50:35|   0.6|  0.0|INFORM|Loaded module 'SPATIALITE' from file 'C:\Program Files\FME2016.1\64\plugins/GDAL.dll'
+2017-01-25 18:50:35|   0.6|  0.0|INFORM|FME API version of module 'SPATIALITE' matches current internal version (3.8 20160224)
+2017-01-25 18:50:35|   0.6|  0.0|INFORM|SPATIALITE reader: Opening file 'C:\DATA\TNE\data\tne_local_fylkesveg.db'
+2017-01-25 18:50:35|   0.6|  0.0|INFORM|Using MultiWriter $Revision$ ( $Date$ ) with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2017-01-25 18:50:35|   0.6|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2017-01-25 18:50:36|   0.7|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME2016.1\64\plugins/LogCount_func.dll'
+2017-01-25 18:50:36|   0.7|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (3.8 20160224)
+2017-01-25 18:50:36|   0.7|  0.1|INFORM|Creating writer for format: FME Feature Store (FFS)
+2017-01-25 18:50:36|   0.7|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-01-25 18:50:36|   0.8|  0.0|INFORM|Loaded module 'BreakpointFactory' from file 'C:\Program Files\FME2016.1\64\plugins/BreakpointFactory.dll'
+2017-01-25 18:50:36|   0.8|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-01-25 18:50:36|   0.8|  0.0|INFORM|Feature Inspection module initialized. Workbench@61082 and FME@63614
+2017-01-25 18:50:37|   0.8|  0.0|INFORM|Loaded module 'Geometry_func' from file 'C:\Program Files\FME2016.1\64\plugins/Geometry_func.dll'
+2017-01-25 18:50:37|   0.8|  0.0|INFORM|FME API version of module 'Geometry_func' matches current internal version (3.8 20160224)
+2017-01-25 18:50:37|   0.8|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-01-25 18:50:37|   0.8|  0.0|INFORM|... Last line repeated 4 times ...
+2017-01-25 18:50:37|   0.8|  0.0|INFORM|Loaded module 'HTTPFactory' from file 'C:\Program Files\FME2016.1\64\plugins/HTTPFactory.dll'
+2017-01-25 18:50:37|   0.8|  0.0|INFORM|FME API version of module 'HTTPFactory' matches current internal version (3.8 20160224)
+2017-01-25 18:50:37|   0.8|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-01-25 18:50:37|   0.9|  0.1|INFORM|... Last line repeated 2 times ...
+2017-01-25 18:50:37|   0.9|  0.0|INFORM|Loaded module 'XFMapFactory' from file 'C:\Program Files\FME2016.1\64\plugins/XFMapFactory.dll'
+2017-01-25 18:50:37|   0.9|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20160224)
+2017-01-25 18:50:37|   0.9|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-01-25 18:50:38|   0.9|  0.0|INFORM|Loaded module 'PythonFactory' from file 'C:\Program Files\FME2016.1\64\plugins/PythonFactory.dll'
+2017-01-25 18:50:38|   0.9|  0.0|INFORM|FME API version of module 'PythonFactory' matches current internal version (3.8 20160224)
+2017-01-25 18:50:38|   0.9|  0.0|INFORM|Using FME's provided Python interpreter from `C:\Program Files\FME2016.1\64\fmepython27\python27.dll'
+2017-01-25 18:50:38|   0.9|  0.0|INFORM|Python version 2.7 loaded successfully
+2017-01-25 18:50:38|   1.1|  0.1|INFORM|Adding folder `C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\FMW\' to the python path
+2017-01-25 18:50:38|   1.1|  0.1|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-01-25 18:50:39|   1.1|  0.0|INFORM|Loaded module 'OGCGeometry_func' from file 'C:\Program Files\FME2016.1\64\plugins/OGCGeometry_func.dll'
+2017-01-25 18:50:39|   1.1|  0.0|INFORM|FME API version of module 'OGCGeometry_func' matches current internal version (3.8 20160224)
+2017-01-25 18:50:39|   1.1|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-01-25 18:50:39|   1.1|  0.0|INFORM|... Last line repeated 6 times ...
+2017-01-25 18:50:39|   1.1|  0.0|INFORM|FME API version of module 'XFMapFactory' matches current internal version (3.8 20160224)
+2017-01-25 18:50:39|   1.1|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-01-25 18:50:39|   1.1|  0.0|INFORM|... Last line repeated 15 times ...
+2017-01-25 18:50:39|   1.1|  0.0|INFORM|Loaded module 'InlineQueryFactory' from file 'C:\Program Files\FME2016.1\64\plugins/InlineQueryFactory.dll'
+2017-01-25 18:50:39|   1.1|  0.0|INFORM|FME API version of module 'InlineQueryFactory' matches current internal version (3.8 20160224)
+2017-01-25 18:50:39|   1.2|  0.0|INFORM|FME API version of module 'BreakpointFactory' matches current internal version (3.8 20160224)
+2017-01-25 18:50:40|   1.5|  0.3|INFORM|... Last line repeated 31 times ...
+2017-01-25 18:50:40|   1.5|  0.0|INFORM|The EPSG number of the FME coordinate system 'ETRS89.UTM-33N' is '25833'
+2017-01-25 18:50:40|   1.5|  0.0|INFORM|FME Configuration: Source coordinate system for reader SPATIALITE_1[SPATIALITE] set to `ETRS89.UTM-33N' as read from input data
+2017-01-25 18:50:40|   1.5|  0.0|INFORM|Coordinate System `ETRS89.UTM-33N' parameters: CS_NAME=`ETRS89.UTM-33N' DESC_NM=`Transverse Mercator (ETRS89-TM33)' DT_NAME=`ETRS89/01' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`84.5' MAX_LNG=`22.1333333333333' MIN_LAT=`31.05' MIN_LNG=`10.8833333333333' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25833 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
+2017-01-25 18:50:42|   1.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=1&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 18:50:42|   1.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 1.00 MB 
+2017-01-25 18:50:42|   1.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 2.01 MB 
+2017-01-25 18:50:43|   1.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 3.01 MB 
+2017-01-25 18:50:43|   1.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 4.03 MB 
+2017-01-25 18:50:43|   1.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 5.03 MB 
+2017-01-25 18:50:43|   1.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 6.05 MB 
+2017-01-25 18:50:44|   1.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 7.05 MB 
+2017-01-25 18:50:44|   1.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 8.06 MB 
+2017-01-25 18:50:44|   1.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 9.06 MB 
+2017-01-25 18:50:44|   1.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 10.07 MB 
+2017-01-25 18:50:45|   1.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 11.07 MB 
+2017-01-25 18:50:45|   1.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 12.08 MB 
+2017-01-25 18:50:45|   1.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 13.08 MB 
+2017-01-25 18:50:45|   1.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 14.09 MB 
+2017-01-25 18:50:46|   1.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 15.09 MB 
+2017-01-25 18:50:46|   1.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 16.10 MB 
+2017-01-25 18:50:46|   1.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 17.11 MB 
+2017-01-25 18:50:46|   1.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 18.12 MB 
+2017-01-25 18:50:47|   1.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 19.13 MB 
+2017-01-25 18:50:47|   1.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 20.13 MB 
+2017-01-25 18:50:47|   1.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 21.15 MB 
+2017-01-25 18:50:47|   1.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 22.15 MB 
+2017-01-25 18:50:48|   1.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 23.16 MB 
+2017-01-25 18:50:48|   1.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 24.16 MB 
+2017-01-25 18:50:48|   1.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 25.17 MB 
+2017-01-25 18:50:48|   1.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 26.18 MB 
+2017-01-25 18:50:49|   1.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 27.19 MB 
+2017-01-25 18:50:49|   1.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 28.19 MB 
+2017-01-25 18:50:49|   1.9|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '28636280 bytes', DNS lookup time: '0.016 seconds', total transfer time: '9.204 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=1&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 18:50:51|   3.5|  1.7|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=1&vegreferanse=F&start=hkxwC6GkbaeK&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:50:51|   3.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '357 bytes', DNS lookup time: '0 seconds', total transfer time: '0.156 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=1&vegreferanse=F&start=hkxwC6GkbaeK&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:50:52|   3.7|  0.1|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|Loaded module 'CSV' from file 'C:\Program Files\FME2016.1\64\plugins/CSV.dll'
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366651652_13032\'
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|CSV Reader: Separator Character: ';'
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|CSV Reader: Encoding name ''
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366651652_13032\NVDB_enMapping.csv'
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|Creating reader for format: Tabular Data
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366651652_13032'
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366651652_13032\NVDB_enMapping.csv'
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|Opened Separated Value File C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366651652_13032\NVDB_enMapping.csv for input with delimiter `;'
+2017-01-25 18:50:52|   3.7|  0.0|INFORM|Skipped line `ptid;enid;name;fullname' in CSV File `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366651652_13032\NVDB_enMapping.csv'
+2017-01-25 18:50:52|   3.8|  0.1|INFORM|CSV Reader: Closing dataset 'C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366651652_13032\NVDB_enMapping.csv'
+2017-01-25 18:50:52|   3.8|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366651652_13032\'
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366652856_13032\'
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|CSV Reader: Separator Character: ';'
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|CSV Reader: Encoding name ''
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366652856_13032\NVDB_ptMapping.csv'
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|Creating reader for format: Tabular Data
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366652856_13032'
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366652856_13032\NVDB_ptMapping.csv'
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|Opened Separated Value File C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366652856_13032\NVDB_ptMapping.csv for input with delimiter `;'
+2017-01-25 18:50:53|   3.8|  0.0|INFORM|Skipped line `ft_attr;ftid;ptid;name' in CSV File `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366652856_13032\NVDB_ptMapping.csv'
+2017-01-25 18:50:53|   3.9|  0.1|INFORM|CSV Reader: Closing dataset 'C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366652856_13032\NVDB_ptMapping.csv'
+2017-01-25 18:50:53|   3.9|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366652856_13032\'
+2017-01-25 18:50:54|   3.9|  0.0|INFORM|Creating reader for format: CSV (Comma Separated Value)
+2017-01-25 18:50:54|   3.9|  0.0|INFORM|Trying to find a DYNAMIC plugin for reader named `CSV'
+2017-01-25 18:50:54|   3.9|  0.0|INFORM|FME API version of module 'CSV' matches current internal version (3.8 20160224)
+2017-01-25 18:50:54|   3.9|  0.0|INFORM|CSV Reader: Opening CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366653875_13032\'
+2017-01-25 18:50:54|   3.9|  0.0|INFORM|CSV Reader: Separator Character: ';'
+2017-01-25 18:50:54|   3.9|  0.0|INFORM|CSV Reader: Skip Duplicate Delimiters: no
+2017-01-25 18:50:54|   3.9|  0.0|INFORM|CSV Reader: Strip Quotes From Fields: yes
+2017-01-25 18:50:54|   3.9|  0.0|INFORM|CSV Reader: File Has Field Names: yes
+2017-01-25 18:50:54|   3.9|  0.0|INFORM|CSV Reader: Field Names Follow Header: no
+2017-01-25 18:50:54|   3.9|  0.0|INFORM|CSV Reader: Number of Lines to Skip: 1
+2017-01-25 18:50:54|   3.9|  0.0|INFORM|CSV Reader: Number of Footer Lines to Skip: 0
+2017-01-25 18:50:54|   3.9|  0.0|INFORM|CSV Reader: Encoding name ''
+2017-01-25 18:50:54|   3.9|  0.0|INFORM|CSV Reader: Allowing Spaces in Column Names: yes
+2017-01-25 18:50:54|   3.9|  0.0|INFORM|CSV Reader: Max features to scan for schema: 1000
+2017-01-25 18:50:54|   3.9|  0.0|INFORM|CSV Reader: Feature type names from file names: no
+2017-01-25 18:50:54|   3.9|  0.0|INFORM|CSV Reader: Opening dataset 'C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366653875_13032\NVDB_ftMapping.csv'
+2017-01-25 18:50:54|   4.0|  0.0|INFORM|Creating reader for format: Tabular Data
+2017-01-25 18:50:54|   4.0|  0.0|INFORM|Using Tabular Reader $Revision$ ( $Date$ ) to read files from folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366653875_13032'
+2017-01-25 18:50:54|   4.0|  0.0|INFORM|Stripping quotes around fields in CSV File `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366653875_13032\NVDB_ftMapping.csv'
+2017-01-25 18:50:54|   4.0|  0.0|INFORM|Opened Separated Value File C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366653875_13032\NVDB_ftMapping.csv for input with delimiter `;'
+2017-01-25 18:50:54|   4.0|  0.0|INFORM|Skipped line `ftid;name' in CSV File `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366653875_13032\NVDB_ftMapping.csv'
+2017-01-25 18:50:54|   4.0|  0.0|INFORM|CSV Reader: Closing dataset 'C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366653875_13032\NVDB_ftMapping.csv'
+2017-01-25 18:50:54|   4.0|  0.0|INFORM|CSV Reader: Done reading CSV files in folder `C:\Users\knjetl\AppData\Local\Temp\__swizzled_url_1485366653875_13032\'
+2017-01-25 18:51:08|  16.0| 12.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=2&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 18:51:25|  16.5|  0.5|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '23921077 bytes', DNS lookup time: '0 seconds', total transfer time: '19.438 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=2&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 18:51:31|  18.4|  1.9|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=2&vegreferanse=F&start=dLDD1QAmh14c&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:51:40|  19.0|  0.5|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '29045200 bytes', DNS lookup time: '0 seconds', total transfer time: '12.262 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=2&vegreferanse=F&start=dLDD1QAmh14c&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:51:56|  34.8| 15.8|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=2&vegreferanse=F&start=hm8NQGVbQTK2&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:51:56|  34.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '357 bytes', DNS lookup time: '0 seconds', total transfer time: '0.063 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=2&vegreferanse=F&start=hm8NQGVbQTK2&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:52:09|  48.5| 13.7|INFORM|XML Reader mapped feature # 5000
+2017-01-25 18:52:10|  48.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=3&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 18:52:10|  48.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '4319 bytes', DNS lookup time: '0 seconds', total transfer time: '0.905 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=3&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 18:52:14|  48.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=3&vegreferanse=F&start=2s93mBxebR&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:52:14|  48.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '353 bytes', DNS lookup time: '0 seconds', total transfer time: '3.495 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=3&vegreferanse=F&start=2s93mBxebR&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:52:16|  48.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=4&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 18:52:31|  49.2|  0.6|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '24824074 bytes', DNS lookup time: '0 seconds', total transfer time: '17.269 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=4&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 18:52:38|  51.1|  1.9|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=4&vegreferanse=F&start=2sA3XSALkJ&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:52:52|  51.6|  0.4|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '25162474 bytes', DNS lookup time: '0 seconds', total transfer time: '19.094 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=4&vegreferanse=F&start=2sA3XSALkJ&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:53:08|  67.3| 15.7|INFORM|XML Reader mapped feature # 5000
+2017-01-25 18:53:12|  67.3|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=4&vegreferanse=F&start=2sA3dsmZAm&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:53:19|  67.9|  0.6|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '28036828 bytes', DNS lookup time: '0 seconds', total transfer time: '10.889 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=4&vegreferanse=F&start=2sA3dsmZAm&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:53:33|  81.9| 14.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=4&vegreferanse=F&start=hm8LHG14YRPL&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:53:33|  81.9|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '357 bytes', DNS lookup time: '0 seconds', total transfer time: '0.047 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=4&vegreferanse=F&start=hm8LHG14YRPL&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:53:47|  95.7| 13.9|INFORM|XML Reader mapped feature # 5000
+2017-01-25 18:53:48|  95.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=5&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 18:54:02|  96.3|  0.5|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '27219352 bytes', DNS lookup time: '0 seconds', total transfer time: '15.381 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=5&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 18:54:09|  98.3|  2.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=5&vegreferanse=F&start=2uL35tvLCQ&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:54:17|  99.1|  0.8|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 29.20 MB 
+2017-01-25 18:54:17|  99.1|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 30.20 MB 
+2017-01-25 18:54:17|  99.1|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 31.21 MB 
+2017-01-25 18:54:17|  99.1|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 32.22 MB 
+2017-01-25 18:54:18|  99.1|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 33.23 MB 
+2017-01-25 18:54:21|  99.2|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '33655793 bytes', DNS lookup time: '0 seconds', total transfer time: '17.285 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=5&vegreferanse=F&start=2uL35tvLCQ&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:54:38| 115.8| 16.7|INFORM|XML Reader mapped feature # 5000
+2017-01-25 18:54:39| 115.9|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=5&vegreferanse=F&start=h1UeUyB9HnKA&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:54:42| 116.0|  0.2|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '10935640 bytes', DNS lookup time: '0 seconds', total transfer time: '4.025 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=5&vegreferanse=F&start=h1UeUyB9HnKA&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:54:48| 121.6|  5.6|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=5&vegreferanse=F&start=hm8LFm8UkHAX&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:54:48| 121.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '357 bytes', DNS lookup time: '0 seconds', total transfer time: '0.062 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=5&vegreferanse=F&start=hm8LFm8UkHAX&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:55:04| 137.9| 16.3|INFORM|XML Reader mapped feature # 5000
+2017-01-25 18:55:05| 137.9|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=6&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 18:55:20| 138.5|  0.6|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '27248012 bytes', DNS lookup time: '0 seconds', total transfer time: '16.13 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=6&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 18:55:25| 140.6|  2.1|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=6&vegreferanse=F&start=e4hWvKj3H9Kb&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:55:32| 141.0|  0.4|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '26740877 bytes', DNS lookup time: '0 seconds', total transfer time: '8.955 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=6&vegreferanse=F&start=e4hWvKj3H9Kb&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:55:46| 155.0| 14.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=6&vegreferanse=F&start=hm8NRmNEAEgq&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:55:46| 155.0|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '357 bytes', DNS lookup time: '0.015 seconds', total transfer time: '0.047 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=6&vegreferanse=F&start=hm8NRmNEAEgq&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:56:02| 170.8| 15.8|INFORM|XML Reader mapped feature # 5000
+2017-01-25 18:56:03| 170.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=7&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 18:56:16| 171.6|  0.8|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '24495373 bytes', DNS lookup time: '0 seconds', total transfer time: '14.352 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=7&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 18:56:23| 173.6|  2.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=7&vegreferanse=F&start=9jbUeJ8Ciki&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:56:32| 174.2|  0.6|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '26376904 bytes', DNS lookup time: '0 seconds', total transfer time: '14.258 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=7&vegreferanse=F&start=9jbUeJ8Ciki&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:56:52| 193.1| 19.0|INFORM|XML Reader mapped feature # 5000
+2017-01-25 18:56:53| 193.1|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=7&vegreferanse=F&start=h1owD4XsXQxr&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:56:54| 193.2|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '4882450 bytes', DNS lookup time: '0 seconds', total transfer time: '2.325 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=7&vegreferanse=F&start=h1owD4XsXQxr&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:56:57| 196.5|  3.4|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=7&vegreferanse=F&start=hm8LDGwfvpo9&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:56:57| 196.5|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '357 bytes', DNS lookup time: '0 seconds', total transfer time: '0.062 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=7&vegreferanse=F&start=hm8LDGwfvpo9&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:57:13| 212.1| 15.6|INFORM|XML Reader mapped feature # 5000
+2017-01-25 18:57:15| 212.1|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=8&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 18:57:33| 212.8|  0.7|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '27423091 bytes', DNS lookup time: '0 seconds', total transfer time: '19.828 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=8&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 18:57:40| 214.9|  2.1|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=8&vegreferanse=F&start=2s847PJUsA&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:57:47| 215.5|  0.6|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '26763603 bytes', DNS lookup time: '0 seconds', total transfer time: '12.214 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=8&vegreferanse=F&start=2s847PJUsA&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:58:01| 229.7| 14.2|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=8&vegreferanse=F&start=hm8NRmFi6Nmv&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:58:01| 229.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '357 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=8&vegreferanse=F&start=hm8NRmFi6Nmv&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:58:17| 245.2| 15.5|INFORM|XML Reader mapped feature # 5000
+2017-01-25 18:58:18| 245.2|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=9&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 18:58:30| 245.8|  0.5|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '26211112 bytes', DNS lookup time: '0 seconds', total transfer time: '13.088 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=9&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 18:58:39| 247.8|  2.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=9&vegreferanse=F&start=7LjC4cg&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:58:45| 248.2|  0.4|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '22822217 bytes', DNS lookup time: '0 seconds', total transfer time: '12.371 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=9&vegreferanse=F&start=7LjC4cg&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:58:58| 261.9| 13.7|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=9&vegreferanse=F&start=hm8NRFovL3LM&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:58:58| 261.9|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '357 bytes', DNS lookup time: '0 seconds', total transfer time: '0.032 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=9&vegreferanse=F&start=hm8NRFovL3LM&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:59:13| 276.7| 14.8|INFORM|XML Reader mapped feature # 5000
+2017-01-25 18:59:16| 276.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=10&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 18:59:27| 277.5|  0.7|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '34006365 bytes', DNS lookup time: '0 seconds', total transfer time: '13.385 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=10&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 18:59:30| 279.5|  2.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=10&vegreferanse=F&start=h1ybg6FL3V2C&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:59:36| 279.8|  0.3|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '25714174 bytes', DNS lookup time: '0 seconds', total transfer time: '7.691 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=10&vegreferanse=F&start=h1ybg6FL3V2C&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 18:59:48| 291.6| 11.7|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=10&vegreferanse=F&start=hm8NSFEatCoS&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 18:59:48| 291.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '358 bytes', DNS lookup time: '0 seconds', total transfer time: '0.047 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=10&vegreferanse=F&start=hm8NSFEatCoS&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:00:04| 307.4| 15.9|INFORM|XML Reader mapped feature # 5000
+2017-01-25 19:00:06| 307.4|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=11&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 19:00:20| 307.9|  0.5|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '24874080 bytes', DNS lookup time: '0 seconds', total transfer time: '16.037 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=11&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 19:00:25| 309.8|  1.9|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=11&vegreferanse=F&start=e4s99PAJWSus&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:00:34| 310.6|  0.7|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 34.23 MB 
+2017-01-25 19:00:34| 310.6|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Request - Sent so far: 35.23 MB 
+2017-01-25 19:00:38| 310.6|  0.1|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '35372623 bytes', DNS lookup time: '0 seconds', total transfer time: '15.553 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=11&vegreferanse=F&start=e4s99PAJWSus&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:00:55| 328.2| 17.6|INFORM|XML Reader mapped feature # 5000
+2017-01-25 19:00:57| 328.2|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=11&vegreferanse=F&start=hkoEVavj46vA&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:01:00| 328.4|  0.2|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '9483660 bytes', DNS lookup time: '0 seconds', total transfer time: '4.29 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=11&vegreferanse=F&start=hkoEVavj46vA&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:01:05| 334.0|  5.6|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=11&vegreferanse=F&start=hm8NQmNwqWtN&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:01:05| 334.0|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '358 bytes', DNS lookup time: '0 seconds', total transfer time: '0.046 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=11&vegreferanse=F&start=hm8NQmNwqWtN&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:01:20| 348.8| 14.8|INFORM|XML Reader mapped feature # 5000
+2017-01-25 19:01:22| 348.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=12&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 19:01:31| 349.4|  0.6|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '25451406 bytes', DNS lookup time: '0 seconds', total transfer time: '11.122 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=12&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 19:01:35| 351.4|  1.9|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=12&vegreferanse=F&start=fZB95V2S2MTh&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:01:44| 351.9|  0.6|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '33486705 bytes', DNS lookup time: '0 seconds', total transfer time: '10.983 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=12&vegreferanse=F&start=fZB95V2S2MTh&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:02:01| 368.9| 17.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=12&vegreferanse=F&start=hm8NRkaSvkTF&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:02:01| 368.9|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '358 bytes', DNS lookup time: '0 seconds', total transfer time: '0.062 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=12&vegreferanse=F&start=hm8NRkaSvkTF&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:02:16| 383.8| 14.9|INFORM|XML Reader mapped feature # 5000
+2017-01-25 19:02:16| 383.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=13&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 19:02:16| 383.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 422, download size: '138 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=13&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 19:02:16| 383.8|  0.0|ERROR |NVDB_Leser_HTTPCaller_2(HTTPFactory): Received HTTP response header: 'HTTP/1.1 422 Unprocessable Entity' from 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=13&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 19:02:16| 383.8|  0.0|STATS |Storing feature(s) to FME feature store file `C:\Users\knjetl\AppData\Local\Temp\Fylkesvegnummer_185033\inspector.ffs'
+2017-01-25 19:02:16| 383.8|  0.0|STATS |Storing feature(s) to FME feature store file `C:\Users\knjetl\AppData\Local\Temp\Fylkesvegnummer_185033\inspector.fsc'
+2017-01-25 19:02:17| 383.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=14&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 19:02:30| 384.3|  0.6|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '29273481 bytes', DNS lookup time: '0 seconds', total transfer time: '13.65 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=14&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 19:02:37| 386.3|  2.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=14&vegreferanse=F&start=UzQoTU6u&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:02:42| 386.7|  0.4|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '18428942 bytes', DNS lookup time: '0 seconds', total transfer time: '10.405 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=14&vegreferanse=F&start=UzQoTU6u&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:02:53| 397.3| 10.6|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=14&vegreferanse=F&start=hm8LDnPb9noN&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:02:53| 397.3|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '358 bytes', DNS lookup time: '0 seconds', total transfer time: '0.062 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=14&vegreferanse=F&start=hm8LDnPb9noN&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:03:09| 413.0| 15.7|INFORM|XML Reader mapped feature # 5000
+2017-01-25 19:03:10| 413.0|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=15&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 19:03:21| 413.6|  0.6|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '25954631 bytes', DNS lookup time: '0 seconds', total transfer time: '12.573 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=15&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 19:03:27| 415.5|  1.9|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=15&vegreferanse=F&start=ep26uxAht2n6&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:03:38| 416.1|  0.5|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '29466482 bytes', DNS lookup time: '0 seconds', total transfer time: '14.43 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=15&vegreferanse=F&start=ep26uxAht2n6&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:03:55| 433.4| 17.4|INFORM|XML Reader mapped feature # 5000
+2017-01-25 19:03:56| 433.4|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=15&vegreferanse=F&start=h29JN6pd8h1U&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:04:01| 433.7|  0.3|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '18678713 bytes', DNS lookup time: '0 seconds', total transfer time: '5.569 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=15&vegreferanse=F&start=h29JN6pd8h1U&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:04:11| 443.8| 10.1|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=15&vegreferanse=F&start=hm8LHGnnobxS&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:04:11| 443.8|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '358 bytes', DNS lookup time: '0 seconds', total transfer time: '0.047 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=15&vegreferanse=F&start=hm8LHGnnobxS&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:04:26| 459.0| 15.2|INFORM|XML Reader mapped feature # 5000
+2017-01-25 19:04:28| 459.0|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=16&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 19:04:42| 459.6|  0.6|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '26637763 bytes', DNS lookup time: '0 seconds', total transfer time: '15.757 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=16&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 19:04:49| 461.5|  1.9|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=16&vegreferanse=F&start=RzZDjHLU&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:05:00| 462.0|  0.5|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '26306626 bytes', DNS lookup time: '0 seconds', total transfer time: '16.395 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=16&vegreferanse=F&start=RzZDjHLU&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:05:17| 479.0| 17.0|INFORM|XML Reader mapped feature # 5000
+2017-01-25 19:05:20| 479.0|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=16&vegreferanse=F&start=e5Cf8Mb2bM6b&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:05:27| 479.4|  0.4|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '27071353 bytes', DNS lookup time: '0 seconds', total transfer time: '9.532 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=16&vegreferanse=F&start=e5Cf8Mb2bM6b&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:05:44| 496.1| 16.7|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=16&vegreferanse=F&start=hm8NRGG9Nywp&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:05:44| 496.1|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '358 bytes', DNS lookup time: '0 seconds', total transfer time: '0.047 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=16&vegreferanse=F&start=hm8NRGG9Nywp&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:05:59| 511.4| 15.3|INFORM|XML Reader mapped feature # 5000
+2017-01-25 19:06:01| 511.4|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=17&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 19:06:19| 512.0|  0.7|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '34677858 bytes', DNS lookup time: '0 seconds', total transfer time: '19.656 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=17&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 19:06:25| 513.9|  1.9|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=17&vegreferanse=F&start=2s8YzXterk&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:06:38| 514.7|  0.7|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '35131192 bytes', DNS lookup time: '0 seconds', total transfer time: '16.926 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=17&vegreferanse=F&start=2s8YzXterk&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:06:56| 533.1| 18.5|INFORM|XML Reader mapped feature # 5000
+2017-01-25 19:06:59| 533.2|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=17&vegreferanse=F&start=fYWJ7xRGPfyJ&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:07:05| 533.6|  0.5|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '22617240 bytes', DNS lookup time: '0 seconds', total transfer time: '8.721 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=17&vegreferanse=F&start=fYWJ7xRGPfyJ&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:07:17| 545.9| 12.2|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=17&vegreferanse=F&start=hm8NQG9zFbwt&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:07:17| 545.9|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '358 bytes', DNS lookup time: '0 seconds', total transfer time: '0.047 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=17&vegreferanse=F&start=hm8NQG9zFbwt&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:07:34| 562.9| 17.0|INFORM|XML Reader mapped feature # 5000
+2017-01-25 19:07:36| 562.9|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=18&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 19:07:52| 563.7|  0.8|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '29734796 bytes', DNS lookup time: '0 seconds', total transfer time: '17.893 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=18&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 19:08:00| 565.8|  2.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=18&vegreferanse=F&start=2sC2VVGTAo&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:08:13| 566.5|  0.7|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '34194828 bytes', DNS lookup time: '0 seconds', total transfer time: '18.127 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=18&vegreferanse=F&start=2sC2VVGTAo&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:08:32| 586.1| 19.6|INFORM|XML Reader mapped feature # 5000
+2017-01-25 19:08:34| 586.1|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=18&vegreferanse=F&start=gGf66vJiPkDE&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:08:39| 586.6|  0.5|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '19424323 bytes', DNS lookup time: '0 seconds', total transfer time: '6.49 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=18&vegreferanse=F&start=gGf66vJiPkDE&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:08:49| 597.3| 10.7|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=18&vegreferanse=F&start=hm8NQmVLURG7&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:08:49| 597.3|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '358 bytes', DNS lookup time: '0 seconds', total transfer time: '0.046 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=18&vegreferanse=F&start=hm8NQmVLURG7&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:09:06| 614.1| 16.8|INFORM|XML Reader mapped feature # 5000
+2017-01-25 19:09:08| 614.1|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=19&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 19:09:20| 614.6|  0.6|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '29905707 bytes', DNS lookup time: '0 seconds', total transfer time: '13.525 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=19&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 19:09:24| 616.6|  2.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=19&vegreferanse=F&start=enr3Sw1vYPTJ&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:09:31| 617.0|  0.5|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '26769253 bytes', DNS lookup time: '0 seconds', total transfer time: '9.625 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=19&vegreferanse=F&start=enr3Sw1vYPTJ&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:09:44| 629.1| 12.1|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=19&vegreferanse=F&start=hm8NRGG7v1VH&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:09:44| 629.1|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '358 bytes', DNS lookup time: '0 seconds', total transfer time: '0.031 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=19&vegreferanse=F&start=hm8NRGG7v1VH&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:10:00| 645.4| 16.3|INFORM|XML Reader mapped feature # 5000
+2017-01-25 19:10:02| 645.4|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=20&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri' to internal memory buffer
+2017-01-25 19:10:09| 646.0|  0.6|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '22389535 bytes', DNS lookup time: '0 seconds', total transfer time: '8.721 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?fylke=20&vegreferanse=F&antall=5000&inkluder=metadata,egenskaper,lokasjon,geometri'
+2017-01-25 19:10:10| 647.3|  1.3|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP/FTP Transfer: Downloading resource 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=20&vegreferanse=F&start=hkxyMax1qSVy&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri' to internal memory buffer
+2017-01-25 19:10:10| 647.3|  0.0|INFORM|NVDB_Leser_HTTPCaller_2(HTTPFactory): HTTP transfer summary - status code: 200, download size: '358 bytes', DNS lookup time: '0 seconds', total transfer time: '0.078 seconds', url: 'https://www.vegvesen.no/nvdb/api/v2/vegobjekter/532?antall=5000&fylke=20&vegreferanse=F&start=hkxyMax1qSVy&inkluder=metadata%2Cegenskaper%2Clokasjon%2Cgeometri'
+2017-01-25 19:10:22| 658.9| 11.6|WARN  |Coordinate system of reader identified by keyword `SPATIALITE_1' has changed from `ETRS89.UTM-33N' to `'
+2017-01-25 19:10:22| 658.9|  0.0|INFORM|FME Configuration: Source coordinate system for reader SPATIALITE_1[SPATIALITE] set to `ETRS89.UTM-33N' as read from input data
+2017-01-25 19:10:22| 658.9|  0.0|INFORM|Coordinate System `ETRS89.UTM-33N' parameters: CS_NAME=`ETRS89.UTM-33N' DESC_NM=`Transverse Mercator (ETRS89-TM33)' DT_NAME=`ETRS89/01' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`84.5' MAX_LNG=`22.1333333333333' MIN_LAT=`31.05' MIN_LNG=`10.8833333333333' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25833 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
+2017-01-25 19:10:22| 659.4|  0.4|INFORM|Reading source feature # 2500
+2017-01-25 19:10:22| 659.4|  0.0|WARN  |Coordinate system of reader identified by keyword `SPATIALITE_1' has changed from `ETRS89.UTM-33N' to `'
+2017-01-25 19:10:22| 659.4|  0.0|INFORM|FME Configuration: Source coordinate system for reader SPATIALITE_1[SPATIALITE] set to `ETRS89.UTM-33N' as read from input data
+2017-01-25 19:10:22| 659.4|  0.0|INFORM|Coordinate System `ETRS89.UTM-33N' parameters: CS_NAME=`ETRS89.UTM-33N' DESC_NM=`Transverse Mercator (ETRS89-TM33)' DT_NAME=`ETRS89/01' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`84.5' MAX_LNG=`22.1333333333333' MIN_LAT=`31.05' MIN_LNG=`10.8833333333333' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25833 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
+2017-01-25 19:10:23| 659.8|  0.4|INFORM|Reading source feature # 5000
+2017-01-25 19:10:23| 660.2|  0.4|INFORM|Reading source feature # 7500
+2017-01-25 19:10:23| 660.6|  0.4|INFORM|Reading source feature # 10000
+2017-01-25 19:10:24| 661.0|  0.4|WARN  |Coordinate system of reader identified by keyword `SPATIALITE_1' has changed from `ETRS89.UTM-33N' to `'
+2017-01-25 19:10:24| 661.0|  0.0|INFORM|FME Configuration: Source coordinate system for reader SPATIALITE_1[SPATIALITE] set to `ETRS89.UTM-33N' as read from input data
+2017-01-25 19:10:24| 661.0|  0.0|INFORM|Coordinate System `ETRS89.UTM-33N' parameters: CS_NAME=`ETRS89.UTM-33N' DESC_NM=`Transverse Mercator (ETRS89-TM33)' DT_NAME=`ETRS89/01' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`84.5' MAX_LNG=`22.1333333333333' MIN_LAT=`31.05' MIN_LNG=`10.8833333333333' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25833 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
+2017-01-25 19:10:24| 661.1|  0.1|INFORM|Reading source feature # 12500
+2017-01-25 19:10:24| 661.2|  0.1|WARN  |Coordinate system of reader identified by keyword `SPATIALITE_1' has changed from `ETRS89.UTM-33N' to `'
+2017-01-25 19:10:24| 661.2|  0.0|INFORM|FME Configuration: Source coordinate system for reader SPATIALITE_1[SPATIALITE] set to `ETRS89.UTM-33N' as read from input data
+2017-01-25 19:10:24| 661.2|  0.0|INFORM|Coordinate System `ETRS89.UTM-33N' parameters: CS_NAME=`ETRS89.UTM-33N' DESC_NM=`Transverse Mercator (ETRS89-TM33)' DT_NAME=`ETRS89/01' GROUP=`UTMN' MAP_SCL=`1' MAX_LAT=`84.5' MAX_LNG=`22.1333333333333' MIN_LAT=`31.05' MIN_LNG=`10.8833333333333' PARM1=`15' PROJ=`TM' QUAD=`1' SCL_RED=`0.9996' SOURCE=`EPSG, V6.3, 25833 [Large and medium scale topographic mappi]' UNIT=`Meter' X_OFF=`500000' Y_OFF=`0.0' ZERO_X=`0.0001' ZERO_Y=`0.0001' 
+2017-01-25 19:10:24| 661.2|  0.0|WARN  |Coordinate system of reader identified by keyword `SPATIALITE_1' has changed from `ETRS89.UTM-33N' to `'
+2017-01-25 19:10:24| 661.2|  0.0|WARN  |Further coordinate system changes will not be logged
+2017-01-25 19:10:24| 661.5|  0.2|INFORM|Reading source feature # 15000
+2017-01-25 19:10:25| 661.9|  0.4|INFORM|Reading source feature # 17500
+2017-01-25 19:10:25| 662.3|  0.4|INFORM|Reading source feature # 20000
+2017-01-25 19:10:26| 662.7|  0.4|INFORM|Reading source feature # 22500
+2017-01-25 19:10:26| 663.1|  0.4|INFORM|Reading source feature # 25000
+2017-01-25 19:10:26| 663.5|  0.4|INFORM|Reading source feature # 27500
+2017-01-25 19:10:27| 664.0|  0.5|INFORM|Reading source feature # 30000
+2017-01-25 19:10:27| 664.4|  0.5|INFORM|Reading source feature # 32500
+2017-01-25 19:10:28| 664.8|  0.4|INFORM|Reading source feature # 35000
+2017-01-25 19:10:28| 665.3|  0.4|INFORM|Reading source feature # 37500
+2017-01-25 19:10:29| 665.7|  0.4|INFORM|Reading source feature # 40000
+2017-01-25 19:10:29| 666.1|  0.4|INFORM|Reading source feature # 42500
+2017-01-25 19:10:29| 666.5|  0.4|INFORM|Reading source feature # 45000
+2017-01-25 19:10:30| 666.9|  0.4|INFORM|Reading source feature # 47500
+2017-01-25 19:10:30| 667.4|  0.4|INFORM|Reading source feature # 50000
+2017-01-25 19:10:31| 667.8|  0.4|INFORM|Reading source feature # 52500
+2017-01-25 19:10:31| 668.2|  0.4|INFORM|Reading source feature # 55000
+2017-01-25 19:10:32| 668.6|  0.4|INFORM|Reading source feature # 57500
+2017-01-25 19:10:32| 669.0|  0.4|INFORM|Reading source feature # 60000
+2017-01-25 19:10:32| 669.4|  0.4|INFORM|Reading source feature # 62500
+2017-01-25 19:10:33| 669.7|  0.3|INFORM|Emptying factory pipeline
+2017-01-25 19:10:33| 669.7|  0.0|STATS |Router and Unexpected Input Remover(RoutingFactory): Tested 64375 input feature(s), wrote 64375 output feature(s): 64375 matched merge filters, 64375 were routed to output, 0 could not be routed.
+2017-01-25 19:10:33| 669.7|  0.0|STATS |Unexpected Input Remover Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |vegfunksjon (SPATIALITE_1) Splitter(TeeFactory): Cloned 64375 input feature(s) into 64375 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |Creator_2_XML_Creator(CreationFactory): Created 1 features
+2017-01-25 19:10:33| 669.7|  0.0|STATS |Creator_2_Cloner(TeeFactory): Cloned 1 input feature(s) into 20 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |Creator_2_CREATED Brancher -1 12(BranchingFactory): Branched 20 input features -- 20 features routed to the target factory, and 0 features routed to the fallback factory.
+2017-01-25 19:10:33| 669.7|  0.0|STATS |_CREATOR_BRANCH_TARGET(TeeFactory): Cloned 64395 input feature(s) into 64395 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |Counter_2_Counter(TeeFactory): Cloned 20 input feature(s) into 20 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |Counter_2_Rejector(TestFactory): Tested 20 input feature(s) -- 0 feature(s) passed and 20 feature(s) failed
+2017-01-25 19:10:33| 669.7|  0.0|STATS |Counter_2_<REJECTED> Feature Counter -1 2147680267(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser _Input Input Collector(TeeFactory): Cloned 20 input feature(s) into 20 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser__Input1485366630 Input Splitter(TeeFactory): Cloned 20 input feature(s) into 20 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_Loop1485366630 Input Splitter(TeeFactory): Cloned 43 input feature(s) into 43 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_HTTPCaller_2 Output Splitter(TeeFactory): Cloned 62 input feature(s) into 124 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_HTTPCaller_Rejected_DirCreator(CreationFactory): Created 1 features
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_HTTPCaller_Rejected_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_HTTPCaller_Rejected_FeatureDirector(TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_HTTPCaller_Rejected___FeatureDirector1(TestFactory): Tested 1 input feature(s) -- 0 feature(s) passed and 1 feature(s) failed
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_HTTPCaller_Rejected_VectorSetterUpper(TeeFactory): Cloned 1 input feature(s) into 1 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_HTTPCaller_Rejected___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_HTTPCaller_Rejected_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|INFORM|NVDB_Leser_HTTPCaller_Rejected_Recorder(RecorderFactory): Recorded 1 feature(s) to file `C:\Users\knjetl\AppData\Local\Temp\Fylkesvegnummer_185033\inspector.ffs'
+2017-01-25 19:10:33| 669.7|  0.0|INFORM|NVDB_Leser_XMLFragmenter(XFMapFactory): Total Results: 180195 Mapped Feature(s), 62 Input Feature(s), and 0 Invalid input Feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|INFORM|Optional `close' method not present; not called
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_GeometryReplacer(TeeFactory): Cloned 180195 input feature(s) into 180195 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_GeometryReplacer_Rejector(TestFactory): Tested 180195 input feature(s) -- 0 feature(s) passed and 180195 feature(s) failed
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_GeometryReplacer OUTPUT Splitter(TeeFactory): Cloned 180195 input feature(s) into 360390 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_GeometryReplacer_<REJECTED> Feature Counter 0 2147680271(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_CoordinateSystemSetter_2(TeeFactory): Cloned 180195 input feature(s) into 180195 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_CoordinateSystemSetter (Disabled) Nuker(TeeFactory): Cloned 180195 input feature(s) into 0 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_Deaggregator(DeaggregateFactory): Split 180195 input feature(s) into 0 point-in-polygon feature(s), 0 donut polygon(s), 0 polygon(s), 180198 line(s), 0 point(s), and 0 aggregate(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_Deaggregator(DeaggregateFactory): 180192 non-aggregate input features were routed through the factory
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_NullAttributeMapper(TeeFactory): Cloned 180198 input feature(s) into 180198 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_StringConcatenator(TeeFactory): Cloned 180198 input feature(s) into 180198 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|INFORM|NVDB_Leser_XMLFragmenter_2(XFMapFactory): Total Results: 62 Mapped Feature(s), 62 Input Feature(s), and 0 Invalid input Feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_TestFilter(TeeFactory): Cloned 62 input feature(s) into 62 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_TestFilter_TestFactory_0(TestFactory): Tested 62 input feature(s) -- 43 feature(s) passed and 19 feature(s) failed
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_TestFilter_<lt>UNFILTERED<gt>(TeeFactory): Cloned 19 input feature(s) into 19 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_TestFilter <lt>UNFILTERED<gt> Output Nuker(TeeFactory): Cloned 19 input feature(s) into 0 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |Loop to NVDB_Leser_Loop1485366630 Input Splitter(BranchingFactory): Branched 43 input features -- 43 features routed to the target factory, and 0 features routed to the fallback factory.
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser_Output1485366630 Output Collector(TeeFactory): Cloned 180198 input feature(s) into 180198 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NVDB_Leser Output Output Renamer/Nuker(TeeFactory): Cloned 180198 input feature(s) into 180198 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |NullAttributeMapper_3(TeeFactory): Cloned 180198 input feature(s) into 180198 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |AttributeExposer(TeeFactory): Cloned 180198 input feature(s) into 180198 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |TestFilter(TeeFactory): Cloned 180198 input feature(s) into 180198 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |TestFilter_TestFactory_0(TestFactory): Tested 180198 input feature(s) -- 35 feature(s) passed and 180163 feature(s) failed
+2017-01-25 19:10:33| 669.7|  0.0|STATS |TestFilter_TestFactory_1(TestFactory): Tested 180163 input feature(s) -- 2502 feature(s) passed and 177661 feature(s) failed
+2017-01-25 19:10:33| 669.7|  0.0|STATS |TestFilter_<lt>UNFILTERED<gt>(TeeFactory): Cloned 177661 input feature(s) into 177661 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |TestFilter Fiktive Output Nuker(TeeFactory): Cloned 35 input feature(s) into 0 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |TestFilter Konnekteringslenker Output Nuker(TeeFactory): Cloned 2502 input feature(s) into 0 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |LengthCalculator_LengthCalculator(TeeFactory): Cloned 177661 input feature(s) into 177661 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |LengthCalculator_Rejector(TestFactory): Tested 177661 input feature(s) -- 0 feature(s) passed and 177661 feature(s) failed
+2017-01-25 19:10:33| 669.7|  0.0|STATS |LengthCalculator_<REJECTED> Feature Counter -1 2147680300(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |AttributeManager_3 OUTPUT Splitter(TeeFactory): Cloned 177661 input feature(s) into 355322 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |AttributeManager_2 OUTPUT Splitter(TeeFactory): Cloned 64375 input feature(s) into 128750 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |VegfunksjonPFV_DirCreator(CreationFactory): Created 1 features
+2017-01-25 19:10:33| 669.7|  0.0|STATS |VegfunksjonPFV_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |VegfunksjonPFV_FeatureDirector(TestFactory): Tested 64375 input feature(s) -- 0 feature(s) passed and 64375 feature(s) failed
+2017-01-25 19:10:33| 669.7|  0.0|STATS |VegfunksjonPFV___FeatureDirector1(TestFactory): Tested 64375 input feature(s) -- 0 feature(s) passed and 64375 feature(s) failed
+2017-01-25 19:10:33| 669.7|  0.0|STATS |VegfunksjonPFV_VectorSetterUpper(TeeFactory): Cloned 64375 input feature(s) into 64375 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |VegfunksjonPFV___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|STATS |VegfunksjonPFV_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:10:33| 669.7|  0.0|INFORM|Saving spatial index into file 'C:\Users\knjetl\AppData\Local\Temp\Fylkesvegnummer_185033\inspector.fsi'
+2017-01-25 19:10:33| 669.7|  0.0|INFORM|Finished saving spatial index into file 'C:\Users\knjetl\AppData\Local\Temp\Fylkesvegnummer_185033\inspector.fsi'
+2017-01-25 19:10:33| 669.7|  0.0|STATS |Stored 64376 feature(s) to FME feature store file `C:\Users\knjetl\AppData\Local\Temp\Fylkesvegnummer_185033\inspector.ffs'
+2017-01-25 19:10:33| 669.7|  0.0|STATS |Stored 2 feature(s) to FME feature store file `C:\Users\knjetl\AppData\Local\Temp\Fylkesvegnummer_185033\inspector.fsc'
+2017-01-25 19:10:33| 669.7|  0.0|INFORM|VegfunksjonPFV_Recorder(RecorderFactory): Recorded 64375 feature(s) to file `C:\Users\knjetl\AppData\Local\Temp\Fylkesvegnummer_185033\inspector.ffs'
+2017-01-25 19:10:33| 669.7|  0.0|INFORM|InlineQuerier(InlineQueryFactory): Generating output 'PFV' using query 'SELECT * FROM Vegreferanse
 LEFT JOIN Vegfunksjon ON Vegreferanse.route_id = Vegfunksjon.route_id
 WHERE (Vegreferanse.from_measure < Vegfunksjon.to_measure AND Vegreferanse.to_measure > Vegfunksjon.from_measure) 
 '
-2017-01-24 23:38:01|  62.1|  2.3|INFORM|InlineQuerier(InlineQueryFactory): Wrote 10346 features to output 'PFV'
-2017-01-24 23:38:02|  63.0|  1.0|STATS |FeatureMerger(ReferenceFactory): Total Results: 6961 Complete Feature(s), 7340 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 10280 Duplicate Referencee Feature(s)
-2017-01-24 23:38:02|  63.6|  0.5|STATS |Aggregator_2(AggregateFactory): Combined 14301 input feature(s) into 1599 output feature(s), including 0 singleton(s)
-2017-01-24 23:38:03|  63.8|  0.2|STATS |Aggregator(AggregateFactory): Combined 1599 input feature(s) into 420 output feature(s), including 0 singleton(s)
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Matcher(MatchingFactory): Upper bound on the number of comparisons is 88410. Fewer comparisons may be made, and the worst case will not exceed this upper bound
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Matcher(MatchingFactory): Processing comparison #1
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Predefined coordinate system `ETRS89.UTM-33N' (Transverse Mercator (ETRS89-TM33)) matches dataset coordinate system 
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|The EPSG number of the FME coordinate system 'ETRS89.UTM-33N' is '6173'
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Creating writer for format: Microsoft Excel
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `XLSXW'
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Loaded module 'XLSXW' from file 'C:\Program Files\FME2016.1\64\plugins/xlsx.dll'
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|FME API version of module 'XLSXW' matches current internal version (3.8 20160224)
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|FME Configuration: No destination coordinate system set
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|FME API version of module 'XLSXW' matches current internal version (3.8 20160224)
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Writer `XLSXW_1' of type `XLSXW' using group definition keyword `XLSXW_1_DEF'
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|FME API version of module 'XLSXW' matches current internal version (3.8 20160224)
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Excel Writer: Use Attribute Names As Column Positions is set to 'no' for sheet 'Ikke-unike nummer' in dataset 'C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\Data\Fylkesvegnummer.xlsx' 
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Excel Writer: Use Attribute Names As Column Positions is set to 'no' for sheet 'unike nummer' in dataset 'C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\Data\Fylkesvegnummer.xlsx' 
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Excel Writer: Use Attribute Names As Column Positions is set to 'no' for sheet 'antall endres' in dataset 'C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\Data\Fylkesvegnummer.xlsx' 
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|FME Configuration: Destination coordinate system set to input coordinate system `EPSG:6173'
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Excel Writer: Deleted existing destination file 'C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\Data\Fylkesvegnummer.xlsx'
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Excel Writer: Opening dataset 'C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\Data\Fylkesvegnummer.xlsx'...
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Excel Writer: Sheet 'unike nummer' has writer mode 'INSERT'
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Excel Writer: Sheet 'unike nummer' has Output field names set to 'yes'
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Excel Writer: Sheet 'unike nummer' will start writing to row '1' and column '1' relative to its start location. Sheets have a starting location of row 1, column 1, named range starting locations can be specified
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Excel Writer: Outputting field names for sheet 'unike nummer'
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Excel Writer: Sheet 'Ikke-unike nummer' has writer mode 'INSERT'
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Excel Writer: Sheet 'Ikke-unike nummer' has Output field names set to 'yes'
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Excel Writer: Sheet 'Ikke-unike nummer' will start writing to row '1' and column '1' relative to its start location. Sheets have a starting location of row 1, column 1, named range starting locations can be specified
-2017-01-24 23:38:03|  63.8|  0.0|INFORM|Excel Writer: Outputting field names for sheet 'Ikke-unike nummer'
-2017-01-24 23:38:03|  64.0|  0.2|STATS |Matcher(MatchingFactory): Found 49 matching group(s) of features in 420 input feature(s). 322 feature(s) did not have any matches
-2017-01-24 23:38:03|  64.0|  0.0|STATS |Matcher MATCHED Splitter(TeeFactory): Cloned 98 input feature(s) into 196 output feature(s)
-2017-01-24 23:38:03|  64.0|  0.0|STATS |AttributeRenamer_2 OUTPUT Splitter(TeeFactory): Cloned 322 input feature(s) into 966 output feature(s)
-2017-01-24 23:38:03|  64.0|  0.0|STATS |Unike_vegnummer_DirCreator(CreationFactory): Created 1 features
-2017-01-24 23:38:03|  64.0|  0.0|STATS |Unike_vegnummer_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
-2017-01-24 23:38:03|  64.0|  0.0|STATS |Unike_vegnummer_FeatureDirector(TestFactory): Tested 322 input feature(s) -- 0 feature(s) passed and 322 feature(s) failed
-2017-01-24 23:38:03|  64.0|  0.0|STATS |Unike_vegnummer___FeatureDirector1(TestFactory): Tested 322 input feature(s) -- 0 feature(s) passed and 322 feature(s) failed
-2017-01-24 23:38:03|  64.0|  0.0|STATS |Unike_vegnummer_VectorSetterUpper(TeeFactory): Cloned 322 input feature(s) into 322 output feature(s)
-2017-01-24 23:38:03|  64.0|  0.0|STATS |Unike_vegnummer___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-01-24 23:38:03|  64.0|  0.0|STATS |Unike_vegnummer_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-01-24 23:38:03|  64.0|  0.0|INFORM|Unike_vegnummer_Recorder(RecorderFactory): Recorded 322 feature(s) to file `C:\Users\knjetl\AppData\Local\Temp\Fylkesvegnummer_233619\inspector.ffs'
-2017-01-24 23:38:03|  64.0|  0.0|STATS |AttributeRenamer OUTPUT Splitter(TeeFactory): Cloned 98 input feature(s) into 294 output feature(s)
-2017-01-24 23:38:03|  64.0|  0.0|STATS |Ikke-unike_vegnummer_DirCreator(CreationFactory): Created 1 features
-2017-01-24 23:38:03|  64.0|  0.0|STATS |Ikke-unike_vegnummer_DirCreatorCleanerUpper(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
-2017-01-24 23:38:03|  64.0|  0.0|STATS |Ikke-unike_vegnummer_FeatureDirector(TestFactory): Tested 98 input feature(s) -- 0 feature(s) passed and 98 feature(s) failed
-2017-01-24 23:38:03|  64.0|  0.0|STATS |Ikke-unike_vegnummer___FeatureDirector1(TestFactory): Tested 98 input feature(s) -- 0 feature(s) passed and 98 feature(s) failed
-2017-01-24 23:38:03|  64.0|  0.0|STATS |Ikke-unike_vegnummer_VectorSetterUpper(TeeFactory): Cloned 98 input feature(s) into 98 output feature(s)
-2017-01-24 23:38:03|  64.0|  0.0|STATS |Ikke-unike_vegnummer___PointCloudThinner(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-01-24 23:38:03|  64.0|  0.0|STATS |Ikke-unike_vegnummer_RasterSetterUpper(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-01-24 23:38:03|  64.0|  0.0|INFORM|Saving spatial index into file 'C:\Users\knjetl\AppData\Local\Temp\Fylkesvegnummer_233619\inspector.fsi'
-2017-01-24 23:38:03|  64.1|  0.0|INFORM|Finished saving spatial index into file 'C:\Users\knjetl\AppData\Local\Temp\Fylkesvegnummer_233619\inspector.fsi'
-2017-01-24 23:38:03|  64.1|  0.0|STATS |Stored 64795 feature(s) to FME feature store file `C:\Users\knjetl\AppData\Local\Temp\Fylkesvegnummer_233619\inspector.ffs'
-2017-01-24 23:38:03|  64.1|  0.0|STATS |Stored 3 feature(s) to FME feature store file `C:\Users\knjetl\AppData\Local\Temp\Fylkesvegnummer_233619\inspector.fsc'
-2017-01-24 23:38:03|  64.1|  0.0|INFORM|Ikke-unike_vegnummer_Recorder(RecorderFactory): Recorded 98 feature(s) to file `C:\Users\knjetl\AppData\Local\Temp\Fylkesvegnummer_233619\inspector.ffs'
-2017-01-24 23:38:03|  64.1|  0.0|INFORM|Excel Writer: Sheet 'antall endres' has writer mode 'INSERT'
-2017-01-24 23:38:03|  64.1|  0.0|INFORM|Excel Writer: Sheet 'antall endres' has Output field names set to 'yes'
-2017-01-24 23:38:03|  64.1|  0.0|INFORM|Excel Writer: Sheet 'antall endres' will start writing to row '1' and column '1' relative to its start location. Sheets have a starting location of row 1, column 1, named range starting locations can be specified
-2017-01-24 23:38:03|  64.1|  0.0|INFORM|Excel Writer: Outputting field names for sheet 'antall endres'
-2017-01-24 23:38:03|  64.1|  0.0|STATS |Aggregator_3(AggregateFactory): Combined 98 input feature(s) into 49 output feature(s), including 0 singleton(s)
-2017-01-24 23:38:03|  64.1|  0.0|STATS |Destination Feature Type Routing Correlator(RoutingFactory): Tested 889 input feature(s), wrote 889 output feature(s): 0 matched merge filters, 889 were routed to output, 0 could not be routed.
-2017-01-24 23:38:03|  64.1|  0.0|STATS |Final Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
-2017-01-24 23:38:03|  64.1|  0.0|STATS |f_141(CreationFactory): Created 1 features
-2017-01-24 23:38:03|  64.1|  0.0|STATS |f_142(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
-2017-01-24 23:38:03|  64.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:03|  64.1|  0.0|STATS |                            `Count' Domain Summary
-2017-01-24 23:38:03|  64.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:03|  64.1|  0.0|STATS |Matcher                                                                     49
-2017-01-24 23:38:03|  64.1|  0.0|STATS |counter (range was 1 to 3)                                                   2
-2017-01-24 23:38:03|  64.1|  0.0|STATS |==============================================================================
-2017-01-24 23:38:03|  64.1|  0.0|STATS |Total `@Count' Invocations:                                                 51
-2017-01-24 23:38:03|  64.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:03|  64.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:03|  64.1|  0.0|INFORM|Feature output statistics for `FFS' writer using keyword `W_1':
-2017-01-24 23:38:03|  64.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:03|  64.1|  0.0|STATS |                               Features Written
-2017-01-24 23:38:03|  64.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:03|  64.1|  0.0|STATS |==============================================================================
-2017-01-24 23:38:03|  64.1|  0.0|STATS |Total Features Written                                                       0
-2017-01-24 23:38:03|  64.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:03|  64.1|  0.0|INFORM|Excel Writer: Saving changes to dataset 'C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\Data\Fylkesvegnummer.xlsx'
-2017-01-24 23:38:03|  64.1|  0.0|INFORM|Excel Writer: Closing dataset 'C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\Data\Fylkesvegnummer.xlsx'...
-2017-01-24 23:38:03|  64.1|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:03|  64.1|  0.0|INFORM|Feature output statistics for `XLSXW' writer using keyword `XLSXW_1':
-2017-01-24 23:38:03|  64.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:03|  64.1|  0.0|STATS |                               Features Written
-2017-01-24 23:38:03|  64.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:03|  64.1|  0.0|STATS |Ikke-unike nummer                                                           98
-2017-01-24 23:38:03|  64.1|  0.0|STATS |antall endres                                                               49
-2017-01-24 23:38:03|  64.1|  0.0|STATS |unike nummer                                                               322
-2017-01-24 23:38:03|  64.1|  0.0|STATS |==============================================================================
-2017-01-24 23:38:03|  64.1|  0.0|STATS |Total Features Written                                                     469
-2017-01-24 23:38:03|  64.1|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:03|  64.1|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Started outputting features
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|Creating writer for format: SpatiaLite
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `SPATIALITE'
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|FME API version of module 'SPATIALITE' matches current internal version (3.8 20160224)
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|FME Configuration: No destination coordinate system set
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|FME API version of module 'SPATIALITE' matches current internal version (3.8 20160224)
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|Writer `SPATIALITE_2' of type `SPATIALITE' using group definition keyword `SPATIALITE_2_DEF'
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|FME API version of module 'SPATIALITE' matches current internal version (3.8 20160224)
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|SPATIALITE : Directive '_ENCODING' has value 'SYSTEM'
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|SPATIALITE writer: Directive '_OVERWRITE_TABLES' has value 'Yes'
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|SPATIALITE writer: Directive '_OVERWRITE_DATASET' has value 'No'
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|SPATIALITE writer: Directive '_CREATE_SPATIAL_INDEX' has value 'Yes'
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|SPATIALITE writer: Directive '_COMPRESS_GEOMETRY' has value 'Yes'
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|SPATIALITE writer: Directive '_TRANSACTION_SIZE' has value '1000'
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|SPATIALITE writer: Feature Type Parameter 'spatialite_overwrite_tables' has value 'Yes' for feature type 'ikke_unike_nummer' 
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|SPATIALITE writer: Feature Type Parameter 'spatialite_create_spatial_index' has value 'Yes' for feature type 'ikke_unike_nummer' 
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|SPATIALITE writer: Feature Type Parameter 'spatialite_compress_geometry' has value 'Yes' for feature type 'ikke_unike_nummer' 
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|SPATIALITE writer: Feature Type Parameter 'spatialite_overwrite_tables' has value 'Yes' for feature type 'unike_nummer' 
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|SPATIALITE writer: Feature Type Parameter 'spatialite_create_spatial_index' has value 'Yes' for feature type 'unike_nummer' 
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|SPATIALITE writer: Feature Type Parameter 'spatialite_compress_geometry' has value 'Yes' for feature type 'unike_nummer' 
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|SPATIALITE writer: Opening file 'C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\Data\Fylkesvegnummer.db'
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|SPATIALITE writer: Deleting feature type 'unike_nummer'
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|SPATIALITE writer: Creating layer 'unike_nummer' with geometry type 'wkb_multi_line_xyz'
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': Writing feature 0 
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |... Last line repeated 3 times ...
-2017-01-24 23:38:03|  64.2|  0.0|INFORM|SPATIALITE writer: Creating layer 'ikke_unike_nummer' with geometry type 'wkb_multi_line_xyz'
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |... Last line repeated 2 times ...
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |... Last line repeated 3 times ...
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |... Last line repeated 2 times ...
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |... Last line repeated 9 times ...
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |... Last line repeated 3 times ...
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |... Last line repeated 3 times ...
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |... Last line repeated 13 times ...
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |... Last line repeated 7 times ...
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |... Last line repeated 15 times ...
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |... Last line repeated 28 times ...
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |... Last line repeated 2 times ...
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |... Last line repeated 18 times ...
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |... Last line repeated 13 times ...
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |... Last line repeated 4 times ...
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |... Last line repeated 7 times ...
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |... Last line repeated 3 times ...
-2017-01-24 23:38:03|  64.2|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 5 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 11 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 3 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 11 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 7 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 14 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 6 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 6 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 3 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 2 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 4 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 8 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 10 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 3 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 3 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 3 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 3 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 2 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 2 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 25 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 3 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 20 times ...
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'ikke_unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |SPATIALITE writer: Feature type 'unike_nummer' has geometry type 'wkb_multi_line_xyz' and cannot accept the current feature with a geometry of type 'wkb_geometry_collection_xyz'.  Skipping feature
-2017-01-24 23:38:03|  64.3|  0.0|WARN  |... Last line repeated 3 times ...
-2017-01-24 23:38:03|  64.3|  0.0|INFORM|SPATIALITE writer: Committing transaction of 420 features to feature types 'unike_nummer', 'ikke_unike_nummer'...
-2017-01-24 23:38:04|  64.4|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:04|  64.4|  0.0|INFORM|Feature output statistics for `SPATIALITE' writer using keyword `SPATIALITE_2':
-2017-01-24 23:38:04|  64.4|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:04|  64.4|  0.0|STATS |                               Features Written
-2017-01-24 23:38:04|  64.4|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:04|  64.4|  0.0|STATS |ikke_unike_nummer                                                           98
-2017-01-24 23:38:04|  64.4|  0.0|STATS |unike_nummer                                                               322
-2017-01-24 23:38:04|  64.4|  0.0|STATS |==============================================================================
-2017-01-24 23:38:04|  64.4|  0.0|STATS |Total Features Written                                                     420
-2017-01-24 23:38:04|  64.4|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:04|  64.4|  0.0|INFORM|MULTI_WRITER: multi_writer_id `1': done writing 420 feature(s) 
-2017-01-24 23:38:04|  64.4|  0.0|INFORM|^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-2017-01-24 23:38:04|  64.5|  0.1|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:04|  64.5|  0.0|STATS |                            Features Read Summary
-2017-01-24 23:38:04|  64.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:04|  64.5|  0.0|STATS |vegfunksjon                                                              64375
-2017-01-24 23:38:04|  64.5|  0.0|STATS |==============================================================================
-2017-01-24 23:38:04|  64.5|  0.0|STATS |Total Features Read                                                      64375
-2017-01-24 23:38:04|  64.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:04|  64.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:04|  64.5|  0.0|STATS |                           Features Written Summary
-2017-01-24 23:38:04|  64.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:04|  64.5|  0.0|STATS |Ikke-unike nummer                                                           98
-2017-01-24 23:38:04|  64.5|  0.0|STATS |antall endres                                                               49
-2017-01-24 23:38:04|  64.5|  0.0|STATS |ikke_unike_nummer                                                           98
-2017-01-24 23:38:04|  64.5|  0.0|STATS |unike nummer                                                               322
-2017-01-24 23:38:04|  64.5|  0.0|STATS |unike_nummer                                                               322
-2017-01-24 23:38:04|  64.5|  0.0|STATS |==============================================================================
-2017-01-24 23:38:04|  64.5|  0.0|STATS |Total Features Written                                                     889
-2017-01-24 23:38:04|  64.5|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-2017-01-24 23:38:04|  64.5|  0.0|INFORM|Translation was SUCCESSFUL with 174 warning(s) (889 feature(s) output)
-2017-01-24 23:38:04|  64.5|  0.0|INFORM|FME Session Duration: 1 minute 44.3 seconds. (CPU: 59.8s user, 4.5s system)
-2017-01-24 23:38:04|  64.5|  0.0|INFORM|END - ProcessID: 1332, peak process memory usage: 1106836 kB, current process memory usage: 280832 kB
+2017-01-25 19:11:05| 701.5| 31.7|INFORM|InlineQuerier(InlineQueryFactory): Wrote 88200 features to output 'PFV'
+2017-01-25 19:11:13| 709.4|  8.0|INFORM|FeatureMerger(ReferenceFactory): Processing requestors: Completed 68.83% of intermediate processing
+2017-01-25 19:11:15| 711.5|  2.1|INFORM|FeatureMerger(ReferenceFactory): Processing requestors: Completed 100% of intermediate processing
+2017-01-25 19:11:15| 711.5|  0.0|STATS |FeatureMerger(ReferenceFactory): Total Results: 74442 Complete Feature(s), 103219 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 87709 Duplicate Referencee Feature(s)
+2017-01-25 19:11:50| 747.3| 35.7|STATS |Aggregator_2(AggregateFactory): Combined 177661 input feature(s) into 10427 output feature(s), including 0 singleton(s)
+2017-01-25 19:12:04| 761.1| 13.8|STATS |Aggregator(AggregateFactory): Combined 10427 input feature(s) into 3895 output feature(s), including 0 singleton(s)
+2017-01-25 19:12:04| 761.1|  0.0|INFORM|Matcher(MatchingFactory): Upper bound on the number of comparisons is 7585512. Fewer comparisons may be made, and the worst case will not exceed this upper bound
+2017-01-25 19:12:04| 761.1|  0.0|INFORM|Matcher(MatchingFactory): Processing comparison #1
+2017-01-25 19:12:06| 762.6|  1.5|STATS |Matcher(MatchingFactory): Found 788 matching group(s) of features in 3895 input feature(s). 149 feature(s) did not have any matches
+2017-01-25 19:12:06| 762.6|  0.0|STATS |Matcher MATCHED Splitter(TeeFactory): Cloned 3746 input feature(s) into 11238 output feature(s)
+2017-01-25 19:12:06| 762.6|  0.0|STATS |Matcher NOT_MATCHED Splitter(TeeFactory): Cloned 149 input feature(s) into 298 output feature(s)
+2017-01-25 19:12:06| 762.6|  0.0|STATS |AttributeRenamer_2 (Disabled) Nuker(TeeFactory): Cloned 149 input feature(s) into 0 output feature(s)
+2017-01-25 19:12:06| 762.6|  0.0|STATS |AttributeRenamer_2_OUTPUT_0_XZPnkgk0+40= Disabled Nuker -1 72(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:12:06| 762.6|  0.0|STATS |AttributeRenamer_2_OUTPUT_1_/5K/VQuHWx4= Disabled Nuker -1 73(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:12:06| 762.6|  0.0|STATS |AttributeRenamer_2_OUTPUT_2_PDMlvyoqpQA= Disabled Nuker -1 74(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:12:06| 762.6|  0.0|STATS |Unike_vegnummer (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:12:06| 762.6|  0.0|STATS |Aggregator_3 (Disabled) Nuker(TeeFactory): Cloned 3746 input feature(s) into 0 output feature(s)
+2017-01-25 19:12:06| 762.6|  0.0|STATS |AttributeManager (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:12:06| 762.6|  0.0|STATS |AttributeRenamer (Disabled) Nuker(TeeFactory): Cloned 3746 input feature(s) into 0 output feature(s)
+2017-01-25 19:12:06| 762.6|  0.0|STATS |AttributeRenamer_OUTPUT_0_JV5u6+unT2I= Disabled Nuker -1 57(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:12:06| 762.6|  0.0|STATS |AttributeRenamer_OUTPUT_1_zxgSiKgnAxI= Disabled Nuker -1 59(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:12:06| 762.6|  0.0|STATS |AttributeRenamer_OUTPUT_2_Abm2A8Mv9q0= Disabled Nuker -1 47(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:12:06| 762.6|  0.0|STATS |Ikke-unike_vegnummer (Disabled) Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:12:06| 762.6|  0.0|STATS |Fylkesveger(TeeFactory): Cloned 3895 input feature(s) into 3895 output feature(s)
+2017-01-25 19:12:06| 762.6|  0.0|STATS |Fylkesveger Output Splitter(TeeFactory): Cloned 3895 input feature(s) into 7790 output feature(s)
+2017-01-25 19:12:15| 772.3|  9.7|STATS |Aggregator_4(AggregateFactory): Combined 3895 input feature(s) into 937 output feature(s), including 0 singleton(s)
+2017-01-25 19:12:15| 772.3|  0.0|INFORM|Creating writer for format: Microsoft Excel
+2017-01-25 19:12:15| 772.3|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `XLSXW'
+2017-01-25 19:12:15| 772.3|  0.0|INFORM|Loaded module 'XLSXW' from file 'C:\Program Files\FME2016.1\64\plugins/xlsx.dll'
+2017-01-25 19:12:15| 772.3|  0.0|INFORM|FME API version of module 'XLSXW' matches current internal version (3.8 20160224)
+2017-01-25 19:12:15| 772.3|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2017-01-25 19:12:15| 772.3|  0.0|INFORM|FME API version of module 'XLSXW' matches current internal version (3.8 20160224)
+2017-01-25 19:12:15| 772.3|  0.0|INFORM|Writer `XLSXW_1' of type `XLSXW' using group definition keyword `XLSXW_1_DEF'
+2017-01-25 19:12:15| 772.3|  0.0|INFORM|FME API version of module 'XLSXW' matches current internal version (3.8 20160224)
+2017-01-25 19:12:15| 772.3|  0.0|INFORM|Excel Writer: Use Attribute Names As Column Positions is set to 'no' for sheet 'Fylkesveger' in dataset 'C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\Data\Fylkesvegnummer.xlsx' 
+2017-01-25 19:12:15| 772.3|  0.0|INFORM|FME Configuration: Destination coordinate system set to input coordinate system `EPSG:6173'
+2017-01-25 19:12:15| 772.3|  0.0|INFORM|Excel Writer: Deleted existing destination file 'C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\Data\Fylkesvegnummer.xlsx'
+2017-01-25 19:12:15| 772.3|  0.0|INFORM|Excel Writer: Opening dataset 'C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\Data\Fylkesvegnummer.xlsx'...
+2017-01-25 19:12:15| 772.3|  0.0|INFORM|Excel Writer: Sheet 'Fylkesveger' has writer mode 'INSERT'
+2017-01-25 19:12:15| 772.3|  0.0|INFORM|Excel Writer: Sheet 'Fylkesveger' has Output field names set to 'yes'
+2017-01-25 19:12:15| 772.3|  0.0|INFORM|Excel Writer: Sheet 'Fylkesveger' will start writing to row '1' and column '1' relative to its start location. Sheets have a starting location of row 1, column 1, named range starting locations can be specified
+2017-01-25 19:12:15| 772.3|  0.0|INFORM|Excel Writer: Outputting field names for sheet 'Fylkesveger'
+2017-01-25 19:12:20| 776.5|  4.2|INFORM|FeatureMerger_2(ReferenceFactory): Processing requestors: Completed 92.42% of intermediate processing
+2017-01-25 19:12:20| 776.9|  0.4|INFORM|FeatureMerger_2(ReferenceFactory): Processing requestors: Completed 100% of intermediate processing
+2017-01-25 19:12:22| 779.3|  2.4|STATS |FeatureMerger_2(ReferenceFactory): Total Results: 3895 Complete Feature(s), 0 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2017-01-25 19:12:22| 779.3|  0.0|STATS |TestFilter_2(TeeFactory): Cloned 3895 input feature(s) into 3895 output feature(s)
+2017-01-25 19:12:22| 779.3|  0.0|STATS |TestFilter_2_TestFactory_0(TestFactory): Tested 3895 input feature(s) -- 491 feature(s) passed and 3404 feature(s) failed
+2017-01-25 19:12:22| 779.3|  0.0|STATS |TestFilter_2_<lt>UNFILTERED<gt>(TeeFactory): Cloned 3404 input feature(s) into 3404 output feature(s)
+2017-01-25 19:12:22| 779.3|  0.0|STATS |TestFilter_2 Prim<u00e6>re<space>fylkesveger Splitter(TeeFactory): Cloned 491 input feature(s) into 982 output feature(s)
+2017-01-25 19:12:22| 779.5|  0.2|STATS |Aggregator_5(AggregateFactory): Combined 491 input feature(s) into 423 output feature(s), including 0 singleton(s)
+2017-01-25 19:12:24| 780.9|  1.4|STATS |FeatureMerger_3(ReferenceFactory): Total Results: 491 Complete Feature(s), 0 Incomplete Feature(s), 0 Referenced Feature(s), 0 Unreferenced Feature(s), 0 Referencer Feature(s) (NO REFERENCES), 0 Referencee Feature(s) (NO Referencee fields defined), and 0 Duplicate Referencee Feature(s)
+2017-01-25 19:12:24| 780.9|  0.0|STATS |Destination Feature Type Routing Correlator(RoutingFactory): Tested 3895 input feature(s), wrote 3895 output feature(s): 0 matched merge filters, 3895 were routed to output, 0 could not be routed.
+2017-01-25 19:12:24| 780.9|  0.0|STATS |Final Output Nuker(TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2017-01-25 19:12:24| 780.9|  0.0|STATS |f_171(CreationFactory): Created 1 features
+2017-01-25 19:12:24| 780.9|  0.0|STATS |f_172(TeeFactory): Cloned 1 input feature(s) into 0 output feature(s)
+2017-01-25 19:12:24| 780.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-01-25 19:12:24| 780.9|  0.0|STATS |                            `Count' Domain Summary
+2017-01-25 19:12:24| 780.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-01-25 19:12:24| 780.9|  0.0|STATS |Matcher                                                                    788
+2017-01-25 19:12:24| 780.9|  0.0|STATS |counter (range was 1 to 21)                                                 20
+2017-01-25 19:12:24| 780.9|  0.0|STATS |==============================================================================
+2017-01-25 19:12:24| 780.9|  0.0|STATS |Total `@Count' Invocations:                                                808
+2017-01-25 19:12:24| 780.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-01-25 19:12:24| 780.9|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-01-25 19:12:24| 780.9|  0.0|INFORM|Feature output statistics for `FFS' writer using keyword `W_1':
+2017-01-25 19:12:24| 780.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-01-25 19:12:24| 780.9|  0.0|STATS |                               Features Written
+2017-01-25 19:12:24| 780.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-01-25 19:12:24| 780.9|  0.0|STATS |==============================================================================
+2017-01-25 19:12:24| 780.9|  0.0|STATS |Total Features Written                                                       0
+2017-01-25 19:12:24| 780.9|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-01-25 19:12:24| 780.9|  0.0|INFORM|Excel Writer: Saving changes to dataset 'C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\Data\Fylkesvegnummer.xlsx'
+2017-01-25 19:12:24| 781.0|  0.1|INFORM|Excel Writer: Closing dataset 'C:\DATA\GitHub\VegnettKvalitet\Fylkesvegnummer\Data\Fylkesvegnummer.xlsx'...
+2017-01-25 19:12:24| 781.0|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-01-25 19:12:24| 781.0|  0.0|INFORM|Feature output statistics for `XLSXW' writer using keyword `XLSXW_1':
+2017-01-25 19:12:24| 781.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-01-25 19:12:24| 781.0|  0.0|STATS |                               Features Written
+2017-01-25 19:12:24| 781.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-01-25 19:12:24| 781.0|  0.0|STATS |Fylkesveger                                                               3895
+2017-01-25 19:12:24| 781.0|  0.0|STATS |==============================================================================
+2017-01-25 19:12:24| 781.0|  0.0|STATS |Total Features Written                                                    3895
+2017-01-25 19:12:24| 781.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-01-25 19:12:24| 781.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-01-25 19:12:24| 781.0|  0.0|STATS |                            Features Read Summary
+2017-01-25 19:12:24| 781.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-01-25 19:12:24| 781.0|  0.0|STATS |vegfunksjon                                                              64375
+2017-01-25 19:12:24| 781.0|  0.0|STATS |==============================================================================
+2017-01-25 19:12:24| 781.0|  0.0|STATS |Total Features Read                                                      64375
+2017-01-25 19:12:24| 781.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-01-25 19:12:24| 781.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-01-25 19:12:24| 781.0|  0.0|STATS |                           Features Written Summary
+2017-01-25 19:12:24| 781.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-01-25 19:12:24| 781.0|  0.0|STATS |Fylkesveger                                                               3895
+2017-01-25 19:12:24| 781.0|  0.0|STATS |==============================================================================
+2017-01-25 19:12:24| 781.0|  0.0|STATS |Total Features Written                                                    3895
+2017-01-25 19:12:24| 781.0|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2017-01-25 19:12:24| 781.1|  0.0|INFORM|Translation was SUCCESSFUL with 6 warning(s) (3895 feature(s) output)
+2017-01-25 19:12:24| 781.1|  0.0|INFORM|FME Session Duration: 21 minutes 51.4 seconds. (CPU: 738.6s user, 42.2s system)
+2017-01-25 19:12:24| 781.1|  0.0|INFORM|END - ProcessID: 13032, peak process memory usage: 9482940 kB, current process memory usage: 404348 kB
